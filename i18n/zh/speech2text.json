@@ -1,0 +1,8 @@
+{
+    "speech.categoryName": "语音识别",
+    "speech.defaultWhenIHearValue": "开始",
+    "speech.extensionName": "语音识别",
+    "speech.listenAndWait": "听候语音输入",
+    "speech.speechReporter": "语音输入",
+    "speech.whenIHear": "当听到[PHRASE]"
+}

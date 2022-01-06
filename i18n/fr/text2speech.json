@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "contralto",
+  "text2speech.categoryName": "Synthèse vocale",
+  "text2speech.defaultTextToSpeak": "Bonjour",
+  "text2speech.giant": "géant",
+  "text2speech.kitten": "chaton",
+  "text2speech.setLanguageBlock": "définir la langue pour [LANGUAGE]",
+  "text2speech.setVoiceBlock": "voix de définir à [VOICE]",
+  "text2speech.speakAndWaitBlock": "parler [WORDS]",
+  "text2speech.squeak": "grincement",
+  "text2speech.tenor": "ténor"
+}

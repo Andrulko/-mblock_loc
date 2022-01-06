@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Gjenkjennelses vindu",
+  "COGNITIVE.WINDOW.OPENED": "Gjenkjenningsvinduet er åpent.",
+  "COGNITIVE.WINDOW.NOOPENED": "Ingen gjenkjenningsvinduer er åpne. Vennligst åpne vinduet.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Ingen kamera kan detekteres.",
+  "COGNITIVE.VIDEO.NOOPEN": "Kameraet er ikke slått på.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Ingen mikrofon kan ikke detekteres.",
+  "COGNITIVE.AUDIO.NOOPEN": "Mikrofonen er ikke slått på.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Inntasting via talegjenkjenning..."
+}

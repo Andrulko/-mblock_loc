@@ -1,0 +1,21 @@
+{
+  "pen.name": "畫筆",
+  "pen.categoryName": "畫筆",
+  "pen.colorMenu.color": "顏色",
+  "pen.colorMenu.saturation": "飽和度",
+  "pen.colorMenu.brightness": "明度",
+  "pen.colorMenu.transparency": "透明度",
+  "pen.clear": "刪除全部",
+  "pen.stamp": "蓋章",
+  "pen.penDown": "下筆",
+  "pen.penUp": "停筆",
+  "pen.setColor": "設定畫筆顏色為 [COLOR]",
+  "pen.changeColorParam": "將畫筆 [COLOR_PARAM] 改變 [VALUE]",
+  "pen.setColorParam": "設定畫筆 [COLOR_PARAM] 為 [VALUE]",
+  "pen.changeSize": "將畫筆粗細增加 [SIZE]",
+  "pen.setSize": "設定畫筆粗細為 [SIZE]",
+  "pen.setShade": "筆跡亮度設為 [SHADE]",
+  "pen.changeShade": "筆跡亮度改變 [SHADE]",
+  "pen.setHue": "設定畫筆顏色為 [HUE]",
+  "pen.changeHue": "將畫筆顏色改變 [HUE]"
+}

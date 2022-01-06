@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Pengenalan Window",
+  "COGNITIVE.WINDOW.OPENED": "Window pengenalan terbuka.",
+  "COGNITIVE.WINDOW.NOOPENED": "Tidak ada pengenalan window terbuka. Tolong buka window.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Tidak ada kamera yang dapat dideteksi.",
+  "COGNITIVE.VIDEO.NOOPEN": "Kamera Anda tidak diaktifkan.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Tidak ada mikrofon yang di temukan.",
+  "COGNITIVE.AUDIO.NOOPEN": "Mikrofon Anda tidak diaktifkan.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Memasukkan obrolan melalui pengenalan..."
+}

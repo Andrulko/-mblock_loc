@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "Альто",
+  "text2speech.categoryName": "Текст к речи",
+  "text2speech.defaultTextToSpeak": "привет",
+  "text2speech.giant": "Гигантские",
+  "text2speech.kitten": "Котенок",
+  "text2speech.setLanguageBlock": "установить язык для [LANGUAGE]",
+  "text2speech.setVoiceBlock": "установить голос, чтобы [VOICE]",
+  "text2speech.speakAndWaitBlock": "Говорить [WORDS]",
+  "text2speech.squeak": "Писк",
+  "text2speech.tenor": "Тенор"
+}

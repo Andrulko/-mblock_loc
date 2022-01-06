@@ -1,0 +1,9 @@
+{
+  "codey_upload_mode_message": "Transmitir mensajes en Modo de carga",
+  "extensionName": "Transmitir mensajes en Modo de carga",
+  "SendUploadModeMessage": "envía mensaje de modo de carga [message]",
+  "SendUploadModeMessageWithValue": "enviar mensaje de modo de carga [message]con valor [value]",
+  "whenReceivingUploadModeMessage ": "al recibir el mensaje del modo de carga[message]",
+  "UploadModeMessageValue": "mensaje del modo de carga[message]Valor",
+  "extensionDescription": "Con esta extensión, el dispositivo puede interactuar con sprites cuando el modo de carga está activado."
+}

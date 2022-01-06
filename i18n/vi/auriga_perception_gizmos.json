@@ -1,0 +1,20 @@
+{
+  "extensionName": "Cảm biến Gizmos",
+  "extensionDescription": "Trong các dự án mở rộng 2 mBot Ranger, bạn sẽ học cách sử dụng các cảm biến trong cuộc sống hàng ngày và đạt được một sự hiểu biết tốt hơn về thiết bị điện tử. ",
+  "CATEGORY_PERCEPTION": "Cảm biến Gizmos",
+  "auriga_perception_gizmos": "Cảm biến Gizmos",
+  "auriga_detect_potentiometer": "[ICON] đo điện thế [PORT] giá trị",
+  "auriga_detec_temperature": "[ICON] giá trị của cảm biến nhiệt độ [PORT] [SLOT] (° c)",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_1": "vị trí 2",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_0": "vị trí 1",
+  "auriga_detect_external_loudness": "[ICON] cảm biến âm thanh [PORT] độ ồn",
+  "auriga_run_fan": "[ICON] quạt [PORT] [FAN_ROTATE] Quay",
+  "AURIGA_RUN_FAN_FAN_ROTATE_2": "dừng",
+  "AURIGA_RUN_FAN_FAN_ROTATE_1": "ngược kim đồng hồ",
+  "AURIGA_RUN_FAN_FAN_ROTATE_0": "chiều kim đồng hồ",
+  "AURIGA_RUN_FAN_PORT_4": "port10",
+  "AURIGA_RUN_FAN_PORT_3": "port9",
+  "AURIGA_RUN_FAN_PORT_2": "port8",
+  "AURIGA_RUN_FAN_PORT_1": "port7",
+  "AURIGA_RUN_FAN_PORT_0": "port6"
+}

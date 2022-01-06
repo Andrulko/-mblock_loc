@@ -1,0 +1,11 @@
+{
+  "connect_success": "Ja connectat a Google Sheets",
+  "googlesheet": "Google Sheets",
+  "extensionName": "Google Sheets",
+  "extensionDescription": "Amb aquesta extensió pots introduir dades als fulls de Google amb mBlock (només disponible a les àrees de serveis de Google).",
+  "BLOCK_1552896553516": "connecta't a un full compartit [url]",
+  "BLOCK_1552896647935": "entra [value] a la columta [col] i fila [row]",
+  "BLOCK_1552896647936": "llegeix el valor de la ceŀla a la columna [col] i fila [row]",
+  "cate_14037d5c": "Google Sheets",
+  "connect_fail": "Ha fallat la connexió. Consulta la xarxa i l'autorització de Google Sheets"
+}

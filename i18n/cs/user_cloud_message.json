@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "Cloudové vysílání",
+  "extensionName": "Zpráva uživatele v cloudu",
+  "SEND_CLOUD_MSG": "poslat cloudovou zprávu [message]",
+  "SEND_CLOUD_MSG_VALUE": "odeslat uživateli cloudovou zprávu [message] s hodnotou [value]",
+  "WHEN_RECEIVE_CLOUD_MSG": "při příjmu zprávy [message]",
+  "GET_CLOUD_MSG_VALUE": "zpráva z cloudu[message]hodnoty",
+  "cloud": "Cloudové vysílání",
+  "use_cloud_messenge": "Zpráva uživatele v cloudu",
+  "CATE_U_C_MSG": "Zpráva uživatele v cloudu",
+  "extensionDescription": "S rozšířením pro uživatelské cloudové zprávy můžete snadno synchronizovat data vašeho účtu napříč různými zařízeními a projekty.   ",
+  "SEND_USER_CLOUD_MSG": "poslat uživateli cloudovou zprávu [message]",
+  "SEND_USER_CLOUD_MSG_VALUE": "odeslat uživateli cloudovou zprávu [message] s hodnotou [value]",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "při příjmu uživatelské cloudové zprávy [message]",
+  "GET_USER_CLOUD_MSG_VALUE": "uživatelská zpráva z cloudu[message] hodnoty",
+  "user_cloud_message": "Zpráva uživatele v cloudu",
+  "SEND_USER_CLOUD_MSG_WAIT": "odeslat uživateli cloudovou zprávus hodnotou [message] a čekej",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "odeslat uživateli cloudovou zprávu [message] s hodnotou [value] a čekej"
+}

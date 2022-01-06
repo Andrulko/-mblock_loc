@@ -1,0 +1,21 @@
+{
+  "audio_player_rj25": "مشغل الصوت",
+  "extensionName": "مشغل الصوت",
+  "audioplayer_init": "تهيئة مشغل الصوت في: أي منفذ أبيض (I2C)",
+  "audioplayer_play_by_name": "مشغل الصوت: تشغيل ملف الصوت المسمى [FILE_NAME]",
+  "audioplayer_record_stop": "مشغل الصوت: إيقاف التسجيل",
+  "audioplayer_record": "مشغل الصوت: بدء التسجيل وحفظ ل [FILE_NAME]",
+  "audioplayer_volume_down": "مشغل الصوت: خفض مستوى الصوت",
+  "audioplayer_volume_up": "مشغل الصوت: رفع مستوى الصوت",
+  "audioplayer_set_volume": "مشغل الصوت: تعيين مستوى الصوت إلى [VOLUME] %",
+  "audioplayer_stop": "مشغل الصوت: توقف عن اللعب",
+  "audioplayer_play_by_sn": "مشغل الصوت: شغل [FILE_SN] ملف صوتي",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "مفرد",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "حلقة",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "ترتيب",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "المراوغه",
+  "audioplayer_set_play_mode": "مشغل الصوت: تعيين الوضع إلى [PLAY_MODE]",
+  "audioplayer_play_previous": "مشغل الصوت: تشغيل ملف الصوت السابق",
+  "audioplayer_play_next": "مشغل الصوت: تشغيل ملف الصوت التالي",
+  "audioplayer_pause": "مشغل الصوت: إيقاف مؤقت/متابعة"
+}

@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Metne konuşma",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "Metne konuşma",
+  "speech.listenAndWait": "Dinle ve bekle",
+  "speech.speechReporter": "Konuşma",
+  "speech.whenIHear": "Ben duydum [PHRASE]"
+}

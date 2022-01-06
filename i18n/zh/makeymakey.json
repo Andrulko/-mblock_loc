@@ -1,0 +1,14 @@
+{
+    "makeymakey.categoryName": "组合按键",
+    "makeymakey.downArrow": "↓",
+    "makeymakey.downArrowShort": "下",
+    "makeymakey.leftArrow": "←",
+    "makeymakey.leftArrowShort": "左",
+    "makeymakey.rightArrow": "→",
+    "makeymakey.rightArrowShort": "右",
+    "makeymakey.spaceKey": "空格",
+    "makeymakey.upArrow": "↑",
+    "makeymakey.upArrowShort": "上",
+    "makeymakey.whenKeyPressed": "当按下 [KEY] 键",
+    "makeymakey.whenKeysPressedInOrder": "当依次按下[SEQUENCE]键时"
+}

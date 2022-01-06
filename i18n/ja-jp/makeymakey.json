@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "したむきやじるし",
+  "makeymakey.downArrowShort": "した",
+  "makeymakey.leftArrow": "ひだりむきやじるし",
+  "makeymakey.leftArrowShort": "ひだり",
+  "makeymakey.rightArrow": "みぎむきやじるし",
+  "makeymakey.rightArrowShort": "みぎ",
+  "makeymakey.spaceKey": "スペース",
+  "makeymakey.upArrow": "うえむきやじるし",
+  "makeymakey.upArrowShort": "うえ",
+  "makeymakey.whenKeyPressed": "[KEY] キーがおされたとき",
+  "makeymakey.whenKeysPressedInOrder": "[SEQUENCE] がじゅんばんにおされたとき"
+}

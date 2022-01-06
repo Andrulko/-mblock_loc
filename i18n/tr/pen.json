@@ -1,0 +1,21 @@
+{
+  "pen.name": "Kalem",
+  "pen.categoryName": "Kalem",
+  "pen.colorMenu.color": "renk",
+  "pen.colorMenu.saturation": "doygunluk",
+  "pen.colorMenu.brightness": "parlaklık",
+  "pen.colorMenu.transparency": "şeffaflık",
+  "pen.clear": "tümünü Sil",
+  "pen.stamp": "iz bırak",
+  "pen.penDown": "kalemi bastır",
+  "pen.penUp": "kalemi kaldır",
+  "pen.setColor": "kalem rengini [COLOR] yap",
+  "pen.changeColorParam": "[COLOR_PARAM] değerini [VALUE] değiştir",
+  "pen.setColorParam": "[COLOR_PARAM] değerini [VALUE] yap",
+  "pen.changeSize": "kalem kalınlığını [SIZE] değiştir",
+  "pen.setSize": "kalem kalınlığını [SIZE] yap",
+  "pen.setShade": "kalem tonunu [SHADE] yap",
+  "pen.changeShade": "kalem tonunu [SHADE] değiştir",
+  "pen.setHue": "kalem rengini [HUE] yap",
+  "pen.changeHue": "kalem rengini [HUE] değiştir"
+}

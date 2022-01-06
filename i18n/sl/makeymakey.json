@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "puščica dol",
+  "makeymakey.downArrowShort": "down",
+  "makeymakey.leftArrow": "puščica levo",
+  "makeymakey.leftArrowShort": "left",
+  "makeymakey.rightArrow": "puščica desno",
+  "makeymakey.rightArrowShort": "right",
+  "makeymakey.spaceKey": "Presledek",
+  "makeymakey.upArrow": "puščica gor",
+  "makeymakey.upArrowShort": "up",
+  "makeymakey.whenKeyPressed": "when [KEY] key pressed",
+  "makeymakey.whenKeysPressedInOrder": "when [SEQUENCE] pressed in order"
+}

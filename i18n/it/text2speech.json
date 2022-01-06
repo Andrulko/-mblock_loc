@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "Sintesi vocale",
+  "text2speech.defaultTextToSpeak": "ciao",
+  "text2speech.giant": "gigante",
+  "text2speech.kitten": "gattino",
+  "text2speech.setLanguageBlock": "imposta la lingua a [LANGUAGE]",
+  "text2speech.setVoiceBlock": "imposta voce a [VOICE]",
+  "text2speech.speakAndWaitBlock": "parlare [WORDS]",
+  "text2speech.squeak": "spremere",
+  "text2speech.tenor": "tenore"
+}

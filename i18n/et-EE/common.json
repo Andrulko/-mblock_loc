@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Tuvastuse aken",
+  "COGNITIVE.WINDOW.OPENED": "Tuvastsue aken on avatud.",
+  "COGNITIVE.WINDOW.NOOPENED": "Tuvastuse aken pole avatud. Palun ava tuvastuse aken.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Kaamerat ei suudetud tuvastada.",
+  "COGNITIVE.VIDEO.NOOPEN": "Kaamera ei ole sisse lülitatud.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Mikrofoni ei suudetud tuvastada.",
+  "COGNITIVE.AUDIO.NOOPEN": "Mikrofon ei ole sisse lülitatud.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Sisestus kõnetuvastuse kaudu..."
+}

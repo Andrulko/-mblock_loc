@@ -1,0 +1,10 @@
+{
+  "sprite_broadcast": "Igotzeko moduaren emisioa",
+  "extensionName": "Igotzeko moduaren emisioa",
+  "extensionDescription": "Luzapen hau gehitzean, mezuak bidal ditzakezu gailu eta grafiko animatuen artean, elkar eragin dezaten.",
+  "BLOCK_1546412605792": "karga-moduaren mezua bidaltzen du [MESSAGE]",
+  "BLOCK_1546413597853": "[MESSAGE] kargatze-moduaren mezua bidaltzen du [VALUE] balioarekin",
+  "BLOCK_1546413700881": "karga-moduaren mezua jasotzen duenean [MESSAGE]",
+  "BLOCK_1546415356012": "karga-mezuaren balioa [MESSAGE]",
+  "cate_sprite_broadcast": "Igotzeko moduaren emisioa"
+}

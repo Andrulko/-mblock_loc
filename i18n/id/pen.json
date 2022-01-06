@@ -1,0 +1,21 @@
+{
+  "pen.name": "Pena",
+  "pen.categoryName": "Pena",
+  "pen.colorMenu.color": "warna",
+  "pen.colorMenu.saturation": "saturasi",
+  "pen.colorMenu.brightness": "kecerahan",
+  "pen.colorMenu.transparency": "transparansi",
+  "pen.clear": "hapus semua",
+  "pen.stamp": "stempel",
+  "pen.penDown": "pena turun",
+  "pen.penUp": "pena ke atas",
+  "pen.setColor": "ubah warna pena ke [COLOR]",
+  "pen.changeColorParam": "ubah pena [COLOR_PARAM] menurut [VALUE]",
+  "pen.setColorParam": "atur pena [COLOR_PARAM] ke [VALUE]",
+  "pen.changeSize": "ubah ukuran pena menjadi [SIZE]",
+  "pen.setSize": "atur ukuran pena ke [SIZE]",
+  "pen.setShade": "atur bayangan pena ke [SHADE]",
+  "pen.changeShade": "ubah shade pena menjadi [SHADE]",
+  "pen.setHue": "atur warna pena ke [HUE]",
+  "pen.changeHue": "ubah warna pena menjadi [HUE]"
+}

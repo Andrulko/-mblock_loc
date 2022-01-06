@@ -1,0 +1,9 @@
+{
+  "codey_upload_mode_message": "بث وضع التحميل",
+  "extensionName": "بث وضع التحميل",
+  "SendUploadModeMessage": "إرسال رسالة وضع التحميل[message]",
+  "SendUploadModeMessageWithValue": "إرسال رسالة وضع التحميل [message]مع قيمة [value]",
+  "whenReceivingUploadModeMessage ": "عند تلقي رسالة وضع التحميل[message]",
+  "UploadModeMessageValue": "رسالة وضع التحميل[message]قيمه",
+  "extensionDescription": "باستخدام هذا الملحق، يمكن للجهاز التفاعل مع المؤشر عند تشغيل وضع التحميل."
+}

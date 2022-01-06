@@ -1,0 +1,21 @@
+{
+  "audio_player_rj25": "オーディオプレーヤー",
+  "extensionName": "オーディオプレーヤー",
+  "audioplayer_init": "オーディオプレーヤーのしょきか：にんいのホワイトポート (I2C)",
+  "audioplayer_play_by_name": "オーディオプレーヤー：[FILE_NAME] のオーディオファイルをさいせいする",
+  "audioplayer_record_stop": "オーディオプレーヤー：ろくおんをていしする",
+  "audioplayer_record": "オーディオプレーヤー：ろくおんをかいしして[FILE_NAME] にほぞんする",
+  "audioplayer_volume_down": "オーディオプレーヤー：おんりょうをさげる",
+  "audioplayer_volume_up": "オーディオプレーヤー：おんりょうをあげる",
+  "audioplayer_set_volume": "オーディオプレーヤー：おんりょうを [VOLUME] %にせっていする",
+  "audioplayer_stop": "オーディオプレーヤー：さいせいをていしする",
+  "audioplayer_play_by_sn": "オーディオプレーヤー：オーディオファイル[FILE_SN] をさいせいする",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "1きょくさいせい",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "ループさいせい",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "じゅんばんさいせい",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "シャッフルさいせい",
+  "audioplayer_set_play_mode": "オーディオプレーヤー：さいせいモードを [PLAY_MODE] にせっていする",
+  "audioplayer_play_previous": "オーディオプレーヤー：まえのオーディオファイルをさいせいする",
+  "audioplayer_play_next": "オーディオプレーヤー：つぎのオーディオファイルをさいせいする",
+  "audioplayer_pause": "オーディオプレーヤー：いちじていし/さいせい"
+}

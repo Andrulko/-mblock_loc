@@ -1,0 +1,21 @@
+{
+  "pen.name": "Πένα",
+  "pen.categoryName": "Πένα",
+  "pen.colorMenu.color": "χρώμα",
+  "pen.colorMenu.saturation": "κορεσμός",
+  "pen.colorMenu.brightness": "φωτεινότητα",
+  "pen.colorMenu.transparency": "διαφάνεια",
+  "pen.clear": "erase all",
+  "pen.stamp": "σφραγίδα\n",
+  "pen.penDown": "κατέβασε την πένα",
+  "pen.penUp": "σήκωσε την πένα",
+  "pen.setColor": "όρισε το χρώμα πένας σε [COLOR]",
+  "pen.changeColorParam": "αλλαγή πένας [COLOR_PARAM] κατά [VALUE]",
+  "pen.setColorParam": "ορισμός πένας [COLOR_PARAM] κατά [VALUE]",
+  "pen.changeSize": "αλλαγή μεγέθους πένας κατά [SIZE]",
+  "pen.setSize": "ορισμός μεγέθους πένας σε [SIZE]",
+  "pen.setShade": "ορισμός σκίασης πένας για [SHADE]",
+  "pen.changeShade": "αλλαγή σκίασης πένας κατά [SHADE]",
+  "pen.setHue": "ορισμός χρώματος πένας σε [HUE]",
+  "pen.changeHue": "αλλαγή χρώματος πένας κατά [HUE]"
+}

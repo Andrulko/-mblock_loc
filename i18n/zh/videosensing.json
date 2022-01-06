@@ -1,0 +1,14 @@
+{
+    "videoSensing.categoryName": "视频侦测",
+    "videoSensing.direction": "方向",
+    "videoSensing.motion": "运动",
+    "videoSensing.off": "关闭",
+    "videoSensing.on": "开启",
+    "videoSensing.onFlipped": "镜像开启",
+    "videoSensing.setVideoTransparency": "将视频透明度设为[TRANSPARENCY]",
+    "videoSensing.sprite": "角色",
+    "videoSensing.stage": "舞台",
+    "videoSensing.videoOn": "相对于[SUBJECT]的视频[ATTRIBUTE]",
+    "videoSensing.videoToggle": "[VIDEO_STATE]摄像头",
+    "videoSensing.whenMotionGreaterThan": "当视频运动 > [REFERENCE]"
+}

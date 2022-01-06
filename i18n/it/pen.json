@@ -1,0 +1,21 @@
+{
+  "pen.name": "Penna",
+  "pen.categoryName": "Penna",
+  "pen.colorMenu.color": "colore",
+  "pen.colorMenu.saturation": "saturazione",
+  "pen.colorMenu.brightness": "luminosità",
+  "pen.colorMenu.transparency": "trasparenza",
+  "pen.clear": "elimina tutto",
+  "pen.stamp": "timbra",
+  "pen.penDown": "penna giù",
+  "pen.penUp": "penna su",
+  "pen.setColor": "usa penna di colore [COLOR]",
+  "pen.changeColorParam": "cambia [COLOR_PARAM] di [VALUE]",
+  "pen.setColorParam": "usa [COLOR_PARAM] di [VALUE]",
+  "pen.changeSize": "cambia dimensione della penna di [SIZE]",
+  "pen.setSize": "usa penna di dimensione [SIZE]",
+  "pen.setShade": "usa luminosità penna a [SHADE]",
+  "pen.changeShade": "cambia luminosità penna a [SHADE]",
+  "pen.setHue": "usa penna di colore [HUE]",
+  "pen.changeHue": "cambia il colore penna di [HUE]"
+}

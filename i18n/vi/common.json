@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Cửa sổ nhận dạng",
+  "COGNITIVE.WINDOW.OPENED": "Cửa sổ nhận dạng đang mở.",
+  "COGNITIVE.WINDOW.NOOPENED": "Không có cửa sổ nhận dạng nào được mở. Vui lòng mở cửa sổ.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Không thể phát hiện máy ảnh.",
+  "COGNITIVE.VIDEO.NOOPEN": "Camera của bạn chưa sẵn sàng",
+  "COGNITIVE.AUDIO.NOTFOUND": "Không thể phát hiện micrô.",
+  "COGNITIVE.AUDIO.NOOPEN": "Micrô của bạn chưa được bật.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Nhập vào qua nhận dạng giọng nói..."
+}

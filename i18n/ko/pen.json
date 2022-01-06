@@ -1,0 +1,21 @@
+{
+  "pen.name": "펜",
+  "pen.categoryName": "펜",
+  "pen.colorMenu.color": "색깔",
+  "pen.colorMenu.saturation": "채도",
+  "pen.colorMenu.brightness": "밝기",
+  "pen.colorMenu.transparency": "투명도",
+  "pen.clear": "전체 삭제",
+  "pen.stamp": "도장찍기",
+  "pen.penDown": "펜 내리기",
+  "pen.penUp": "펜 올리기",
+  "pen.setColor": "펜 색깔을 [COLOR] (으) 로 정하기",
+  "pen.changeColorParam": "[COLOR_PARAM] 을(를) [VALUE] 만큼 바꾸기",
+  "pen.setColorParam": "[COLOR_PARAM] 을(를) [VALUE] 로 정하기",
+  "pen.changeSize": "펜 굵기를 [SIZE] 만큼 바꾸기",
+  "pen.setSize": "펜 굵기를 [SIZE] (으) 로 정하기",
+  "pen.setShade": "펜 명암을 [SHADE] (으) 로 정하기",
+  "pen.changeShade": "펜 명암을 [SHADE] 만큼 바꾸기",
+  "pen.setHue": "펜 색깔을 [HUE] (으) 로 정하기",
+  "pen.changeHue": "펜 색깔을 [HUE] 만큼 바꾸기"
+}

@@ -1,0 +1,20 @@
+{
+  "extensionName": "Sensorer",
+  "extensionDescription": "I de to mBot Ranger utvidelses prosjektene, vil du lære hvordan du bruker sensorer i hverdagen og dermed få en bedre forståelse av elektronikk. ",
+  "CATEGORY_PERCEPTION": "Sensorer",
+  "auriga_perception_gizmos": "Sensorer",
+  "auriga_detect_potentiometer": "[ICON] potensiometer[PORT] verdi",
+  "auriga_detec_temperature": "[ICON]temperatur sensor [PORT] [SLOT] temperatur (° c)",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_1": "spor2",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_0": "spor1",
+  "auriga_detect_external_loudness": "[ICON] lyd sensor [PORT] lydstyrke",
+  "auriga_run_fan": "[ICON] vifte [PORT] [FAN_ROTATE] roterer",
+  "AURIGA_RUN_FAN_FAN_ROTATE_2": "stopp",
+  "AURIGA_RUN_FAN_FAN_ROTATE_1": "moturs",
+  "AURIGA_RUN_FAN_FAN_ROTATE_0": "medurs",
+  "AURIGA_RUN_FAN_PORT_4": "port10",
+  "AURIGA_RUN_FAN_PORT_3": "port9",
+  "AURIGA_RUN_FAN_PORT_2": "port8",
+  "AURIGA_RUN_FAN_PORT_1": "port7",
+  "AURIGA_RUN_FAN_PORT_0": "port6"
+}

@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Fenêtre de reconnaissance",
+  "COGNITIVE.WINDOW.OPENED": "La fenêtre de reconnaissance est ouverte.",
+  "COGNITIVE.WINDOW.NOOPENED": "Aucune fenêtre de reconnaissance n’est ouvert. Veuillez ouvrir la fenêtre.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Aucune caméra n'a pu être détecté.",
+  "COGNITIVE.VIDEO.NOOPEN": "Votre caméra n'est pas allumée.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Aucun microphone trouvé.",
+  "COGNITIVE.AUDIO.NOOPEN": "Votre micro n’est pas allumé.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Saisie par l’intermédiaire de la reconnaissance vocale..."
+}

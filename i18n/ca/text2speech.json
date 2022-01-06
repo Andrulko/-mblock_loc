@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alt",
+  "text2speech.categoryName": "Text a veu",
+  "text2speech.defaultTextToSpeak": "hola",
+  "text2speech.giant": "gegantí",
+  "text2speech.kitten": "gatet",
+  "text2speech.setLanguageBlock": "defineix l'idioma com [LANGUAGE]",
+  "text2speech.setVoiceBlock": "estableix la veu a [VOICE]",
+  "text2speech.speakAndWaitBlock": "digues [WORDS]",
+  "text2speech.squeak": "grinyol",
+  "text2speech.tenor": "tenor"
+}

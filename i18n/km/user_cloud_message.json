@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "ការផ្សាយ​តាមរយៈក្លោដ",
+  "extensionName": "សារក្លោដរបស់អ្នកប្រើប្រាស់",
+  "SEND_CLOUD_MSG": "ផ្ញើសារក្លោដ [message]",
+  "SEND_CLOUD_MSG_VALUE": "ផ្ញើសារក្លោដ [message] ជាមួយតម្លៃ [value]",
+  "WHEN_RECEIVE_CLOUD_MSG": "នៅពេលដែលខ្ញុំទទួលសារក្លោដ [message]",
+  "GET_CLOUD_MSG_VALUE": "សារក្លោដ [message] តម្លៃ",
+  "cloud": "ការផ្សាយ​តាមរយៈក្លោដ",
+  "use_cloud_messenge": "សារក្លោដរបស់អ្នកប្រើប្រាស់",
+  "CATE_U_C_MSG": "សារក្លោដរបស់អ្នកប្រើប្រាស់",
+  "extensionDescription": "ជាមួយផ្នែកបន្ថែមនៃសារក្លោដរបស់អ្នកប្រើប្រាស់ អ្នកអាចធ្វើសាំងក្រូនទិន្នន័យនៃគណនីរបស់អ្នកយ៉ាងងាយស្រួល នៅលើឧបករណ៍និងគម្រោងផ្សេងៗគ្នា។   ",
+  "SEND_USER_CLOUD_MSG": "ផ្ញើសារក្លោដរបស់អ្នកប្រើប្រាស់ [message]",
+  "SEND_USER_CLOUD_MSG_VALUE": "ផ្ញើសារ​ក្លោដ[message] ជាមួយតម្លៃ [value]",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "នៅពេលដែលខ្ញុំទទួលសារក្លោដ [message]",
+  "GET_USER_CLOUD_MSG_VALUE": "សារក្លោដរបស់អ្នកប្រើប្រាស់ [message] តម្លៃ",
+  "user_cloud_message": "សារក្លោដរបស់អ្នកប្រើប្រាស់",
+  "SEND_USER_CLOUD_MSG_WAIT": "ផ្ញើសារក្លោដរបស់អ្នកប្រើប្រាស់ [message] ហើយរង់ចាំ",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "បញ្ជូនសារក្លោដអ្នកប្រើប្រាស់ [message] ជាមួយតម្លៃ [value]​ ហើយរង់ចាំ"
+}

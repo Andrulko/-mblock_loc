@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Finestra di riconoscimento",
+  "COGNITIVE.WINDOW.OPENED": "È aperta la finestra di riconoscimento.",
+  "COGNITIVE.WINDOW.NOOPENED": "Nessuna finestra di riconoscimento è aperta. Si prega di aprire la finestra.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Nessuna fotocamera trovata.",
+  "COGNITIVE.VIDEO.NOOPEN": "La fotocamera non è accesa.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Nessun microfono è stato rilevato.",
+  "COGNITIVE.AUDIO.NOOPEN": "Il microfono non è acceso.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "L'immissione tramite riconoscimento vocale..."
+}

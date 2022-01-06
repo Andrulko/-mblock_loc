@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "Alto",
+  "text2speech.categoryName": "Szövegfelolvasás",
+  "text2speech.defaultTextToSpeak": "helló",
+  "text2speech.giant": "Óriás",
+  "text2speech.kitten": "Cica",
+  "text2speech.setLanguageBlock": "nyelv beállítása [LANGUAGE]",
+  "text2speech.setVoiceBlock": "hang beállítása [VOICE]",
+  "text2speech.speakAndWaitBlock": "Beszélni [WORDS]",
+  "text2speech.squeak": "Nyikkanás",
+  "text2speech.tenor": "Tenor"
+}

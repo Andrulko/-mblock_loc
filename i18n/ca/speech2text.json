@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "De veu a text",
+  "speech.defaultWhenIHearValue": "som-hi",
+  "speech.extensionName": "De veu a text",
+  "speech.listenAndWait": "escolta i espera",
+  "speech.speechReporter": "veu",
+  "speech.whenIHear": "quan sento [PHRASE]"
+}

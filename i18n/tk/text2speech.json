@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "Ýazgydan Gepleşige",
+  "text2speech.defaultTextToSpeak": "salam",
+  "text2speech.giant": "döw",
+  "text2speech.kitten": "pişijek",
+  "text2speech.setLanguageBlock": "dili [LANGUAGE] edip sazlamak",
+  "text2speech.setVoiceBlock": "sesiň kuwwatlylygyny [VOICE] edip sazla",
+  "text2speech.speakAndWaitBlock": "[WORDS] aýdyp ber",
+  "text2speech.squeak": "jygyldy",
+  "text2speech.tenor": "tenor"
+}

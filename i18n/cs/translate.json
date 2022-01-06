@@ -1,0 +1,6 @@
+{
+  "translate.categoryName": "Přeložit",
+  "translate.defaultTextToTranslate": "hello",
+  "translate.translateBlock": "přeložit [WORDS] do [LANGUAGE]",
+  "translate.viewerLanguage": "jazyk"
+}

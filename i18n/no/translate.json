@@ -1,0 +1,6 @@
+{
+  "translate.categoryName": "Oversette",
+  "translate.defaultTextToTranslate": "hallo",
+  "translate.translateBlock": "oversette [WORDS] til [LANGUAGE]",
+  "translate.viewerLanguage": "språk"
+}

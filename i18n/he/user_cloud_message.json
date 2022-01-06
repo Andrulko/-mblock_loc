@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "שידור ענן",
+  "extensionName": "הודעת ענן של משתמש",
+  "SEND_CLOUD_MSG": "שלח הודעת ענן[message]",
+  "SEND_CLOUD_MSG_VALUE": "שליחת הודעת ענן של משתמש [message] עם ערך [value]",
+  "WHEN_RECEIVE_CLOUD_MSG": "כאשר אני מקבל קבלת הודעת ענן של משתמש [message]",
+  "GET_CLOUD_MSG_VALUE": "הודעת ענן של משתמש[message]ערך",
+  "cloud": "שידור ענן",
+  "use_cloud_messenge": "הודעת ענן של משתמש",
+  "CATE_U_C_MSG": "הודעת ענן של משתמש",
+  "extensionDescription": "בעזרת הרחבת הודעות הענן, תוכלו בקלות לסנכרן מידע של חשבונות עם מכשירים ופרוייקטים שונים.   ",
+  "SEND_USER_CLOUD_MSG": "שלח הודעת ענן[message]",
+  "SEND_USER_CLOUD_MSG_VALUE": "שליחת הודעת ענן של משתמש [message] בערך [value]",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "כאשר אני מקבל קבלת הודעת ענן של משתמש [message]",
+  "GET_USER_CLOUD_MSG_VALUE": "הודעת ענן של משתמש עם ערך [message]",
+  "user_cloud_message": "הודעת ענן של משתמש",
+  "SEND_USER_CLOUD_MSG_WAIT": "שלח הודעת ענן של משתמש [message] והמתן",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "שלח הודעת ענן של משתמש [message] עם ערך[value] והמתן"
+}

@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "中音",
+  "text2speech.categoryName": "文字轉語音",
+  "text2speech.defaultTextToSpeak": "哈囉",
+  "text2speech.giant": "低沉",
+  "text2speech.kitten": "小貓",
+  "text2speech.setLanguageBlock": "將語言設定為 [LANGUAGE]",
+  "text2speech.setVoiceBlock": "語音設為[VOICE]",
+  "text2speech.speakAndWaitBlock": "說 [WORDS]",
+  "text2speech.squeak": "尖細",
+  "text2speech.tenor": "男高音"
+}

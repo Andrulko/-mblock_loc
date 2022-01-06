@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "پنجره تشخیص",
+  "COGNITIVE.WINDOW.OPENED": "پنجره تشخیص باز است.",
+  "COGNITIVE.WINDOW.NOOPENED": "هیچ پنجره تشحیصی باز نیست. لطفا پنجره را باز کنید.",
+  "COGNITIVE.VIDEO.NOTFOUND": "هیچ دوربین قابل شناسایی نیست.",
+  "COGNITIVE.VIDEO.NOOPEN": "دوربین شما روشن نیست.",
+  "COGNITIVE.AUDIO.NOTFOUND": "هیچ میکروفونی قابل شناسایی نیست.",
+  "COGNITIVE.AUDIO.NOOPEN": "میکروفون شما روشن نیست.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "وارد کردن از طریق تشخیص گفتار..."
+}

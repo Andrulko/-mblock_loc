@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Spraak naar tekst",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "Spraak naar tekst",
+  "speech.listenAndWait": "luister en wacht",
+  "speech.speechReporter": "spraak",
+  "speech.whenIHear": "wanneer ik [PHRASE] hoor"
+}

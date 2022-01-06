@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "پیکان پایین",
+  "makeymakey.downArrowShort": "پایین",
+  "makeymakey.leftArrow": "پیکان چپ",
+  "makeymakey.leftArrowShort": "چپ",
+  "makeymakey.rightArrow": "پیکان راست",
+  "makeymakey.rightArrowShort": "راست",
+  "makeymakey.spaceKey": "space",
+  "makeymakey.upArrow": "پیکان بالا",
+  "makeymakey.upArrowShort": "بالا",
+  "makeymakey.whenKeyPressed": "هنگامی که کلید [KEY] فشرده شد",
+  "makeymakey.whenKeysPressedInOrder": "هنگامی که [SEQUENCE] به ترتیب فشرده شد"
+}

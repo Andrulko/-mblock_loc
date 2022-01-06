@@ -1,0 +1,10 @@
+{
+  "sprite_broadcast": "Upload Mode Broadcast",
+  "extensionName": "Upload Mode Broadcast",
+  "extensionDescription": "Z dodajanjem te razširitve omogočite napravi interakcijo s figuro v načinu nalaganja.",
+  "BLOCK_1546412605792": "send upload mode message [MESSAGE]",
+  "BLOCK_1546413597853": "send upload mode message [MESSAGE] with value [VALUE]",
+  "BLOCK_1546413700881": "when receiving upload mode message [MESSAGE]",
+  "BLOCK_1546415356012": "upload mode message [MESSAGE] value",
+  "cate_sprite_broadcast": "Upload Mode Broadcast"
+}

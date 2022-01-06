@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Voz a texto",
+  "speech.defaultWhenIHearValue": "vamos allá",
+  "speech.extensionName": "Voz a texto",
+  "speech.listenAndWait": "escucha y espera",
+  "speech.speechReporter": "habla",
+  "speech.whenIHear": "cuando oiga [PHRASE]"
+}

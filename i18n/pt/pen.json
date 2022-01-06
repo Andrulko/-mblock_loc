@@ -1,0 +1,21 @@
+{
+  "pen.name": "Caneta",
+  "pen.categoryName": "Caneta",
+  "pen.colorMenu.color": "cor",
+  "pen.colorMenu.saturation": "saturação",
+  "pen.colorMenu.brightness": "brilho",
+  "pen.colorMenu.transparency": "transparência",
+  "pen.clear": "eliminar tudo",
+  "pen.stamp": "carimbar",
+  "pen.penDown": "baixar a caneta",
+  "pen.penUp": "levantar a caneta",
+  "pen.setColor": "definir a cor da caneta para [COLOR]",
+  "pen.changeColorParam": "alterar caneta [COLOR_PARAM] por [VALUE]",
+  "pen.setColorParam": "definir caneta [COLOR_PARAM] para [VALUE]",
+  "pen.changeSize": "alterar a espessura da caneta em [SIZE]",
+  "pen.setSize": "definir o tamanho da caneta para [SIZE]",
+  "pen.setShade": "definir o tom da caneta para [SHADE]",
+  "pen.changeShade": "alterar o tom da caneta para [SHADE]",
+  "pen.setHue": "definir a cor da caneta para [HUE]",
+  "pen.changeHue": "alterar a cor da caneta para [HUE]"
+}

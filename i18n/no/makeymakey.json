@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "pil ned",
+  "makeymakey.downArrowShort": "ned",
+  "makeymakey.leftArrow": "pil venstre",
+  "makeymakey.leftArrowShort": "venstre",
+  "makeymakey.rightArrow": "pil høyre",
+  "makeymakey.rightArrowShort": "høyre",
+  "makeymakey.spaceKey": "mellomrom",
+  "makeymakey.upArrow": "pil opp",
+  "makeymakey.upArrowShort": "opp",
+  "makeymakey.whenKeyPressed": "når [KEY] tasten trykkes",
+  "makeymakey.whenKeysPressedInOrder": "når [SEQUENCE] trykkes inn for"
+}

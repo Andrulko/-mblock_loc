@@ -1,0 +1,14 @@
+{
+  "videoSensing.categoryName": "Video érzékelés",
+  "videoSensing.direction": "irány",
+  "videoSensing.motion": "mozgás",
+  "videoSensing.off": "ki",
+  "videoSensing.on": "be",
+  "videoSensing.onFlipped": "megfordítva",
+  "videoSensing.setVideoTransparency": "állítsa a videó átlátszóságát [TRANSPARENCY] ra",
+  "videoSensing.sprite": "szereplő",
+  "videoSensing.stage": "játéktér",
+  "videoSensing.videoOn": "video [ATTRIBUTE] - [SUBJECT]",
+  "videoSensing.videoToggle": "video [VIDEO_STATE]",
+  "videoSensing.whenMotionGreaterThan": "when video motion > [REFERENCE]"
+}

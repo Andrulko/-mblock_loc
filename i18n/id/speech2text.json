@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Pidato ke teks",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "Pidato ke teks",
+  "speech.listenAndWait": "mendengarkan dan menunggu",
+  "speech.speechReporter": "Pidato",
+  "speech.whenIHear": "Ketika saya mendengar [PHRASE]"
+}

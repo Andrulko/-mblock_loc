@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "Texto para fala",
+  "text2speech.defaultTextToSpeak": "olá",
+  "text2speech.giant": "Gigante",
+  "text2speech.kitten": "Gatinho",
+  "text2speech.setLanguageBlock": "definir o idioma para [LANGUAGE]",
+  "text2speech.setVoiceBlock": "definir a voz para [VOICE]",
+  "text2speech.speakAndWaitBlock": "Falar [WORDS]",
+  "text2speech.squeak": "Squeak",
+  "text2speech.tenor": "Tenor"
+}

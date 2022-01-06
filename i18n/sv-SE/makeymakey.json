@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "neråtpil",
+  "makeymakey.downArrowShort": "down",
+  "makeymakey.leftArrow": "vänsterpil",
+  "makeymakey.leftArrowShort": "left",
+  "makeymakey.rightArrow": "högerpil",
+  "makeymakey.rightArrowShort": "right",
+  "makeymakey.spaceKey": "mellanslag",
+  "makeymakey.upArrow": "uppåtpil",
+  "makeymakey.upArrowShort": "upp",
+  "makeymakey.whenKeyPressed": "when [KEY] key pressed",
+  "makeymakey.whenKeysPressedInOrder": "when [SEQUENCE] pressed in order"
+}

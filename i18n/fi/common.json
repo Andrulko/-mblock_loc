@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Tunnistusikkuna",
+  "COGNITIVE.WINDOW.OPENED": "Tunnistusikkuna on avoinna.",
+  "COGNITIVE.WINDOW.NOOPENED": "Ei tunnistusikkunaa avoinna. Ole hyvä ja avaa tunnistusikkuna.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Kameraa ei löydetä.",
+  "COGNITIVE.VIDEO.NOOPEN": "Kamerasi on pois päältä.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Microfonia ei löydetty.",
+  "COGNITIVE.AUDIO.NOOPEN": "Microfoni on pois päältä.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Puheentunnistuksen kautta..."
+}

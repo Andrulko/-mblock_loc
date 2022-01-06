@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Okno rozpoznávání",
+  "COGNITIVE.WINDOW.OPENED": "Okno pro rozpoznávání je otevřeno.",
+  "COGNITIVE.WINDOW.NOOPENED": "Není otevřeno žádné okno pro rozpoznávání. Otevřete okno.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Nenalezena žádná kamera.",
+  "COGNITIVE.VIDEO.NOOPEN": "Kamera není zapnutá.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Nebyl zjištěn žádný mikrofon.",
+  "COGNITIVE.AUDIO.NOOPEN": "Mikrofon není zapnutý.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Vložení pomocí funkce rozpoznávání řeči..."
+}

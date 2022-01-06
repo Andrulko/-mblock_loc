@@ -1,0 +1,11 @@
+{
+  "connect_success": "Již připojeno k Google Sheets",
+  "googlesheet": "Google Sheets",
+  "extensionName": "Google Sheets",
+  "extensionDescription": "S tímto rozšířením můžete zadávat data do Google sheets pomocí mBlock. (pouze v oblastech, kde jsou poskytovýny služby Google)",
+  "BLOCK_1552896553516": "připojit ke sdílenému sešitu [url]",
+  "BLOCK_1552896647935": "vstup [value] do sloupce [col] řádek [row]",
+  "BLOCK_1552896647936": "číst hodnotu buňky na sloupci [col] řádku [row]",
+  "cate_14037d5c": "Google Sheets",
+  "connect_fail": "Připojení se nezdařilo. Zkontrolujte prosím síť a oprávnění pro Google sheets"
+}

@@ -1,0 +1,6 @@
+{
+  "translate.categoryName": "Traducir",
+  "translate.defaultTextToTranslate": "Hola",
+  "translate.translateBlock": "traducir [WORDS] a [LANGUAGE]",
+  "translate.viewerLanguage": "idioma"
+}

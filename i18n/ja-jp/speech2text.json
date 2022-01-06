@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "おんせいからテキストへ",
+  "speech.defaultWhenIHearValue": "かいし",
+  "speech.extensionName": "おんせいからテキストへ",
+  "speech.listenAndWait": "きいてまつ",
+  "speech.speechReporter": "おんせい",
+  "speech.whenIHear": "[PHRASE]をきいたとき"
+}

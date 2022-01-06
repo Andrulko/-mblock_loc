@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Tiempo de reconocimiento",
+  "COGNITIVE.WINDOW.OPENED": "La ventana de reconocimiento está abierta.",
+  "COGNITIVE.WINDOW.NOOPENED": "No está abierta la ventana de reconocimiento. Ábrela, por favor.",
+  "COGNITIVE.VIDEO.NOTFOUND": "No se encuentra ninguna cámara.",
+  "COGNITIVE.VIDEO.NOOPEN": "Tu cámara no está encendida.",
+  "COGNITIVE.AUDIO.NOTFOUND": "No se detecta ningún micrófono.",
+  "COGNITIVE.AUDIO.NOOPEN": "Tu micrófono no está encendido.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Entrada por reconocimiento de voz..."
+}

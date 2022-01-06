@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Řeč na text",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "Řeč na text",
+  "speech.listenAndWait": "naslouchání a čekání",
+  "speech.speechReporter": "řeč",
+  "speech.whenIHear": "když slyším [PHRASE]"
+}

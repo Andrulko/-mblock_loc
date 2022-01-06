@@ -1,0 +1,9 @@
+{
+  "codey_upload_mode_message": "ការផ្សាយម៉ូតផ្ញើចេញ",
+  "extensionName": "ការផ្សាយម៉ូតផ្ញើចេញ",
+  "SendUploadModeMessage": "បញ្ជូនសារម៉ូតផ្ញើចេញ [message]",
+  "SendUploadModeMessageWithValue": "បញ្ជូនសារម៉ូតផ្ញើចេញ [message] ជាមួយតម្លៃ [value]",
+  "whenReceivingUploadModeMessage ": "នៅពេលទទួលសារម៉ូតផ្ញើចេញ [message]",
+  "UploadModeMessageValue": "សារម៉ូតផ្ញើចេញ [message] តម្លៃ",
+  "extensionDescription": "ដោយប្រើកម្មវិធីបន្ថែមនេះ,​ ឧបករណ៍អាចធ្វើអន្តរកម្មជាមួយតួអង្គ នៅពេលដែលបើកម៉ូតផ្ញើចេញ។"
+}

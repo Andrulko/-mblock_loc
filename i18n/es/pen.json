@@ -1,0 +1,21 @@
+{
+  "pen.name": "Lápiz",
+  "pen.categoryName": "Lápiz",
+  "pen.colorMenu.color": "color",
+  "pen.colorMenu.saturation": "saturación",
+  "pen.colorMenu.brightness": "brillo",
+  "pen.colorMenu.transparency": "transparencia",
+  "pen.clear": "borrar todo",
+  "pen.stamp": "pon sello",
+  "pen.penDown": "baja lápiz",
+  "pen.penUp": "sube lápiz",
+  "pen.setColor": "cambia color del lápiz a [COLOR]",
+  "pen.changeColorParam": "cambia [COLOR_PARAM] del lápiz [VALUE] unidades",
+  "pen.setColorParam": "fija [COLOR_PARAM] del lápiz a [VALUE]",
+  "pen.changeSize": "cambia tamaño del lápiz [SIZE] unidades",
+  "pen.setSize": "fija tamaño del lápiz a [SIZE]",
+  "pen.setShade": "fija sombra del lápiz a [SHADE]",
+  "pen.changeShade": "cambia sombra del lápiz [SHADE] unidades",
+  "pen.setHue": "fija color del lápiz a [HUE]",
+  "pen.changeHue": "cambia color del lápiz [HUE] unidades"
+}

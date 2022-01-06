@@ -1,0 +1,11 @@
+{
+  "connect_success": "បានភ្ជាប់ទៅ Google Sheets រួចហើយ",
+  "googlesheet": "Google Sheets",
+  "extensionName": "Google Sheets",
+  "extensionDescription": "ជាមួយកម្មវិធីបន្ថែមនេះ អ្នកអាចបញ្ចូលទិន្នន័យទៅក្នុង Google sheets ជាមួយកម្មវិធី mBlock បាន។ (មានតែនៅក្នុងដែនសេវាកម្មរបស់ Google តែប៉ុណ្ណោះ)",
+  "BLOCK_1552896553516": "ភ្ជាប់ទៅទំព័រចែករំលែក [url]",
+  "BLOCK_1552896647935": "បញ្ចូលតម្លៃ [value] ទៅក្នុងជួរឈរ [col] ជួរដេក [row]",
+  "BLOCK_1552896647936": "អានតម្លៃនៅក្នុងក្រឡានៃជួរឈរ [col] ជួរដេក [row]",
+  "cate_14037d5c": "Google Sheets",
+  "connect_fail": "ការ​ត​ភ្ជាប់​បាន​បរាជ័យ។ សូមពិនិត្យមើលបណ្តាញ និងការអនុញ្ញាតរបស់ Google sheets"
+}

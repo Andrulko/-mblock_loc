@@ -1,0 +1,21 @@
+{
+  "pen.name": "Toll",
+  "pen.categoryName": "Toll",
+  "pen.colorMenu.color": "Szín",
+  "pen.colorMenu.saturation": "Telítettség",
+  "pen.colorMenu.brightness": "fényerő",
+  "pen.colorMenu.transparency": "Átláthatóság",
+  "pen.clear": "mindet törli",
+  "pen.stamp": "Bélyegző",
+  "pen.penDown": "tollat le",
+  "pen.penUp": "tollat fel",
+  "pen.setColor": "beállítja a toll színét, [COLOR]",
+  "pen.changeColorParam": "toll-változás [COLOR_PARAM] által [VALUE]",
+  "pen.setColorParam": "toll-készlet [COLOR_PARAM] hogy [VALUE]",
+  "pen.changeSize": "toll méret módosítása [SIZE]-al",
+  "pen.setSize": "beállítja a toll méretét [SIZE]",
+  "pen.setShade": "a tollszín beállításához [SHADE]",
+  "pen.changeShade": "toll árnyalat változzon [SHADE]",
+  "pen.setHue": "beállítja a toll színét, [HUE]",
+  "pen.changeHue": "tintaszín módosítása [HUE]"
+}

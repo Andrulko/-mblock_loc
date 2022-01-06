@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "tanda panah bawah",
+  "makeymakey.downArrowShort": "bawah",
+  "makeymakey.leftArrow": "panah kiri",
+  "makeymakey.leftArrowShort": "kiri",
+  "makeymakey.rightArrow": "panah kanan",
+  "makeymakey.rightArrowShort": "kanan",
+  "makeymakey.spaceKey": "spasi",
+  "makeymakey.upArrow": "panah atas",
+  "makeymakey.upArrowShort": "atas",
+  "makeymakey.whenKeyPressed": "Kapan [KEY] tombol ditekan",
+  "makeymakey.whenKeysPressedInOrder": "Kapan [SEQUENCE] ditekan dalam rangka"
+}

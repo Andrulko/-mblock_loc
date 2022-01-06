@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "아래쪽 화살표",
+  "makeymakey.downArrowShort": "아래로",
+  "makeymakey.leftArrow": "왼쪽 화살표",
+  "makeymakey.leftArrowShort": "왼쪽",
+  "makeymakey.rightArrow": "오른쪽 화살표",
+  "makeymakey.rightArrowShort": "오른쪽",
+  "makeymakey.spaceKey": "공간",
+  "makeymakey.upArrow": "최대 화살표",
+  "makeymakey.upArrowShort": "최대",
+  "makeymakey.whenKeyPressed": "[KEY] 키를 눌렀을 때",
+  "makeymakey.whenKeysPressedInOrder": "때 [SEQUENCE] 순서대로 누른 경우"
+}

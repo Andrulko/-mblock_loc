@@ -1,0 +1,20 @@
+{
+  "extensionName": "חישת אביזרים",
+  "extensionDescription": "בפרוייקטי ההרחבה של mBot Ranger2, אתם תלמדו איך להשתמש בחיישנים בחיי היום יום ותרכשו הבנה טובה יותר של אלקטרוניקה. ",
+  "CATEGORY_PERCEPTION": "חישת אביזרים",
+  "auriga_perception_gizmos": "חישת אביזרים",
+  "auriga_detect_potentiometer": "[ICON] נגד משתנה [PORT] ערך",
+  "auriga_detec_temperature": "[ICON] חיישן טמפרטורה [PORT] [SLOT]טמפרטורה (℃)",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_1": "מחבר 2",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_0": "מחבר 1",
+  "auriga_detect_external_loudness": "[ICON] חיישן קול [PORT] עוצמה",
+  "auriga_run_fan": "[ICON] מאוורר [PORT] [FAN_ROTATE] מסתובב",
+  "AURIGA_RUN_FAN_FAN_ROTATE_2": "עצור",
+  "AURIGA_RUN_FAN_FAN_ROTATE_1": "נגד כיוון השעון",
+  "AURIGA_RUN_FAN_FAN_ROTATE_0": "בכיוון השעון",
+  "AURIGA_RUN_FAN_PORT_4": "פורט10",
+  "AURIGA_RUN_FAN_PORT_3": "פורט9",
+  "AURIGA_RUN_FAN_PORT_2": "פורט8",
+  "AURIGA_RUN_FAN_PORT_1": "פורט7",
+  "AURIGA_RUN_FAN_PORT_0": "פורט 6"
+}

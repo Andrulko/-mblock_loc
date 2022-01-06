@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "abwärtspfeil",
+  "makeymakey.downArrowShort": "daunen",
+  "makeymakey.leftArrow": "Linker Pfeil",
+  "makeymakey.leftArrowShort": "links",
+  "makeymakey.rightArrow": "Rechtspfeil",
+  "makeymakey.rightArrowShort": "Richting",
+  "makeymakey.spaceKey": "raum",
+  "makeymakey.upArrow": "aufwärtspfeil",
+  "makeymakey.upArrowShort": "oben",
+  "makeymakey.whenKeyPressed": "wann [KEY] Taste gedrückt",
+  "makeymakey.whenKeysPressedInOrder": "wann [SEQUENCE] gedrückt in der Reihenfolge"
+}

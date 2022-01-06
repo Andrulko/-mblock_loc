@@ -1,0 +1,6 @@
+{
+  "translate.categoryName": "Vertaal",
+  "translate.defaultTextToTranslate": "hello",
+  "translate.translateBlock": "vertaal [WORDS] naar [LANGUAGE]",
+  "translate.viewerLanguage": "taal"
+}

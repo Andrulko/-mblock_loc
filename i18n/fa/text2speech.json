@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "آلتو",
+  "text2speech.categoryName": "متن به گفتار",
+  "text2speech.defaultTextToSpeak": "سلام",
+  "text2speech.giant": "غول",
+  "text2speech.kitten": "بچه گربه",
+  "text2speech.setLanguageBlock": "تنظیم زبان به [LANGUAGE]",
+  "text2speech.setVoiceBlock": "تنظیم صدا به [VOICE]",
+  "text2speech.speakAndWaitBlock": "[WORDS] را بگو",
+  "text2speech.squeak": "جیر جیر",
+  "text2speech.tenor": "تنور"
+}

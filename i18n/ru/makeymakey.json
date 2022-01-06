@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "стрелка вниз",
+  "makeymakey.downArrowShort": "вниз",
+  "makeymakey.leftArrow": "стрелка влево",
+  "makeymakey.leftArrowShort": "налево",
+  "makeymakey.rightArrow": "стрелка вправо",
+  "makeymakey.rightArrowShort": "направо",
+  "makeymakey.spaceKey": "пробел",
+  "makeymakey.upArrow": "стрелка вверх",
+  "makeymakey.upArrowShort": "вверх",
+  "makeymakey.whenKeyPressed": "Когда [KEY] ключ нажата",
+  "makeymakey.whenKeysPressedInOrder": "Когда [SEQUENCE] нажата в порядке"
+}

@@ -1,0 +1,6 @@
+{
+  "translate.categoryName": "翻訳",
+  "translate.defaultTextToTranslate": "こんにちは",
+  "translate.translateBlock": "[WORDS] を[LANGUAGE] で翻訳する",
+  "translate.viewerLanguage": "言語"
+}

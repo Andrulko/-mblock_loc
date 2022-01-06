@@ -1,0 +1,10 @@
+{
+  "arduino_broadcast": "Sending av opplastingsmodus",
+  "extensionName": "Sending av opplastingsmodus",
+  "extensionDescription": "Ved å legge til denne utvidelsen, kan du aktivere en enhet til å samhandle med en sprite i opplastingsmodus.",
+  "BLOCK_1546412605792": "Send melding med opplastingsmodus [MESSAGE] ",
+  "BLOCK_1546413597853": "Send melding med opplastingsmodus  [MESSAGE] med verdi [VALUE] ",
+  "BLOCK_1546413700881": "Når du mottar melding med opplastingsmodus [MESSAGE] ",
+  "BLOCK_1546415356012": "opplastingsmodus meldings verdi",
+  "cate_d9ae47fa": "Sending av opplastingsmodus"
+}

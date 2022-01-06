@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "↓ ព្រួញខាងក្រោម",
+  "makeymakey.downArrowShort": "ក្រោម",
+  "makeymakey.leftArrow": "← ព្រួញខាងឆ្វេង",
+  "makeymakey.leftArrowShort": "ខាងឆ្វេង",
+  "makeymakey.rightArrow": "→ ព្រួញខាងស្តាំ",
+  "makeymakey.rightArrowShort": "ខាងស្តាំ",
+  "makeymakey.spaceKey": "ដកឃ្លា",
+  "makeymakey.upArrow": "↑ ព្រួញខាងលើ",
+  "makeymakey.upArrowShort": "លើ",
+  "makeymakey.whenKeyPressed": "ពេលចុច [KEY]",
+  "makeymakey.whenKeysPressedInOrder": "នៅពេល [SEQUENCE] ត្រូវបានចុចតាមលំដាប់"
+}

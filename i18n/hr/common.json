@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Prozor za prepoznavanje",
+  "COGNITIVE.WINDOW.OPENED": "Prozor za prepoznavanje je otvoren.",
+  "COGNITIVE.WINDOW.NOOPENED": "Prozor za prepoznavanje nije otvore. Molimo vas da otvorite prozor.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Kamera nije detektirana.",
+  "COGNITIVE.VIDEO.NOOPEN": "Vaša kamera nije uključena.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Mikrofon nije detektiran.",
+  "COGNITIVE.AUDIO.NOOPEN": "Mikrofon nije uključen.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Unos putem glasovnog prepoznavanja..."
+}

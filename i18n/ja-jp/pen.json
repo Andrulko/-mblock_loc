@@ -1,0 +1,21 @@
+{
+  "pen.name": "ペン",
+  "pen.categoryName": "ペン",
+  "pen.colorMenu.color": "いろ",
+  "pen.colorMenu.saturation": "さいど",
+  "pen.colorMenu.brightness": "あかるさ",
+  "pen.colorMenu.transparency": "とうめいど",
+  "pen.clear": "すべてしょうきょ",
+  "pen.stamp": "スタンプ",
+  "pen.penDown": "ペンをおろす",
+  "pen.penUp": "ペンをあげる",
+  "pen.setColor": "ペンのいろを [COLOR] にする",
+  "pen.changeColorParam": "ペン[COLOR_PARAM] を[VALUE] ずつかえる",
+  "pen.setColorParam": "ペン[COLOR_PARAM] を[VALUE] にかえる",
+  "pen.changeSize": "ペンのふとさを [SIZE] ずつかえる",
+  "pen.setSize": "ペンのふとさを [SIZE] にする",
+  "pen.setShade": "ペンのこさを [SHADE] にする",
+  "pen.changeShade": "ペンのこさを [SHADE] ずつかえる",
+  "pen.setHue": "ペンのいろを [HUE] にする",
+  "pen.changeHue": "ペンのいろを [HUE] ずつかえる"
+}

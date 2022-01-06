@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "טקסט לדיבור",
+  "text2speech.defaultTextToSpeak": "שלום",
+  "text2speech.giant": "ענק",
+  "text2speech.kitten": "גור חתולים",
+  "text2speech.setLanguageBlock": "קבע שפה ל [LANGUAGE]",
+  "text2speech.setVoiceBlock": "קבע קול ל [VOICE]",
+  "text2speech.speakAndWaitBlock": "דבר [WORDS]",
+  "text2speech.squeak": "חריקה",
+  "text2speech.tenor": "טנור"
+}

@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "ماكي ماكي",
+  "makeymakey.downArrow": "السهم لأسفل",
+  "makeymakey.downArrowShort": "لأسفل",
+  "makeymakey.leftArrow": "السهم اليساري",
+  "makeymakey.leftArrowShort": "يسار",
+  "makeymakey.rightArrow": "السهم اليميني",
+  "makeymakey.rightArrowShort": "يمين",
+  "makeymakey.spaceKey": "فراغ",
+  "makeymakey.upArrow": "سهم للأعلى",
+  "makeymakey.upArrowShort": "أعلى",
+  "makeymakey.whenKeyPressed": "عندما [KEY] ضغط المفتاح",
+  "makeymakey.whenKeysPressedInOrder": "عندما [SEQUENCE] ضغطت بالترتيب"
+}

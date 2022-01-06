@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Tanıma Penceresi",
+  "COGNITIVE.WINDOW.OPENED": "Tanıma penceresi açık.",
+  "COGNITIVE.WINDOW.NOOPENED": "Tanıma penceresi açık değil. Lütfen pencereyi aç.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Herhangi bir kamera tespit edilmedi.",
+  "COGNITIVE.VIDEO.NOOPEN": "Kameranız açık değil.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Mikrofon algılanamadı",
+  "COGNITIVE.AUDIO.NOOPEN": "Mikrofonunuz açık değil.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Konuşma tanıma ile giriş yapın..."
+}

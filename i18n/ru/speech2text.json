@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Речь к тексту",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "Речь к тексту",
+  "speech.listenAndWait": "слушать и ждать",
+  "speech.speechReporter": "Речи",
+  "speech.whenIHear": "когда я слышу [PHRASE]"
+}

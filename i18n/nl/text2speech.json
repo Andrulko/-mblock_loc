@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "Tekst naar spraak",
+  "text2speech.defaultTextToSpeak": "hello",
+  "text2speech.giant": "reus",
+  "text2speech.kitten": "kitten",
+  "text2speech.setLanguageBlock": "taal instellen op [LANGUAGE]",
+  "text2speech.setVoiceBlock": "stem instellen op [VOICE]",
+  "text2speech.speakAndWaitBlock": "spreek [WORDS]",
+  "text2speech.squeak": "piepen",
+  "text2speech.tenor": "tenor"
+}

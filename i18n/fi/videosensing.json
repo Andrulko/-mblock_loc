@@ -1,0 +1,14 @@
+{
+  "videoSensing.categoryName": "Video Sensing",
+  "videoSensing.direction": "suunta",
+  "videoSensing.motion": "Liike",
+  "videoSensing.off": "pois",
+  "videoSensing.on": "päällä",
+  "videoSensing.onFlipped": "on flipped",
+  "videoSensing.setVideoTransparency": "set video transparency to [TRANSPARENCY]",
+  "videoSensing.sprite": "sprite",
+  "videoSensing.stage": "stage",
+  "videoSensing.videoOn": "video [ATTRIBUTE] on [SUBJECT]",
+  "videoSensing.videoToggle": "turn video [VIDEO_STATE]",
+  "videoSensing.whenMotionGreaterThan": "when video motion > [REFERENCE]"
+}

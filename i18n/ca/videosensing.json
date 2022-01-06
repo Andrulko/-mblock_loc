@@ -1,0 +1,14 @@
+{
+  "videoSensing.categoryName": "Detecció de Vídeo",
+  "videoSensing.direction": "direcció",
+  "videoSensing.motion": "moviment",
+  "videoSensing.off": "apagat",
+  "videoSensing.on": "encès",
+  "videoSensing.onFlipped": "en girar",
+  "videoSensing.setVideoTransparency": "estableix la transparència del vídeo a [TRANSPARENCY]",
+  "videoSensing.sprite": "personatge",
+  "videoSensing.stage": "escenari",
+  "videoSensing.videoOn": "[ATTRIBUTE] del vídeo damunt [SUBJECT]",
+  "videoSensing.videoToggle": "vídeo [VIDEO_STATE]",
+  "videoSensing.whenMotionGreaterThan": "quan el moviment del vídeo > [REFERENCE]"
+}

@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "Trasmissione cloud",
+  "extensionName": "Messaggio cloud utente",
+  "SEND_CLOUD_MSG": "invia messaggio cloud[message]",
+  "SEND_CLOUD_MSG_VALUE": "invia messaggio cloud[message]  con valore [value]",
+  "WHEN_RECEIVE_CLOUD_MSG": "quando ricevo messaggio cloud [message]",
+  "GET_CLOUD_MSG_VALUE": "valore del messaggio cloud [message]",
+  "cloud": "Trasmissione cloud",
+  "use_cloud_messenge": "Messaggio cloud utente",
+  "CATE_U_C_MSG": "Messaggio cloud utente",
+  "extensionDescription": "Con l'estensione cloud dei messaggi utente, puoi facilmente sincronizzare i dati del tuo account su diversi dispositivi e progetti.   ",
+  "SEND_USER_CLOUD_MSG": "invia messaggio utente cloud[message]",
+  "SEND_USER_CLOUD_MSG_VALUE": "invia messaggio utente cloud[message] con valore[value]",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "quando ricevo messaggio cloud utente [message]",
+  "GET_USER_CLOUD_MSG_VALUE": "valore messaggio cloud utente[message]",
+  "user_cloud_message": "Messaggio cloud utente",
+  "SEND_USER_CLOUD_MSG_WAIT": "invia messaggio utente cloud[message] e aspetta",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "invia messaggio utente cloud[message] con valore[value] e aspetta"
+}

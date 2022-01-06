@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Recognition Window",
+  "COGNITIVE.WINDOW.OPENED": "The recognition window is open.",
+  "COGNITIVE.WINDOW.NOOPENED": "No recognition window is open. Please open the window.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Non se detecta ningunha cámara.",
+  "COGNITIVE.VIDEO.NOOPEN": "A túa cámara non está acesa.",
+  "COGNITIVE.AUDIO.NOTFOUND": "No microphone can not be detected.",
+  "COGNITIVE.AUDIO.NOOPEN": "O teu micrófono non está aceso.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Inputting via speech recognition..."
+}

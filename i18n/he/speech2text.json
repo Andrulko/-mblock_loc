@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "דיבור וטקסט",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "דיבור וטקסט",
+  "speech.listenAndWait": "תקשיב ותחכה",
+  "speech.speechReporter": "דיבור",
+  "speech.whenIHear": "כאשר אני שומע [PHRASE]"
+}

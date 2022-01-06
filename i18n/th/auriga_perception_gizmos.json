@@ -1,0 +1,20 @@
+{
+  "extensionName": "Sensing Gizmos",
+  "extensionDescription": "In the 2 mBot Ranger extension projects, you will learn how to use sensors in daily life and gain a better understanding of electronics. ",
+  "CATEGORY_PERCEPTION": "Sensing Gizmos",
+  "auriga_perception_gizmos": "Sensing Gizmos",
+  "auriga_detect_potentiometer": "[ICON] potentiometer[PORT] value",
+  "auriga_detec_temperature": "[ICON] เซนเซอร์วัดอุณหภูมิ [PORT] [SLOT] อุณหภูมิ (°C)",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_1": "สล็อต2",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_0": "สล็อต1",
+  "auriga_detect_external_loudness": "[ICON] เซ็นเซอร์เสียง [PORT] ความดัง",
+  "auriga_run_fan": "[ICON]fan [PORT] [FAN_ROTATE] rotates",
+  "AURIGA_RUN_FAN_FAN_ROTATE_2": "หยุด",
+  "AURIGA_RUN_FAN_FAN_ROTATE_1": "ทวนเข็มนาฬิกา",
+  "AURIGA_RUN_FAN_FAN_ROTATE_0": "ตามเข็มนาฬิกา",
+  "AURIGA_RUN_FAN_PORT_4": "พอร์ต10",
+  "AURIGA_RUN_FAN_PORT_3": "พอร์ต9",
+  "AURIGA_RUN_FAN_PORT_2": "พอร์ต8",
+  "AURIGA_RUN_FAN_PORT_1": "พอร์ต7",
+  "AURIGA_RUN_FAN_PORT_0": "พอร์ต6"
+}

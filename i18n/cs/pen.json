@@ -1,0 +1,21 @@
+{
+  "pen.name": "Pero",
+  "pen.categoryName": "Pero",
+  "pen.colorMenu.color": "barva",
+  "pen.colorMenu.saturation": "saturace",
+  "pen.colorMenu.brightness": "jas",
+  "pen.colorMenu.transparency": "průhlednost",
+  "pen.clear": "smaž vše",
+  "pen.stamp": "otiskni se",
+  "pen.penDown": "pero dolů",
+  "pen.penUp": "pero nahoru",
+  "pen.setColor": "nastav barvu pera na [COLOR]",
+  "pen.changeColorParam": "změnit barvu pera [COLOR_PARAM] o [VALUE]",
+  "pen.setColorParam": "změnit barvu pera [COLOR_PARAM] na [VALUE]",
+  "pen.changeSize": "změň tloušťku pera o [SIZE]",
+  "pen.setSize": "nastav tloušťku pera na [SIZE]",
+  "pen.setShade": "nastav stín pera na [SHADE]",
+  "pen.changeShade": "změň stín pera o [SHADE]",
+  "pen.setHue": "nastav barvu pera na [HUE]",
+  "pen.changeHue": "změň barvu pera o [HUE]"
+}

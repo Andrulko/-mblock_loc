@@ -1,0 +1,10 @@
+{
+  "arduino_broadcast": "Transmitir mensajes en Modo de carga",
+  "extensionName": "Transmitir mensajes en Modo de carga",
+  "extensionDescription": "Al añadir esta extensión, puedes enviar mensajes entre dispositivos y gráficos animados para que interactúen mientras están en Modo de carga.",
+  "BLOCK_1546412605792": "envía mensaje en modo de carga [MESSAGE] ",
+  "BLOCK_1546413597853": "envía mensaje en modo de carga [MESSAGE] con valor [VALUE] ",
+  "BLOCK_1546413700881": "al recibir mensaje en modo de carga [MESSAGE] ",
+  "BLOCK_1546415356012": "valor del mensaje en modo de carga",
+  "cate_d9ae47fa": "Transmitir mensajes en Modo de carga"
+}

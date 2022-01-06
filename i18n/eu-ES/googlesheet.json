@@ -1,0 +1,11 @@
+{
+  "connect_success": "Google Sheets-era konektatuta",
+  "googlesheet": "Google Sheets",
+  "extensionName": "Google Sheets",
+  "extensionDescription": "Luzapen honekin, datuak sar ditzakezu Googleren orrietan mBlock-arekin. (Googleren zerbitzu-eremuetan bakarrik dago erabilgarri)",
+  "BLOCK_1552896553516": "kontektatu partekatutako orrira[url]",
+  "BLOCK_1552896647935": "txertatu[value][col] zutabe[row] lerroan",
+  "BLOCK_1552896647936": "irakurri gelaxka balioa[col] zutabe [row] lerroan",
+  "cate_14037d5c": "Google Sheets",
+  "connect_fail": "Konexioak huts egin zuen. Mesedez, berrikusi Google autoritateko sarea eta orriak"
+}

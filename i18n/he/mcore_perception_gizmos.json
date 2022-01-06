@@ -1,0 +1,22 @@
+{
+  "MCORE_RUN_FAN_PORT_0": "port1",
+  "extensionName": "חישת אביזרים",
+  "extensionDescription": "בחמשת הפרוייקטי ההרחבות של mBit, אתם יכולים לגשת למגוון של דוגמאות שיעברו ללמוד איך להשתמש בחיישנים ולתרגל את הסביב של אלקטרוניקה.",
+  "MCORE_RUN_FAN_PORT_1": "יציאה 2",
+  "MCORE_RUN_FAN_PORT_2": "יציאה 3",
+  "MCORE_RUN_FAN_PORT_3": "יציאה 4",
+  "MCORE_RUN_FAN_FAN_ROTATE_0": "בכיוון השעון",
+  "MCORE_RUN_FAN_FAN_ROTATE_1": "נגד כיוון השעון",
+  "MCORE_RUN_FAN_FAN_ROTATE_2": "עצור",
+  "mcore_run_fan": "[ICON] מאוורר [PORT] [FAN_ROTATE] מסתובב",
+  "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "יציאה 3",
+  "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "יציאה 4",
+  "mcore_detect_external_loudness": "[ICON] חיישן קול [PORT] עוצמה",
+  "MCORE_DETEC_TEMPERATURE_SLOT_0": "מחבר 1",
+  "MCORE_DETEC_TEMPERATURE_SLOT_1": "מחבר 2",
+  "mcore_detec_temperature": "[ICON] חיישן טמפרטורה [PORT] [SLOT]טמפרטורה (° c)",
+  "mcore_detect_potentiometer": "[ICON] נגד משתנה [PORT] ערך",
+  "CATEGORY_CREATOR": "חישת אביזרים",
+  "CATEGORY_PERCEPTION": "אבזרים",
+  "mcore_perception_gizmos": "חישת אביזרים"
+}

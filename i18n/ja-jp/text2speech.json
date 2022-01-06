@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "テキストからおんせい",
+  "text2speech.defaultTextToSpeak": "こんにちは",
+  "text2speech.giant": "おおきい",
+  "text2speech.kitten": "こねこ",
+  "text2speech.setLanguageBlock": "げんごを [LANGUAGE] にせっていする",
+  "text2speech.setVoiceBlock": "おとを[VOICE] にせっていする",
+  "text2speech.speakAndWaitBlock": "[WORDS] をはなす",
+  "text2speech.squeak": "キーキーごえ",
+  "text2speech.tenor": "テナー"
+}

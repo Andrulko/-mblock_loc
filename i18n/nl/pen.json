@@ -1,0 +1,21 @@
+{
+  "pen.name": "Pen",
+  "pen.categoryName": "Pen",
+  "pen.colorMenu.color": "kleur",
+  "pen.colorMenu.saturation": "verzadiging",
+  "pen.colorMenu.brightness": "helderheid",
+  "pen.colorMenu.transparency": "transparantie",
+  "pen.clear": "verwijder alles",
+  "pen.stamp": "stempel",
+  "pen.penDown": "pen neer",
+  "pen.penUp": "pen omhoog",
+  "pen.setColor": "maak penkleur [COLOR]",
+  "pen.changeColorParam": "verander pen [COLOR_PARAM] met [VALUE]",
+  "pen.setColorParam": "zet pen [COLOR_PARAM] op [VALUE]",
+  "pen.changeSize": "verander pendikte met [SIZE]",
+  "pen.setSize": "maak pendikte [SIZE]",
+  "pen.setShade": "maak penschaduw [SHADE]",
+  "pen.changeShade": "verander penschaduw met [SHADE]",
+  "pen.setHue": "maak penkleur [HUE]",
+  "pen.changeHue": "verander penkleur met [HUE]"
+}

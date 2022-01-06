@@ -1,0 +1,21 @@
+{
+  "audio_player_rj25": "Lydavspiller",
+  "extensionName": "Lydavspiller",
+  "audioplayer_init": "sett i gang lydavspiller på: hvilken som helst hvit port (I2C)",
+  "audioplayer_play_by_name": "lydavspiller: spill av lydfilen navngitt som [FILE_NAME]",
+  "audioplayer_record_stop": "lydavspiller: stoppe opptaket",
+  "audioplayer_record": "lydavspiller: start opptak og lagre under filnavnet [FILE_NAME]",
+  "audioplayer_volume_down": "lydavspiller: volum ned",
+  "audioplayer_volume_up": "lydavspiller: volum opp",
+  "audioplayer_set_volume": "lydavspiller: sett volumet til [VOLUME] %",
+  "audioplayer_stop": "lydavspiller: stopp avspillingen",
+  "audioplayer_play_by_sn": "lydavspiller: spill av [FILE_SN] lydfil",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "enkelt",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "loop",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "rekkefølge",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "shuffle",
+  "audioplayer_set_play_mode": "lydavspiller: sett modus til [PLAY_MODE]",
+  "audioplayer_play_previous": "lydavspiller: spill av forrige lydfil",
+  "audioplayer_play_next": "lydavspiller: spill neste lydfil",
+  "audioplayer_pause": "lydavspiller: pause/fortsett"
+}

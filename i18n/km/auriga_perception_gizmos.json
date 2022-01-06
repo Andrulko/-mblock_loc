@@ -1,0 +1,20 @@
+{
+  "extensionName": "ញាណ Gizmos",
+  "extensionDescription": "នៅក្នុងគម្រោងផ្នែកបន្ថែមរបស់ 2 mBot Ranger អ្នកនឹងរៀនពីរបៀបប្រើឧបករណ៍ចាប់សញ្ញានៅក្នុងជីវិតប្រចាំថ្ងៃ និងទទួលបានការយល់ដឹងអំពីគ្រឿងអេឡិចត្រូនិកកាន់តែប្រសើរ។ ",
+  "CATEGORY_PERCEPTION": "ញាណ Gizmos",
+  "auriga_perception_gizmos": "ញាណ Gizmos",
+  "auriga_detect_potentiometer": "[ICON] ប៉ូតង់ស្យូមម៉ែត្រមួល​ ​[PORT] តម្លៃ",
+  "auriga_detec_temperature": "[ICON] ឧបករណ៍វាស់សីតុណ្ហភាព [PORT] [SLOT] សីតុណ្ហភាព (℃)",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_1": "រន្ធដោត២",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_0": "រន្ធដោត១",
+  "auriga_detect_external_loudness": "[ICON] ឧបករណ៍ចាប់សំឡេង [PORT] កម្រិតសំឡេង",
+  "auriga_run_fan": "[ICON] កង្ហារ [PORT] [FAN_ROTATE] វិល",
+  "AURIGA_RUN_FAN_FAN_ROTATE_2": "ឈប់",
+  "AURIGA_RUN_FAN_FAN_ROTATE_1": "បញ្ច្រាសទិស​ទ្រនិច​នាឡិកា",
+  "AURIGA_RUN_FAN_FAN_ROTATE_0": "ស្រប​ទិស​ទ្រនិច​នាឡិកា",
+  "AURIGA_RUN_FAN_PORT_4": "ច្រក១០",
+  "AURIGA_RUN_FAN_PORT_3": "ច្រក៩",
+  "AURIGA_RUN_FAN_PORT_2": "ច្រក៨",
+  "AURIGA_RUN_FAN_PORT_1": "ច្រក៧",
+  "AURIGA_RUN_FAN_PORT_0": "ច្រក៦"
+}

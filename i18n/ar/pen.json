@@ -1,0 +1,21 @@
+{
+  "pen.name": "القلم",
+  "pen.categoryName": "القلم",
+  "pen.colorMenu.color": "لون",
+  "pen.colorMenu.saturation": "التشبع",
+  "pen.colorMenu.brightness": "السطوع",
+  "pen.colorMenu.transparency": "الشفافية",
+  "pen.clear": "محو الكل",
+  "pen.stamp": "طابع",
+  "pen.penDown": "القلم للاسفل",
+  "pen.penUp": "القلم لاعلى",
+  "pen.setColor": "تعيين لون القلم إلى [COLOR]",
+  "pen.changeColorParam": "تغيير [COLOR_PARAM] بمقدار [VALUE]",
+  "pen.setColorParam": "تعيين القلم [COLOR_PARAM] ل [VALUE]",
+  "pen.changeSize": "غير حجم القلم بمقدار [SIZE]",
+  "pen.setSize": "اضبط حجم القلم الى [SIZE]",
+  "pen.setShade": "اضبط ظل القلم على [SHADE]",
+  "pen.changeShade": "غير ظل القلم الناشف بمقدار [SHADE]",
+  "pen.setHue": "تعيين لون القلم إلى [HUE]",
+  "pen.changeHue": "غير لون القلم بمقدار [HUE]"
+}

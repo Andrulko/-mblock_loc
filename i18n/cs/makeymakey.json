@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "šipka dolů",
+  "makeymakey.downArrowShort": "dolů",
+  "makeymakey.leftArrow": "šipka doleva",
+  "makeymakey.leftArrowShort": "vlevo",
+  "makeymakey.rightArrow": "šipka doprava",
+  "makeymakey.rightArrowShort": "vpravo",
+  "makeymakey.spaceKey": "mezerník",
+  "makeymakey.upArrow": "šipka nahoru",
+  "makeymakey.upArrowShort": "nahoru",
+  "makeymakey.whenKeyPressed": "po stisku klávesy [KEY]",
+  "makeymakey.whenKeysPressedInOrder": "kdy [SEQUENCE] stisknuto v pořadí"
+}

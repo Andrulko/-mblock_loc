@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "Bulut ulgamy arkaly ýaýlym",
+  "extensionName": "Ulanyjynyň bulut ulgamy habary",
+  "SEND_CLOUD_MSG": "[message] bulut ulgam habaryny ugrat",
+  "SEND_CLOUD_MSG_VALUE": "[message] bulut ulgam habaryny [value] bahasy bilen ugrat",
+  "WHEN_RECEIVE_CLOUD_MSG": "haçan-da men [message] bulut ulgam habaryny alan wagtym",
+  "GET_CLOUD_MSG_VALUE": "[message] bulut ulgam habarynynyň bahasy",
+  "cloud": "Bulut ulgamy arkaly ýaýlym",
+  "use_cloud_messenge": "Ulanyjynyň bulut ulgamy habary",
+  "CATE_U_C_MSG": "Ulanyjynyň bulut ulgamy habary",
+  "extensionDescription": "Ulanyjynyň bulut ulgamy giňeldişi bilen öz hasabyňyzyň maglumatlaryny dürli enjamlar we taslamalaryň arasynda aňsatlyk bilen sinhronizirläp bilersiňiz.",
+  "SEND_USER_CLOUD_MSG": "[message] ulanyjynyň bulut ulgam habaryny ugrat",
+  "SEND_USER_CLOUD_MSG_VALUE": "[message] ulanyjynyň bulut ulgam habaryny [value] bahasy bilen ugrat",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "haçan-da men [message] ulanyjynyň bulut ulgam habaryny alan wagtym",
+  "GET_USER_CLOUD_MSG_VALUE": "[message] ulanyjynyň bulut ulgam habarynynyň bahasy",
+  "user_cloud_message": "Ulanyjynyň bulut ulgamy habary",
+  "SEND_USER_CLOUD_MSG_WAIT": "[message] ulanyjynyň bulut ulgam habaryny ugrat we garaş",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "[message] ulanyjynyň bulut ulgam habaryny [value] bahasy bilen ugrat we garaş"
+}

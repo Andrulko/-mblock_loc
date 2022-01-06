@@ -1,0 +1,9 @@
+{
+  "codey_upload_mode_message": "Feltöltési mód Broadcast",
+  "extensionName": "Feltöltési mód Broadcast",
+  "SendUploadModeMessage": "küld feltölt mód üzenet[message]",
+  "SendUploadModeMessageWithValue": "küld feltölt mód üzenet [message]értékkel [value]",
+  "whenReceivingUploadModeMessage ": "a feltöltési módú üzenet fogadásakor[message]",
+  "UploadModeMessageValue": "feltöltési mód-üzenet[message]Érték",
+  "extensionDescription": "Ezzel a kiterjesztéssel, a készülék kölcsönhatásba léphet a sprite, ha a feltöltési mód be van kapcsolva."
+}

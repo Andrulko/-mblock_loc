@@ -1,0 +1,20 @@
+{
+  "extensionName": "وسایل سنجش",
+  "extensionDescription": "در ۲ پروژه توسعه ای ام بات رنجر، شما فرا می گیرید که چگونه در زندگی روزمره از سنسور ها استفاده کنید و از مفاهیم الکترونیکی درک بهتری پیدا می کنید. ",
+  "CATEGORY_PERCEPTION": "وسایل سنجش",
+  "auriga_perception_gizmos": "وسایل سنجش",
+  "auriga_detect_potentiometer": "[ICON] توان سنج ولتاژ برق[PORT] اندازه",
+  "auriga_detec_temperature": "[ICON] سنسور دما [PORT] [SLOT]درجه سانتيگراد (° c)",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_1": "slot2",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_0": "slot1",
+  "auriga_detect_external_loudness": "[ICON] سنسور صدا [PORT] بلندی صدا",
+  "auriga_run_fan": "[ICON] فن [PORT] [FAN_ROTATE] بچرخد",
+  "AURIGA_RUN_FAN_FAN_ROTATE_2": "توقف",
+  "AURIGA_RUN_FAN_FAN_ROTATE_1": "پادساعتگرد",
+  "AURIGA_RUN_FAN_FAN_ROTATE_0": "ساعتگرد",
+  "AURIGA_RUN_FAN_PORT_4": "پورت 10",
+  "AURIGA_RUN_FAN_PORT_3": "پورت 9",
+  "AURIGA_RUN_FAN_PORT_2": "پورت 8",
+  "AURIGA_RUN_FAN_PORT_1": "پورت 7",
+  "AURIGA_RUN_FAN_PORT_0": "پورت 6"
+}

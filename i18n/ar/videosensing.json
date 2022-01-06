@@ -1,0 +1,14 @@
+{
+  "videoSensing.categoryName": "استشعار الفيديو",
+  "videoSensing.direction": "الاتجاه",
+  "videoSensing.motion": "الحركة",
+  "videoSensing.off": "إغلاق",
+  "videoSensing.on": "يعمل",
+  "videoSensing.onFlipped": "عند الانقلاب",
+  "videoSensing.setVideoTransparency": "تعيين شفافية الفيديو إلى [TRANSPARENCY]",
+  "videoSensing.sprite": "المؤشر",
+  "videoSensing.stage": "المرحلة",
+  "videoSensing.videoOn": "فيديو [ATTRIBUTE] في [SUBJECT]",
+  "videoSensing.videoToggle": "تحويل الفيديو [VIDEO_STATE]",
+  "videoSensing.whenMotionGreaterThan": "عند حركة الفيديو > [REFERENCE]"
+}

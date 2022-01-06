@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Felismerés ablak",
+  "COGNITIVE.WINDOW.OPENED": "A felismerés ablak nyitva van.",
+  "COGNITIVE.WINDOW.NOOPENED": "Nincs nyitva felismerés ablak. Kérlek, nyisd meg az ablakot!",
+  "COGNITIVE.VIDEO.NOTFOUND": "A kamera nem található.",
+  "COGNITIVE.VIDEO.NOOPEN": "A kamerád nincs bekapcsolva.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Mikrofon nem található.",
+  "COGNITIVE.AUDIO.NOOPEN": "A mikrofonod nincs bekapcsolva.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Bevitel a beszédfelismerés segítségével..."
+}

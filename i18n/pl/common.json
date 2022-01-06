@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Okno Rozpoznawania",
+  "COGNITIVE.WINDOW.OPENED": "Okno rozpoznawania jest otwarte.",
+  "COGNITIVE.WINDOW.NOOPENED": "Nie ma otwartego okna rozpoznawania. Proszę otwórz okno.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Nie można wykryć kamery.",
+  "COGNITIVE.VIDEO.NOOPEN": "Twoja kamera jest wyłączona.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Nie wykryto mikrofonu.",
+  "COGNITIVE.AUDIO.NOOPEN": "Twój mikrofon jest wyłączony.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Wprowadzanie przez wykrywanie mowy..."
+}

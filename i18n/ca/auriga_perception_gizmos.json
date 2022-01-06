@@ -1,0 +1,20 @@
+{
+  "extensionName": "Dallonses de detecció",
+  "extensionDescription": "En els dos projectes d'extensió del mBot Ranger aprendràs com utilitzar els sensors en el dia a dia i a entendre millor l'electrònica. ",
+  "CATEGORY_PERCEPTION": "Dallonses de detecció",
+  "auriga_perception_gizmos": "Dallonses de detecció",
+  "auriga_detect_potentiometer": "[ICON] valor del potenciòmetre [PORT]",
+  "auriga_detec_temperature": "[ICON] temperatura (°C) captada pel sensor de temperatura [PORT] [SLOT]",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_1": "ranura2",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_0": "ranura1",
+  "auriga_detect_external_loudness": "[ICON] volum mesurat pel sensor de so [PORT]",
+  "auriga_run_fan": "[ICON] el ventilador [PORT][FAN_ROTATE] gira",
+  "AURIGA_RUN_FAN_FAN_ROTATE_2": "atura",
+  "AURIGA_RUN_FAN_FAN_ROTATE_1": "en sentit antihorari",
+  "AURIGA_RUN_FAN_FAN_ROTATE_0": "en sentit horari",
+  "AURIGA_RUN_FAN_PORT_4": "port10",
+  "AURIGA_RUN_FAN_PORT_3": "port9",
+  "AURIGA_RUN_FAN_PORT_2": "port8",
+  "AURIGA_RUN_FAN_PORT_1": "port7",
+  "AURIGA_RUN_FAN_PORT_0": "port6"
+}

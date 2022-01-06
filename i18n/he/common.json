@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "חלון זיהוי",
+  "COGNITIVE.WINDOW.OPENED": "חלון הזיהוי פתוח.",
+  "COGNITIVE.WINDOW.NOOPENED": "חלון זיהוי לא פתוח. בבקשה פתחו את החלון.",
+  "COGNITIVE.VIDEO.NOTFOUND": "מצלמה לא זוהתה.",
+  "COGNITIVE.VIDEO.NOOPEN": "המיקרופון שלכם לא דלוק.",
+  "COGNITIVE.AUDIO.NOTFOUND": "מיקרופון לא זוהה.",
+  "COGNITIVE.AUDIO.NOOPEN": "המיקרופון שלכם לא דלוק.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "מקבל קלט דרך זיהוי דיבור..."
+}

@@ -1,0 +1,14 @@
+{
+  "videoSensing.categoryName": "Video Sensing",
+  "videoSensing.direction": "方向",
+  "videoSensing.motion": "運動",
+  "videoSensing.off": "關閉",
+  "videoSensing.on": "開啟",
+  "videoSensing.onFlipped": "on flipped",
+  "videoSensing.setVideoTransparency": "set video transparency to [TRANSPARENCY]",
+  "videoSensing.sprite": "角色",
+  "videoSensing.stage": "舞台",
+  "videoSensing.videoOn": "video [ATTRIBUTE] on [SUBJECT]",
+  "videoSensing.videoToggle": "turn video [VIDEO_STATE]",
+  "videoSensing.whenMotionGreaterThan": "when video motion > [REFERENCE]"
+}

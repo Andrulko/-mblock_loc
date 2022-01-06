@@ -1,0 +1,22 @@
+{
+  "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "ច្រក១",
+  "extensionName": "Servo Pack",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "ច្រក២",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "ច្រក៣",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "ច្រក៤",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "ទាំងអស់",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "១",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "២",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "៣",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "៤",
+  "mcore_show_external_led_time": "[ICON] អំពូល RGB LED [PORT] ភ្លឺ [LED_POSTION] ជាមួយពណ៌ [COLOR] សម្រាប់ [TIME] វិនាទី",
+  "mcore_show_external_led": "[ICON] អំពូល RGB LED [PORT] ភ្លឺ [LED_POSTION] ជាមួយពណ៌ [COLOR]",
+  "mcore_show_external_led_rgb": "[ICON] អំពូល RGB LED [PORT] ភ្លឺ [LED_POSTION] ជាមួយពណ៌ក្រហម [R] បៃតង [G] ខៀវ [B]",
+  "MCORE_RUN_SERVO_SLOT_0": "រន្ធដោត១",
+  "MCORE_RUN_SERVO_SLOT_1": "រន្ធដោត២",
+  "mcore_run_servo": "[ICON] ស៊ែរវូ [PORT] [SLOT] ទីតាំងនៅមុំ [DEGREE] ",
+  "CATEGORY1": "Servo Pack",
+  "extensionDescription": "ប្រែ mBot របស់អ្នកឱ្យក្លាយទៅជាឆ្មា។ ធ្វើឱ្យវារាំ, ក្រឡេកមើលជុំវិញ និងបញ្ចេញពន្លឺ។",
+  "CATEGORY_SERVO_PACK": "Servo Pack",
+  "mcore_servo_pack": "Servo Pack"
+}

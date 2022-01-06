@@ -1,0 +1,22 @@
+{
+  "MCORE_RUN_FAN_PORT_0": "port1",
+  "extensionName": "Érzékelő szerkentyűk",
+  "extensionDescription": "Az 5 mBot kiegészítő projektben számos példát érhetsz el ami segít megtanulni, hogyan használd az érzékelőket és elsajátítsd az elektronika alapjait.",
+  "MCORE_RUN_FAN_PORT_1": "port2",
+  "MCORE_RUN_FAN_PORT_2": "port3",
+  "MCORE_RUN_FAN_PORT_3": "port4",
+  "MCORE_RUN_FAN_FAN_ROTATE_0": "jobbra",
+  "MCORE_RUN_FAN_FAN_ROTATE_1": "balra",
+  "MCORE_RUN_FAN_FAN_ROTATE_2": "állj",
+  "mcore_run_fan": "[ICON] ventilátor [PORT] [FAN_ROTATE] forog",
+  "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "port3",
+  "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "port4",
+  "mcore_detect_external_loudness": "[ICON] hangérzékelő [PORT] hangerő",
+  "MCORE_DETEC_TEMPERATURE_SLOT_0": "csatlakozó1",
+  "MCORE_DETEC_TEMPERATURE_SLOT_1": "csatlakozó2",
+  "mcore_detec_temperature": "[ICON]hőmérséklet-érzékelő [PORT] [SLOT] érték (°C)",
+  "mcore_detect_potentiometer": "[ICON] Potenciométer [PORT] Érték",
+  "CATEGORY_CREATOR": "Érzékelő szerkentyűk",
+  "CATEGORY_PERCEPTION": "Szerkentyűk",
+  "mcore_perception_gizmos": "Érzékelő szerkentyűk"
+}

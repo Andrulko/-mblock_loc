@@ -1,0 +1,21 @@
+{
+    "pen.name": "画笔",
+    "pen.categoryName": "画笔",
+    "pen.colorMenu.color": "颜色",
+    "pen.colorMenu.saturation": "饱和度",
+    "pen.colorMenu.brightness": "亮度",
+    "pen.colorMenu.transparency": "透明度",
+    "pen.clear": "清空",
+    "pen.stamp": "图章",
+    "pen.penDown": "落笔",
+    "pen.penUp": "抬笔",
+    "pen.setColor": "将画笔颜色设定为 [COLOR]",
+    "pen.changeColorParam": "将画笔 [COLOR_PARAM] 增加 [VALUE]",
+    "pen.setColorParam": "设置画笔 [COLOR_PARAM] 为 [VALUE]",
+    "pen.changeSize": "将画笔粗细增加 [SIZE]",
+    "pen.setSize": "将画笔粗细设定为 [SIZE]",
+    "pen.setShade": "set pen shade to [SHADE]",
+    "pen.changeShade": "change pen shade by [SHADE]",
+    "pen.setHue": "set pen color to [HUE]",
+    "pen.changeHue": "change pen color by [HUE]"
+}

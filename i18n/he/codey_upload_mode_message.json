@@ -1,0 +1,9 @@
+{
+  "codey_upload_mode_message": "מצב העלאה שידור",
+  "extensionName": "מצב העלאה שידור",
+  "SendUploadModeMessage": "שלח הודעה למצב העלאה[message]",
+  "SendUploadModeMessageWithValue": "שלח הודעה למצב העלאה[message] עם ערך[value]",
+  "whenReceivingUploadModeMessage ": "כשמתקבלת הודעה במצב העלאה [message]",
+  "UploadModeMessageValue": "הודעת מצב ההעלאה [message] ערך",
+  "extensionDescription": "על ידי שימוש בהרחבה זו, המשכיר יכול לתקשר עם הדמות כאשר מצב ההעלאה מופעל."
+}

@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "識別視窗",
+  "COGNITIVE.WINDOW.OPENED": "識別視窗已開啟。",
+  "COGNITIVE.WINDOW.NOOPENED": "識別視窗未開啟，請先打開視窗。",
+  "COGNITIVE.VIDEO.NOTFOUND": "找不到攝影鏡頭",
+  "COGNITIVE.VIDEO.NOOPEN": "你的攝影裝置沒有打開。",
+  "COGNITIVE.AUDIO.NOTFOUND": "找不到可用的麥克風裝置。",
+  "COGNITIVE.AUDIO.NOOPEN": "你的麥克風裝置沒有打開。",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "語音辨識輸入中…"
+}

@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "Alto",
+  "text2speech.categoryName": "Teks pidato",
+  "text2speech.defaultTextToSpeak": "halo",
+  "text2speech.giant": "Raksasa",
+  "text2speech.kitten": "Kucing",
+  "text2speech.setLanguageBlock": "mengatur bahasa untuk [LANGUAGE]",
+  "text2speech.setVoiceBlock": "mengatur suara ke [VOICE]",
+  "text2speech.speakAndWaitBlock": "Berbicara [WORDS]",
+  "text2speech.squeak": "mencicit",
+  "text2speech.tenor": "Tenor"
+}

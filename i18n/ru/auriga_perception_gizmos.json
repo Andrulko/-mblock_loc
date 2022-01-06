@@ -1,0 +1,20 @@
+{
+  "extensionName": "Сенсорные устройства",
+  "extensionDescription": "В двух проектах расширения для mBot Ranger вы научитесь пользоваться датчиками в повседневной жизни и освоите принципы работы с электроникой. ",
+  "CATEGORY_PERCEPTION": "Сенсорные устройства",
+  "auriga_perception_gizmos": "Сенсорные устройства",
+  "auriga_detect_potentiometer": "[ICON] Потенциометр[PORT] Значение",
+  "auriga_detec_temperature": "[ICON]Датчик температуры [PORT] [SLOT] Температура (℃)",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_1": "слот 2",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_0": "слот 1",
+  "auriga_detect_external_loudness": "[ICON] звуковой датчик [PORT] громкость",
+  "auriga_run_fan": "[ICON]Вентилятор [PORT] [FAN_ROTATE] Поворот",
+  "AURIGA_RUN_FAN_FAN_ROTATE_2": "остановить",
+  "AURIGA_RUN_FAN_FAN_ROTATE_1": "против часовой стрелки",
+  "AURIGA_RUN_FAN_FAN_ROTATE_0": "по часовой стрелке",
+  "AURIGA_RUN_FAN_PORT_4": "Порт10",
+  "AURIGA_RUN_FAN_PORT_3": "Порт9",
+  "AURIGA_RUN_FAN_PORT_2": "Порт8",
+  "AURIGA_RUN_FAN_PORT_1": "Порт7",
+  "AURIGA_RUN_FAN_PORT_0": "Порт6"
+}

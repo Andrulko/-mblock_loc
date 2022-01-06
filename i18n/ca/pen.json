@@ -1,0 +1,21 @@
+{
+  "pen.name": "Llapis",
+  "pen.categoryName": "Llapis",
+  "pen.colorMenu.color": "color",
+  "pen.colorMenu.saturation": "saturació",
+  "pen.colorMenu.brightness": "brillantor",
+  "pen.colorMenu.transparency": "transparència",
+  "pen.clear": "esborra-ho tot",
+  "pen.stamp": "estampa",
+  "pen.penDown": "llapis avall",
+  "pen.penUp": "llapis amunt",
+  "pen.setColor": "estableix el color del llapis a [COLOR]",
+  "pen.changeColorParam": "augmenta [COLOR_PARAM] del llapis en [VALUE]",
+  "pen.setColorParam": "estableix [COLOR_PARAM] del llapis a [VALUE]",
+  "pen.changeSize": "augmenta la mida del llapis en [SIZE]",
+  "pen.setSize": "estableix la mida a [SIZE]",
+  "pen.setShade": "estableix la intensitat del llapis a [SHADE]",
+  "pen.changeShade": "augmenta la intensitat del llapis en [SHADE]",
+  "pen.setHue": "estableix el color del llapis a [HUE]",
+  "pen.changeHue": "augmenta el color del llapis en [HUE]"
+}

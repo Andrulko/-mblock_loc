@@ -1,0 +1,6 @@
+{
+  "translate.categoryName": "Перевести",
+  "translate.defaultTextToTranslate": "привет",
+  "translate.translateBlock": "Перевести [WORDS] Кому [LANGUAGE]",
+  "translate.viewerLanguage": "Язык"
+}

@@ -1,0 +1,11 @@
+{
+  "cyberpi_upload_message": "Igotzeko moduaren emisioa",
+  "extensionName": "Igotzeko moduaren emisioa",
+  "extensionDescription": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+  "BLOCK_1551748322055": "karga-moduaren mezua bidaltzen du [message]",
+  "BLOCK_1551748500023": "[message] kargatze-moduaren mezua bidaltzen du [value] balioarekin",
+  "BLOCK_1551748632732": "karga-moduaren mezua jasotzen duenean [message]",
+  "BLOCK_1551748721826": "karga-mezuaren balioa [message]",
+  "cate_70548abe": "Igotzeko moduaren emisioa",
+  "halocode_upload_message": "Igotzeko moduaren emisioa"
+}

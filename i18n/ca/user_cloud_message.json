@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "Difusió al núvol",
+  "extensionName": "Missatge d'usuari al núvol",
+  "SEND_CLOUD_MSG": "envia el missatge [message] al núvol",
+  "SEND_CLOUD_MSG_VALUE": "envia el missatge [message] al núvol amb valor [value]",
+  "WHEN_RECEIVE_CLOUD_MSG": "quan jo rebi el missatge [message] al núvol",
+  "GET_CLOUD_MSG_VALUE": "valor del missatge [message] al núvol",
+  "cloud": "Difusió al núvol",
+  "use_cloud_messenge": "Missatge d'usuari al núvol",
+  "CATE_U_C_MSG": "Missatge d'usuari al núvol",
+  "extensionDescription": "Amb l'extensió de missatges del núvol d'usuari, pots sincronitzar fàcilment les dades del compte en diferents dispositius i projectes.",
+  "SEND_USER_CLOUD_MSG": "envia el missatge d'usuari [message] al núvol",
+  "SEND_USER_CLOUD_MSG_VALUE": "envia el missatge d'usuari [message] al núvol amb valor [value]",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "quan jo rebi el missatge d'usuari [message] al núvol",
+  "GET_USER_CLOUD_MSG_VALUE": "valor del missatge d'usuari [message] al núvol",
+  "user_cloud_message": "Missatge d'usuari al núvol",
+  "SEND_USER_CLOUD_MSG_WAIT": "envia el missatge d'usuari [message] al núvol i espera",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "envia el missatge d'usuari [message] al núvol amb valor [value] i espera"
+}

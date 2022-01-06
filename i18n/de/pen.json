@@ -1,0 +1,21 @@
+{
+  "pen.name": "Malstift",
+  "pen.categoryName": "Malstift",
+  "pen.colorMenu.color": "Farbe",
+  "pen.colorMenu.saturation": "Sättigung",
+  "pen.colorMenu.brightness": "Helligkeit",
+  "pen.colorMenu.transparency": "Transparenz",
+  "pen.clear": "alle löschen",
+  "pen.stamp": "hinterlasse Abdruck",
+  "pen.penDown": "schalte Stift ein",
+  "pen.penUp": "schalte Stift aus",
+  "pen.setColor": "setze Stiftfarbe auf [COLOR]",
+  "pen.changeColorParam": "ändere Stiftfarbe [COLOR_PARAM] um [VALUE]",
+  "pen.setColorParam": "ändere Stiftfarbe [COLOR_PARAM] auf [VALUE]",
+  "pen.changeSize": "ändere Stiftdicke um [SIZE]",
+  "pen.setSize": "setze Stiftdicke auf [SIZE]",
+  "pen.setShade": "setze Farbschattierung auf [SHADE]",
+  "pen.changeShade": "ändere Farbschattierung um [SHADE]",
+  "pen.setHue": "setze Stiftfarbe auf [HUE]",
+  "pen.changeHue": "ändere Stiftfarbe um [HUE]"
+}

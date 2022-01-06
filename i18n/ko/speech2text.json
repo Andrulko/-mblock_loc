@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "텍스트음성",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "텍스트음성",
+  "speech.listenAndWait": "듣고 기다립니다",
+  "speech.speechReporter": "음성",
+  "speech.whenIHear": "내가 들을 때 [PHRASE]"
+}

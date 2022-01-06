@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "down arrow",
+  "makeymakey.downArrowShort": "behean",
+  "makeymakey.leftArrow": "left arrow",
+  "makeymakey.leftArrowShort": "ezker",
+  "makeymakey.rightArrow": "right arrow",
+  "makeymakey.rightArrowShort": "eskuin",
+  "makeymakey.spaceKey": "space",
+  "makeymakey.upArrow": "up arrow",
+  "makeymakey.upArrowShort": "goian",
+  "makeymakey.whenKeyPressed": "when [KEY] key pressed",
+  "makeymakey.whenKeysPressedInOrder": "when [SEQUENCE] pressed in order"
+}

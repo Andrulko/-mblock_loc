@@ -1,0 +1,21 @@
+{
+  "pen.name": "עט",
+  "pen.categoryName": "עט",
+  "pen.colorMenu.color": "צבע",
+  "pen.colorMenu.saturation": "רוויה",
+  "pen.colorMenu.brightness": "הארה",
+  "pen.colorMenu.transparency": "שקיפות",
+  "pen.clear": "מחק הכל",
+  "pen.stamp": "חותמת",
+  "pen.penDown": "עט מופעל-לחוץ",
+  "pen.penUp": "עט מופסק -מורם",
+  "pen.setColor": "קבע צבע עט ל [COLOR]",
+  "pen.changeColorParam": "קדם עט [COLOR_PARAM] ב [VALUE]",
+  "pen.setColorParam": "קבע עט [COLOR_PARAM] ב [VALUE]",
+  "pen.changeSize": "שנה צבע עט ב [SIZE]",
+  "pen.setSize": "קבע גודל עט ל [SIZE]",
+  "pen.setShade": "קבע גוון העט ל [SHADE]",
+  "pen.changeShade": "שנה גוון עט ב [SHADE]",
+  "pen.setHue": "קבע צבע עט ל [HUE]",
+  "pen.changeHue": "שנה צבע עט ב [HUE]"
+}

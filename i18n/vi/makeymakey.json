@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "mũi tên xuống",
+  "makeymakey.downArrowShort": "Xuống",
+  "makeymakey.leftArrow": "mũi tên bên trái",
+  "makeymakey.leftArrowShort": "bên trái",
+  "makeymakey.rightArrow": "mũi tên bên phải",
+  "makeymakey.rightArrowShort": "bên phải",
+  "makeymakey.spaceKey": "khoảng trống",
+  "makeymakey.upArrow": "mũi tên lên",
+  "makeymakey.upArrowShort": "Lên",
+  "makeymakey.whenKeyPressed": "phím [KEY] key được nhấn",
+  "makeymakey.whenKeysPressedInOrder": "khi [SEQUENCE] nhấn theo thứ tự"
+}

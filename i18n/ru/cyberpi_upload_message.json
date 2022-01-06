@@ -1,0 +1,11 @@
+{
+  "cyberpi_upload_message": "Трансляция режима передачи",
+  "extensionName": "Трансляция режима передачи",
+  "extensionDescription": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+  "BLOCK_1551748322055": "Отправить сообщение режим загрузки[message]",
+  "BLOCK_1551748500023": "Отправить сообщение режим загрузки[message] с ценностью[value]",
+  "BLOCK_1551748632732": "При получении сообщения режима загрузки [message]",
+  "BLOCK_1551748721826": "сообщение режима загрузки [message]",
+  "cate_70548abe": "Трансляция режима передачи",
+  "halocode_upload_message": "Трансляция режима передачи"
+}

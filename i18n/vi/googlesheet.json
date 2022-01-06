@@ -1,0 +1,11 @@
+{
+  "connect_success": "Đã kết nối với Google Sheets",
+  "googlesheet": "Google Sheets",
+  "extensionName": "Google Sheets",
+  "extensionDescription": "Với tiện ích mở rộng này, bạn có thể nhập dữ liệu vào Google sheetsh với mBlock. (chỉ có sẵn trong các khu vực dịch vụ của Google)",
+  "BLOCK_1552896553516": "kết nối với bảng chia sẻ [url]",
+  "BLOCK_1552896647935": "nhập [value] đến cột [col] Hàng [row]",
+  "BLOCK_1552896647936": "đọc giá trị ô ở cột [col] Hàng [row]",
+  "cate_14037d5c": "Google Sheets",
+  "connect_fail": "Kết nối không thành công. Vui lòng kiểm tra mạng và Google Sheets"
+}

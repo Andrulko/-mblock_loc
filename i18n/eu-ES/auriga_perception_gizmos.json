@@ -1,0 +1,20 @@
+{
+  "extensionName": "Detektatze gailuak",
+  "extensionDescription": "mBot Ranger hedapeneko 2 proiektuetan, eguneroko bizitzan sentsoreak erabiltzen ikasiko duzu, eta elektronika hobeto ulertuko duzu. ",
+  "CATEGORY_PERCEPTION": "Detektatze gailuak",
+  "auriga_perception_gizmos": "Detektatze gailuak",
+  "auriga_detect_potentiometer": "[ICON] poentziometroaren [PORT] baloa",
+  "auriga_detec_temperature": "[ICON] tenperatura-sentsorea [PORT] [SLOT] (ºC) tenperatura",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_1": "arteka2",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_0": "arteka1",
+  "auriga_detect_external_loudness": "[ICON] soinu-sentsorea [PORT] bolumena",
+  "auriga_run_fan": "[ICON] haizagailuak [PORT] [FAN_ROTATE] biratzen du",
+  "AURIGA_RUN_FAN_FAN_ROTATE_2": "gelditu",
+  "AURIGA_RUN_FAN_FAN_ROTATE_1": "erloju-orratzen kontrako zentzua",
+  "AURIGA_RUN_FAN_FAN_ROTATE_0": "erloju-orratz zentzuan",
+  "AURIGA_RUN_FAN_PORT_4": "ataka10",
+  "AURIGA_RUN_FAN_PORT_3": "ataka9",
+  "AURIGA_RUN_FAN_PORT_2": "ataka8",
+  "AURIGA_RUN_FAN_PORT_1": "ataka7",
+  "AURIGA_RUN_FAN_PORT_0": "ataka6"
+}

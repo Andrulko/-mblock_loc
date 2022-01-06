@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Parla con testo",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "Parla con testo",
+  "speech.listenAndWait": "ascolta e attendi",
+  "speech.speechReporter": "parla",
+  "speech.whenIHear": "quando sento [PHRASE]"
+}

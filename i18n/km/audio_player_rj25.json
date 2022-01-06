@@ -1,0 +1,21 @@
+{
+  "audio_player_rj25": "កម្មវិធីចាក់សំឡេង",
+  "extensionName": "កម្មវិធីចាក់សំឡេង",
+  "audioplayer_init": "ដំណើរការពីដំបូងនៃម៉ាស៊ីនចាក់សំឡេងនៅៈ ច្រកពណ៌សណាមួយ (12C)",
+  "audioplayer_play_by_name": "កម្មវិធីចាក់សំឡេង ឈ្មោះឯកសារសំឡេង [FILE_NAME]",
+  "audioplayer_record_stop": "កម្មវិធីចាក់សំឡេងៈ បញ្ឈប់ការថតសំឡេង",
+  "audioplayer_record": "កម្មវិធីចាក់សំឡេង: ចាប់ផ្តើមថតនិងរក្សាទុកជា [FILE_NAME]",
+  "audioplayer_volume_down": "កម្មវិធីចាក់សំឡេងៈ បន្ថយសំឡេង",
+  "audioplayer_volume_up": "កម្មវិធីចាក់សំឡេងៈ ដំឡើងសំឡេង",
+  "audioplayer_set_volume": "កម្មវិធីចាក់សំឡេង: ដាក់កម្រិតសំឡេងត្រឹម [VOLUME] %",
+  "audioplayer_stop": "កម្មវិធីចាក់សំឡេងៈ បញ្ឈប់ការលេង",
+  "audioplayer_play_by_sn": "កម្មវិធីចាក់សំឡេងៈ លេង [FILE_SN] ឯកសារសំឡេង",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "តែ​មួយ",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "វិលជុំ",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "តាមលំដាប់",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "ចាក់​បទចុះ​ឡើង",
+  "audioplayer_set_play_mode": "កម្មវិធីចាក់សំឡេង: ដាក់ម៉ូតជា [PLAY_MODE]",
+  "audioplayer_play_previous": "កម្មវិធីចាក់សំឡេងៈ ចាក់ឯកសារសំឡេងពីមុន",
+  "audioplayer_play_next": "កម្មវិធីចាក់សំឡេងៈ ចាក់ឯកសារសំឡេងបន្ទាប់",
+  "audioplayer_pause": "កម្មវិធីចាក់សំឡេងៈ ផ្អាក/បន្ត"
+}

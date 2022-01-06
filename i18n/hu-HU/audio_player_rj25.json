@@ -1,0 +1,21 @@
+{
+  "audio_player_rj25": "Audiolejátszó",
+  "extensionName": "Audiolejátszó",
+  "audioplayer_init": "hanglejátszó inicializálása: tetszőleges fehér port (I2C)",
+  "audioplayer_play_by_name": "audiolejátszó: [FILE_NAME] lajátszása",
+  "audioplayer_record_stop": "audiolejátszó: rögzítés leállítása",
+  "audioplayer_record": "audiolejátszó: rögzítés indítása és mentés ide: [FILE_NAME]",
+  "audioplayer_volume_down": "audiolejátszó: hangerő csökkentés",
+  "audioplayer_volume_up": "audiolejátszó: hangerő növelés",
+  "audioplayer_set_volume": "audiolejátszó: hangerő [VOLUME] % értékre",
+  "audioplayer_stop": "audiolejátszó: lejátszás leállítása",
+  "audioplayer_play_by_sn": "audiolejátszó: [FILE_SN] lejátszása",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "egy",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "ciklikus",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "sorrendben",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "véltlenszerű",
+  "audioplayer_set_play_mode": "audiolejátszó: üzemmód beállítása erre: [PLAY_MODE]",
+  "audioplayer_play_previous": "audiolejátszó: előző fájl lejátszása",
+  "audioplayer_play_next": "audiolejátszó: következő fájl lejátszása",
+  "audioplayer_pause": "audiolejátszó: szünet/folytatás"
+}

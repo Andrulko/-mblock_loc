@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "Alto",
+  "text2speech.categoryName": "Tekst na mowę",
+  "text2speech.defaultTextToSpeak": "Cześć",
+  "text2speech.giant": "Olbrzymie",
+  "text2speech.kitten": "Kitten",
+  "text2speech.setLanguageBlock": "Ustaw język na [LANGUAGE]",
+  "text2speech.setVoiceBlock": "Ustaw głos na [VOICE]",
+  "text2speech.speakAndWaitBlock": "Mówić [WORDS]",
+  "text2speech.squeak": "Pisk",
+  "text2speech.tenor": "Tenor"
+}

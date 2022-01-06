@@ -1,0 +1,9 @@
+{
+  "codey_upload_mode_message": "Igotzeko moduaren emisioa",
+  "extensionName": "Igotzeko moduaren emisioa",
+  "SendUploadModeMessage": "karga-moduaren mezua bidaltzen du [message]",
+  "SendUploadModeMessageWithValue": "[message] kargatze-moduaren mezua bidali du [value] balioarekin",
+  "whenReceivingUploadModeMessage ": "karga-moduaren mezua jasotzean [message]",
+  "UploadModeMessageValue": "karga-mezuaren [message]balioa",
+  "extensionDescription": "Luzapen hori erabiliz, gailuak spritekin elkarreraginean jardun dezake kargatze-modua pizten denean."
+}

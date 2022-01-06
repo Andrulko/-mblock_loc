@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "lefelé nyíl",
+  "makeymakey.downArrowShort": "le",
+  "makeymakey.leftArrow": "balra nyíl",
+  "makeymakey.leftArrowShort": "bal",
+  "makeymakey.rightArrow": "jobbra nyílbillentyű",
+  "makeymakey.rightArrowShort": "jobb",
+  "makeymakey.spaceKey": "szóköz",
+  "makeymakey.upArrow": "felfelé nyíl",
+  "makeymakey.upArrowShort": "fel",
+  "makeymakey.whenKeyPressed": "mikor [KEY] gomb megnyomva",
+  "makeymakey.whenKeysPressedInOrder": "mikor [SEQUENCE] megnyomva"
+}

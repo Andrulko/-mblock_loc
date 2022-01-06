@@ -1,0 +1,14 @@
+{
+  "videoSensing.categoryName": "Video Sensing",
+  "videoSensing.direction": "Richtung",
+  "videoSensing.motion": "bewegung",
+  "videoSensing.off": "aus",
+  "videoSensing.on": "an",
+  "videoSensing.onFlipped": "on flipped",
+  "videoSensing.setVideoTransparency": "set video transparency to [TRANSPARENCY]",
+  "videoSensing.sprite": "Figur",
+  "videoSensing.stage": "Bühne",
+  "videoSensing.videoOn": "video [ATTRIBUTE] on [SUBJECT]",
+  "videoSensing.videoToggle": "turn video [VIDEO_STATE]",
+  "videoSensing.whenMotionGreaterThan": "when video motion > [REFERENCE]"
+}

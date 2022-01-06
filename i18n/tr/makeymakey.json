@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "aşağı ok",
+  "makeymakey.downArrowShort": "aşağı",
+  "makeymakey.leftArrow": "sol ok",
+  "makeymakey.leftArrowShort": "sol",
+  "makeymakey.rightArrow": "sağ ok",
+  "makeymakey.rightArrowShort": "sağ",
+  "makeymakey.spaceKey": "boşluk",
+  "makeymakey.upArrow": "yukarı ok",
+  "makeymakey.upArrowShort": "yukarı",
+  "makeymakey.whenKeyPressed": "Tesis [KEY] tuşuna basıldığında",
+  "makeymakey.whenKeysPressedInOrder": "Tesis [SEQUENCE] sırada basılı"
+}

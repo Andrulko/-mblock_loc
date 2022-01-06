@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "Hodeian zabalkundea",
+  "extensionName": "Erabiltzailearen mezua hodeian",
+  "SEND_CLOUD_MSG": "hodei mezua bidali [message]",
+  "SEND_CLOUD_MSG_VALUE": "hodei mezua bidali [message][value] balioarekin",
+  "WHEN_RECEIVE_CLOUD_MSG": "erabiltzailearen hodeiko [message] mezua jasotzen dudanean",
+  "GET_CLOUD_MSG_VALUE": "hodei-mezuaren balioa [message]",
+  "cloud": "Hodeian zabalkundea",
+  "use_cloud_messenge": "Erabiltzailearen mezua hodeian",
+  "CATE_U_C_MSG": "Erabiltzailearen mezua hodeian",
+  "extensionDescription": "Erabiltzaile-hodeiaren mezuaren luzapenarekin, zure kontuko datuak erraz sinkroniza ditzakezu hainbat gailu eta proiektutan.   ",
+  "SEND_USER_CLOUD_MSG": "erabiltzaile hodei mezua bidali [message]",
+  "SEND_USER_CLOUD_MSG_VALUE": "erabiltzaile hodei mezua bidali [message][value] balioarekin",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "erabiltzailearen hodeiko [message] mezua jasotzen dudanean",
+  "GET_USER_CLOUD_MSG_VALUE": "erabiltzaile hodei-mezuaren balioa [message]",
+  "user_cloud_message": "Erabiltzailearen mezua hodeian",
+  "SEND_USER_CLOUD_MSG_WAIT": "erabiltzaile hodei mezua bidali [message] eta itxoin",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "erabiltzaile hodei mezua bidali [message][value] balioarekin eta itxoin"
+}

@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Phát biểu với văn bản",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "Phát biểu với văn bản",
+  "speech.listenAndWait": "lắng nghe và chờ đợi",
+  "speech.speechReporter": "giọng nói",
+  "speech.whenIHear": "khi tôi nghe [PHRASE]"
+}

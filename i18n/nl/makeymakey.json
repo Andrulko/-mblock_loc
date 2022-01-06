@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "pijl omlaag",
+  "makeymakey.downArrowShort": "naar beneden",
+  "makeymakey.leftArrow": "pijl links",
+  "makeymakey.leftArrowShort": "links",
+  "makeymakey.rightArrow": "pijl rechts",
+  "makeymakey.rightArrowShort": "rechts",
+  "makeymakey.spaceKey": "spatiebalk",
+  "makeymakey.upArrow": "pijl omhoog",
+  "makeymakey.upArrowShort": "omhoog",
+  "makeymakey.whenKeyPressed": "wanneer [KEY] wordt ingedrukt",
+  "makeymakey.whenKeysPressedInOrder": "wanneer [SEQUENCE] in volgorde ingedrukt is"
+}

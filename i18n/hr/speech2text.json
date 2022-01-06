@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Govor u Tekst",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "Govor u Tekst",
+  "speech.listenAndWait": "slušaj i čekaj",
+  "speech.speechReporter": "govor",
+  "speech.whenIHear": "kada čujem [PHRASE]"
+}

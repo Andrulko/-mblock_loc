@@ -1,0 +1,14 @@
+{
+  "videoSensing.categoryName": "Аналіз відео",
+  "videoSensing.direction": "напрям",
+  "videoSensing.motion": "рух",
+  "videoSensing.off": "викл",
+  "videoSensing.on": "вкл",
+  "videoSensing.onFlipped": "на перевернутому",
+  "videoSensing.setVideoTransparency": "встановити прозорість відео на [TRANSPARENCY]",
+  "videoSensing.sprite": "спрайт",
+  "videoSensing.stage": "сцена",
+  "videoSensing.videoOn": "відео [ATTRIBUTE] на [SUBJECT]",
+  "videoSensing.videoToggle": "повернути відео [VIDEO_STATE]",
+  "videoSensing.whenMotionGreaterThan": "коли рух на відео > [REFERENCE]"
+}

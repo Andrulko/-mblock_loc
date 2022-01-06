@@ -1,0 +1,11 @@
+{
+  "cyberpi_upload_message": "Sending av opplastingsmodus",
+  "extensionName": "Sending av opplastingsmodus",
+  "extensionDescription": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+  "BLOCK_1551748322055": "send melding med opplastingsmodus [message]",
+  "BLOCK_1551748500023": "send melding med opplastingsmodus [message] med verdi [value]",
+  "BLOCK_1551748632732": "når du mottar melding med opplastingsmodus [message]",
+  "BLOCK_1551748721826": "opplastingsmodus meldings [message] verdi",
+  "cate_70548abe": "Sending av opplastingsmodus",
+  "halocode_upload_message": "Sending av opplastingsmodus"
+}

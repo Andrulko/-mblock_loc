@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Discours au texte",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "Discours au texte",
+  "speech.listenAndWait": "écouter et attendre",
+  "speech.speechReporter": "discours",
+  "speech.whenIHear": "quand j'entends [PHRASE]"
+}

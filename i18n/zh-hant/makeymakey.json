@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "下移鍵",
+  "makeymakey.downArrowShort": "向下",
+  "makeymakey.leftArrow": "左移鍵",
+  "makeymakey.leftArrowShort": "左邊",
+  "makeymakey.rightArrow": "右移鍵",
+  "makeymakey.rightArrowShort": "右邊",
+  "makeymakey.spaceKey": "空白鍵",
+  "makeymakey.upArrow": "上移鍵",
+  "makeymakey.upArrowShort": "向上",
+  "makeymakey.whenKeyPressed": "當 [KEY] 按鈕被按下",
+  "makeymakey.whenKeysPressedInOrder": "當 [SEQUENCE] 按鈕被依序按下"
+}

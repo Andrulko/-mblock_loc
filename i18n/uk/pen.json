@@ -1,0 +1,21 @@
+{
+  "pen.name": "Ручка",
+  "pen.categoryName": "Ручка",
+  "pen.colorMenu.color": "колір",
+  "pen.colorMenu.saturation": "насиченість",
+  "pen.colorMenu.brightness": "яскравість",
+  "pen.colorMenu.transparency": "прозорість",
+  "pen.clear": "Стерти все",
+  "pen.stamp": "штамп",
+  "pen.penDown": "ручка вниз",
+  "pen.penUp": "підняти ручку",
+  "pen.setColor": "встановити колір ручки на [COLOR]",
+  "pen.changeColorParam": "змінити колір ручки [COLOR_PARAM] на [VALUE] одиниць",
+  "pen.setColorParam": "задати ручці [COLOR_PARAM] значення [VALUE]",
+  "pen.changeSize": "змінити розмір ручки на [SIZE]",
+  "pen.setSize": "встановити розмір ручки на [SIZE]",
+  "pen.setShade": "встановити тінь ручки [SHADE]",
+  "pen.changeShade": "змінити тінь ручки на [SHADE]",
+  "pen.setHue": "встановити колір ручки на [HUE]",
+  "pen.changeHue": "змінити колір ручки на [HUE]"
+}

@@ -1,0 +1,21 @@
+{
+  "pen.name": "Bút",
+  "pen.categoryName": "Bút",
+  "pen.colorMenu.color": "màu sắc",
+  "pen.colorMenu.saturation": "độ bão hòa",
+  "pen.colorMenu.brightness": "độ sáng",
+  "pen.colorMenu.transparency": "độ trong suốt",
+  "pen.clear": "xóa tất cả",
+  "pen.stamp": "con dấu",
+  "pen.penDown": "bút đi xuống",
+  "pen.penUp": "vẽ",
+  "pen.setColor": "chọn màu bút là [COLOR]",
+  "pen.changeColorParam": "thay đổi bút [COLOR_PARAM] thành [VALUE]",
+  "pen.setColorParam": "chọn bút [COLOR_PARAM] với [VALUE]",
+  "pen.changeSize": "tăng kích thước thêm [SIZE]",
+  "pen.setSize": "Kích thước thiết lập đến [SIZE]",
+  "pen.setShade": "chọn độ bóng của bút [SHADE]",
+  "pen.changeShade": "thay đổi độ bóng bút bằng [SHADE]",
+  "pen.setHue": "chọn màu bút là [HUE]",
+  "pen.changeHue": "thay đổi màu bút bằng [HUE]"
+}

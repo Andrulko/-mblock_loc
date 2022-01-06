@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "fletxa avall",
+  "makeymakey.downArrowShort": "down",
+  "makeymakey.leftArrow": "fletxa esquerra",
+  "makeymakey.leftArrowShort": "left",
+  "makeymakey.rightArrow": "fletxa dreta",
+  "makeymakey.rightArrowShort": "right",
+  "makeymakey.spaceKey": "espai",
+  "makeymakey.upArrow": "Fletxa amunt",
+  "makeymakey.upArrowShort": "up",
+  "makeymakey.whenKeyPressed": "when [KEY] key pressed",
+  "makeymakey.whenKeysPressedInOrder": "when [SEQUENCE] pressed in order"
+}

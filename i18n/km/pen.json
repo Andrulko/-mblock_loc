@@ -1,0 +1,21 @@
+{
+  "pen.name": "ប៊ិច",
+  "pen.categoryName": "ប៊ិច",
+  "pen.colorMenu.color": "ពណ៌",
+  "pen.colorMenu.saturation": "កម្រិតដិត",
+  "pen.colorMenu.brightness": "កម្រិតពន្លឺ",
+  "pen.colorMenu.transparency": "ភាព​ច្បាស់",
+  "pen.clear": "លុបទាំងអស់",
+  "pen.stamp": "ត្រា",
+  "pen.penDown": "ទាញប៊ិចចុះ",
+  "pen.penUp": "លើកប៊ិចឡើង",
+  "pen.setColor": "ដាក់ពណ៌ប៊ិចត្រឹម [COLOR]",
+  "pen.changeColorParam": "ប្តូរប៊ិច [COLOR_PARAM] ត្រឹម [VALUE]",
+  "pen.setColorParam": "ដាក់ប៊ិត [COLOR_PARAM] ត្រឹម [VALUE]",
+  "pen.changeSize": "ប្តូរទំហំប៊ិចត្រឹម [SIZE]",
+  "pen.setSize": "ដាក់ទំហំប៊ិចត្រឹម [SIZE]",
+  "pen.setShade": "ដាក់ស្រមោលប៊ិចត្រឹម [SHADE]",
+  "pen.changeShade": "ប្តូរស្រមោលប៊ិចត្រឹម [SHADE]",
+  "pen.setHue": "ដាក់ពណ៌ប៊ិចទៅជា [HUE]",
+  "pen.changeHue": "ប្តូរពណ៌ប៊ិចទៅជា [HUE]"
+}

@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Zamiana mowy na tekst",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "Zamiana mowy na tekst",
+  "speech.listenAndWait": "Słuchaj i czekaj",
+  "speech.speechReporter": "Mowy",
+  "speech.whenIHear": "gdy słyszę [PHRASE]"
+}

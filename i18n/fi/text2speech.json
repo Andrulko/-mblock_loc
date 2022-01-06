@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "Teksti puheeksi",
+  "text2speech.defaultTextToSpeak": "Moi",
+  "text2speech.giant": "jättiläinen",
+  "text2speech.kitten": "kissanpentu",
+  "text2speech.setLanguageBlock": "aseta kieli [LANGUAGE]",
+  "text2speech.setVoiceBlock": "aseta ääni [VOICE]",
+  "text2speech.speakAndWaitBlock": "puhua [WORDS]",
+  "text2speech.squeak": "kitistä",
+  "text2speech.tenor": "tenori"
+}

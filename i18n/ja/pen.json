@@ -1,0 +1,21 @@
+{
+  "pen.name": "ペン",
+  "pen.categoryName": "ペン",
+  "pen.colorMenu.color": "色",
+  "pen.colorMenu.saturation": "彩度",
+  "pen.colorMenu.brightness": "明るさ",
+  "pen.colorMenu.transparency": "透明度",
+  "pen.clear": "すべて消去",
+  "pen.stamp": "スタンプ",
+  "pen.penDown": "ペンを下ろす",
+  "pen.penUp": "ペンを上げる",
+  "pen.setColor": "ペンの色を [COLOR] にする",
+  "pen.changeColorParam": "ペン[COLOR_PARAM] を[VALUE] ずつ変える",
+  "pen.setColorParam": "ペン[COLOR_PARAM] を[VALUE] に変える",
+  "pen.changeSize": "ペンの太さを [SIZE] ずつ変える",
+  "pen.setSize": "ペンの太さを [SIZE] にする",
+  "pen.setShade": "ペンの濃さを [SHADE] にする",
+  "pen.changeShade": "ペンの濃さを [SHADE] ずつ変える",
+  "pen.setHue": "ペンの色を [HUE] にする",
+  "pen.changeHue": "ペンの色を [HUE] ずつ変える"
+}

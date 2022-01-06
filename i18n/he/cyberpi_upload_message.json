@@ -1,0 +1,11 @@
+{
+  "cyberpi_upload_message": "מצב העלאה שידור",
+  "extensionName": "מצב העלאה שידור",
+  "extensionDescription": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+  "BLOCK_1551748322055": "שלח הודעה למצב העלאה[message]",
+  "BLOCK_1551748500023": "שלח הודעה למצב העלאה[message] עם ערך[value]",
+  "BLOCK_1551748632732": "כשמתקבלת הודעה במצב העלאה [message]",
+  "BLOCK_1551748721826": "הודעת מצב ההעלאה [message] ערך",
+  "cate_70548abe": "מצב העלאה שידור",
+  "halocode_upload_message": "מצב העלאה שידור"
+}

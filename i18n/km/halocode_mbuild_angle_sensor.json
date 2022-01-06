@@ -1,0 +1,20 @@
+{
+  "halocode_mbuild_angle_sensor": "ឧបករណ៍វាស់មុំ",
+  "extensionName": "ឧបករណ៍វាស់មុំ",
+  "extensionDescription": "",
+  "BLOCK_1559703114098_INDEX_0": "១",
+  "BLOCK_1559703114098_INDEX_1": "២",
+  "BLOCK_1559703114098_INDEX_2": "៣",
+  "BLOCK_1559703114098_INDEX_3": "៤",
+  "BLOCK_1559703114098_INDEX_4": "៥",
+  "BLOCK_1559703114098_INDEX_5": "៦",
+  "BLOCK_1559703114098_INDEX_6": "៧",
+  "BLOCK_1559703114098_INDEX_7": "៨",
+  "BLOCK_1559703114098": "angle sensor [index] rotated angle(°)",
+  "BLOCK_1559703352577": "ឧបករណ៍វាស់មុំ [index] កំណត់មុំបង្វិលឡើងវិញ",
+  "BLOCK_1559703305709": "angle sensor[index] angular velocity (°/s)",
+  "BLOCK_1559703446126_DIR_0": "ស្រប​ទិស​ទ្រនិច​នាឡិកា",
+  "BLOCK_1559703446126_DIR_1": "បញ្ច្រាសទិស​ទ្រនិច​នាឡិកា",
+  "BLOCK_1559703446126": "angle sensor[index] [dir] is rotating?",
+  "cate_04e224f4": "ឧបករណ៍វាស់មុំ"
+}

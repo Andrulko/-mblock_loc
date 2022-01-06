@@ -1,0 +1,10 @@
+{
+  "sprite_broadcast": "Transmitir mensajes en Modo de carga",
+  "extensionName": "Transmitir mensajes en Modo de carga",
+  "extensionDescription": "Al añadir esta extensión, permites que un dispositivo pueda interactuar con un gráfico animado en el Modo de carga.",
+  "BLOCK_1546412605792": "envía mensaje de modo de carga [MESSAGE]",
+  "BLOCK_1546413597853": "envía mensaje de modo de carga [MESSAGE] con valor [VALUE]",
+  "BLOCK_1546413700881": "al recibir mensaje de modo de carga [MESSAGE]",
+  "BLOCK_1546415356012": "valor del mensaje en modo de carga [MESSAGE]",
+  "cate_sprite_broadcast": "Transmitir mensajes en Modo de carga"
+}

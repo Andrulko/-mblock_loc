@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "ផ្ទាំងកម្មវិធីនៃការទទួលស្គាល់",
+  "COGNITIVE.WINDOW.OPENED": "ផ្ទាំងកម្មវិធីនៃការទទួលស្គាល់ត្រូវបានបើក",
+  "COGNITIVE.WINDOW.NOOPENED": "គ្មានផ្ផ្ទាំងកម្មវិធីនៃការទទួលស្គាល់ត្រូវបានបើកទេ។ សូមបើកផ្ទាំងកម្មវិធី។",
+  "COGNITIVE.VIDEO.NOTFOUND": "រកមិនឃើញកាមេរ៉ាទេ។",
+  "COGNITIVE.VIDEO.NOOPEN": "កាមេរ៉ារបស់អ្នកមិនបានបើកទេ។",
+  "COGNITIVE.AUDIO.NOTFOUND": "មិនអាចរកឃើញមីក្រូហ្វូនទេ។",
+  "COGNITIVE.AUDIO.NOOPEN": "មីក្រូហ្វូនរបស់អ្នកមិនបានបើកទេ។",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "ការបញ្ចូលតាមរយៈការស្គាល់សម្តី..."
+}

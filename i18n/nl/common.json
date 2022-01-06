@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Herkenningsvenster",
+  "COGNITIVE.WINDOW.OPENED": "Het herkenningsvenster is open.",
+  "COGNITIVE.WINDOW.NOOPENED": "Er is geen open herkenningsvenster. Open het venster aub.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Geen camera gedetecteerd.",
+  "COGNITIVE.VIDEO.NOOPEN": "Uw camera staat uit.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Er werd geen microfoon gevonden.",
+  "COGNITIVE.AUDIO.NOOPEN": "Uw microfoon staat uit.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Invoeren via spraakherkenning..."
+}

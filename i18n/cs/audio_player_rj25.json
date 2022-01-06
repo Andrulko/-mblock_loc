@@ -1,0 +1,21 @@
+{
+  "audio_player_rj25": "Přehrávač hudby",
+  "extensionName": "Přehrávač hudby",
+  "audioplayer_init": "inicializovat zvukový přehrávač na: jakýkoli bílý port (I2C)",
+  "audioplayer_play_by_name": "audio přehrávač: přehrání zvukového souboru s názvem [FILE_NAME]",
+  "audioplayer_record_stop": "audio přehrávač: zastavit nahrávání",
+  "audioplayer_record": "audio přehrávač: spuštění nahrávání a uložení do [FILE_NAME]",
+  "audioplayer_volume_down": "audio přehrávač: snížit hlasitost",
+  "audioplayer_volume_up": "přehrávač hudby - zvýšit hlasitost",
+  "audioplayer_set_volume": "audio přehrávač: nastavení hlasitosti [VOLUME] %",
+  "audioplayer_stop": "audio přehrávač: zastavit přehrávání",
+  "audioplayer_play_by_sn": "audio přehrávač: přehrát [FILE_SN] zvukový soubor",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "jednotlivý",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "smyčka",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "pořadí",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "zamíchat",
+  "audioplayer_set_play_mode": "audio přehrávač: nastavit režim na [PLAY_MODE]",
+  "audioplayer_play_previous": "audio přehrávač: přehrát předchozí zvukový soubor",
+  "audioplayer_play_next": "audio přehrávač: přehrát další zvukový soubor",
+  "audioplayer_pause": "audio přehrávač: pauza/pokračování"
+}

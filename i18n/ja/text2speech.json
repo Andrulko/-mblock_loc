@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "テキストから音声",
+  "text2speech.defaultTextToSpeak": "こんにちは",
+  "text2speech.giant": "大きい",
+  "text2speech.kitten": "子猫",
+  "text2speech.setLanguageBlock": "言語を[LANGUAGE] に設定する",
+  "text2speech.setVoiceBlock": "音量を[VOICE] に設定する",
+  "text2speech.speakAndWaitBlock": "[WORDS] を話す",
+  "text2speech.squeak": "キーキー声",
+  "text2speech.tenor": "テナー"
+}

@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "認識画面",
+  "COGNITIVE.WINDOW.OPENED": "認識画面が現れました。",
+  "COGNITIVE.WINDOW.NOOPENED": "認識画面が現れていません。起動してください。",
+  "COGNITIVE.VIDEO.NOTFOUND": "カメラは検出されません。",
+  "COGNITIVE.VIDEO.NOOPEN": "カメラが起動していません。",
+  "COGNITIVE.AUDIO.NOTFOUND": "マイクを検出できません。",
+  "COGNITIVE.AUDIO.NOOPEN": "マイクが起動していません。",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "音声認識結果を入力中…"
+}

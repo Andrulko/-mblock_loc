@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "แปลงข้อความเป็นเสียง",
+  "text2speech.defaultTextToSpeak": "สวัสดี",
+  "text2speech.giant": "ยักษ์",
+  "text2speech.kitten": "ลูกแมว",
+  "text2speech.setLanguageBlock": "set ภาษา to [LANGUAGE]",
+  "text2speech.setVoiceBlock": "set voice to [VOICE]",
+  "text2speech.speakAndWaitBlock": "speak [WORDS]",
+  "text2speech.squeak": "squeak",
+  "text2speech.tenor": "tenor"
+}

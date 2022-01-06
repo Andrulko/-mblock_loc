@@ -1,0 +1,20 @@
+{
+  "extensionName": "センシングギズモ",
+  "extensionDescription": "2つのmBot Rangerのかくちょうプロジェクトでは、センサーをにちじょうせいかつでしようするほうほう、でんしきかいをよりよくりかいすることなどがまなべます。 ",
+  "CATEGORY_PERCEPTION": "センシングギズモ",
+  "auriga_perception_gizmos": "センシングギズモ",
+  "auriga_detect_potentiometer": "[ICON] ポテンショメータ[PORT] のち",
+  "auriga_detec_temperature": "[ICON]おんどセンサー[PORT] の[SLOT] のち(℃)",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_1": "スロット2",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_0": "スロット1",
+  "auriga_detect_external_loudness": "[ICON]おんせいセンサー [PORT] のおんりょう",
+  "auriga_run_fan": "[ICON]ファン [PORT] を[FAN_ROTATE]にする",
+  "AURIGA_RUN_FAN_FAN_ROTATE_2": "をとめる",
+  "AURIGA_RUN_FAN_FAN_ROTATE_1": "はんとけいまわり",
+  "AURIGA_RUN_FAN_FAN_ROTATE_0": "とけいまわり",
+  "AURIGA_RUN_FAN_PORT_4": "ポート10",
+  "AURIGA_RUN_FAN_PORT_3": "ポート9",
+  "AURIGA_RUN_FAN_PORT_2": "ポート8",
+  "AURIGA_RUN_FAN_PORT_1": "ポート7",
+  "AURIGA_RUN_FAN_PORT_0": "ポート6"
+}

@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "Tekst til tale",
+  "text2speech.defaultTextToSpeak": "hallo",
+  "text2speech.giant": "kjempe",
+  "text2speech.kitten": "kattunge",
+  "text2speech.setLanguageBlock": "angi språk til [LANGUAGE]",
+  "text2speech.setVoiceBlock": "sett stemme til [VOICE]",
+  "text2speech.speakAndWaitBlock": "snakke [WORDS]",
+  "text2speech.squeak": "pip",
+  "text2speech.tenor": "tenor"
+}

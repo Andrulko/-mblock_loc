@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "aşagy ok",
+  "makeymakey.downArrowShort": "aşak",
+  "makeymakey.leftArrow": "çepe ok",
+  "makeymakey.leftArrowShort": "çep",
+  "makeymakey.rightArrow": "saga ok",
+  "makeymakey.rightArrowShort": "sag",
+  "makeymakey.spaceKey": "boşluk",
+  "makeymakey.upArrow": "ýokary ok",
+  "makeymakey.upArrowShort": "ýokary",
+  "makeymakey.whenKeyPressed": "haçan-da [KEY] düwmesi basylan wagty",
+  "makeymakey.whenKeysPressedInOrder": "haçan-da [SEQUENCE] tertibi boýunça basylan wagty"
+}

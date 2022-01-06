@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "Cloud uitzending",
+  "extensionName": "Gebruiker cloud bericht",
+  "SEND_CLOUD_MSG": "stuur cloud bericht[message]",
+  "SEND_CLOUD_MSG_VALUE": "stuur cloud bericht[message] met waarde[value]",
+  "WHEN_RECEIVE_CLOUD_MSG": "wanneer ik cloud bericht [message] ontvang",
+  "GET_CLOUD_MSG_VALUE": "cloud bericht[message] waarde",
+  "cloud": "Cloud uitzending",
+  "use_cloud_messenge": "Gebruiker cloud bericht",
+  "CATE_U_C_MSG": "Gebruiker cloud bericht",
+  "extensionDescription": "Met de gebruiker cloud-bericht-extensie kunt u eenvoudig gegevens van uw account synchroniseren over verschillende apparaten en projecten.   ",
+  "SEND_USER_CLOUD_MSG": "stuur gebruiker cloud bericht[message]",
+  "SEND_USER_CLOUD_MSG_VALUE": "stuur gebruiker cloud bericht[message] met waarde[value]",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "wanneer ik gebruiker cloud bericht [message] ontvang",
+  "GET_USER_CLOUD_MSG_VALUE": "gebruiker cloud bericht[message] waarde",
+  "user_cloud_message": "Gebruiker cloud bericht",
+  "SEND_USER_CLOUD_MSG_WAIT": "stuur gebruiker cloud bericht[message] en wacht",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "stuur gebruiker cloud bericht[message] met waarde[value] en wacht"
+}

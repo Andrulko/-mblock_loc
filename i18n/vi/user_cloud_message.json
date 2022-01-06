@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "Phát sóng trên đám mây",
+  "extensionName": "Tin nhắn đám mây của người dùng",
+  "SEND_CLOUD_MSG": "gửi tin nhắn đám mây[message]",
+  "SEND_CLOUD_MSG_VALUE": "gửi tin nhắn đám mây [message] với giá trị [value]",
+  "WHEN_RECEIVE_CLOUD_MSG": "khi nhận được tin nhắn đám mây [message]",
+  "GET_CLOUD_MSG_VALUE": "giá trị của tin nhắn đám mây[message]",
+  "cloud": "Phát sóng trên đám mây",
+  "use_cloud_messenge": "Tin nhắn đám mây của người dùng",
+  "CATE_U_C_MSG": "Tin nhắn đám mây của người dùng",
+  "extensionDescription": "Với tiện ích tin nhắn đám mây của người dùng, bạn có thể dễ dàng đồng bộ hóa dữ liệu của tài khoản trên các thiết bị và dự án khác nhau.   ",
+  "SEND_USER_CLOUD_MSG": "gửi tin nhắn đám mây người dùng[message]",
+  "SEND_USER_CLOUD_MSG_VALUE": "gửi tin nhắn đám mây người dùng [message] với giá trị [value]",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "khi tôi nhận được thông báo đám mây của người dùng [message]",
+  "GET_USER_CLOUD_MSG_VALUE": "tin nhắn đám mây[message] giá trị",
+  "user_cloud_message": "Tin nhắn đám mây của người dùng",
+  "SEND_USER_CLOUD_MSG_WAIT": "gửi tin nhắn đám mây người dùng[message] và chờ đợi",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "gửi tin nhắn đám mây người dùng[message] với giá trị[value] và chờ đợi"
+}

@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "下向き矢印",
+  "makeymakey.downArrowShort": "下",
+  "makeymakey.leftArrow": "左向き矢印",
+  "makeymakey.leftArrowShort": "左",
+  "makeymakey.rightArrow": "右向き矢印",
+  "makeymakey.rightArrowShort": "右",
+  "makeymakey.spaceKey": "スペース",
+  "makeymakey.upArrow": "上向き矢印",
+  "makeymakey.upArrowShort": "上",
+  "makeymakey.whenKeyPressed": "[KEY] キーが押されたとき",
+  "makeymakey.whenKeysPressedInOrder": "[SEQUENCE] が順番に押されたとき"
+}

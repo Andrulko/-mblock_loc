@@ -1,0 +1,21 @@
+{
+  "audio_player_rj25": "Reproductor d'àudio",
+  "extensionName": "Reproductor d'àudio",
+  "audioplayer_init": "inicialitza el reproductor d'àudio a qualsevol port blanc (I2C)",
+  "audioplayer_play_by_name": "reproductor d'àudio: reprodueix l'arxiu [FILE_NAME]",
+  "audioplayer_record_stop": "reproductor d'àudio: deixa de gravar",
+  "audioplayer_record": "reproductor d'àudio: comença a gravar i desa-ho a [FILE_NAME]",
+  "audioplayer_volume_down": "reproductor d'àudio: abaixa el volum",
+  "audioplayer_volume_up": "reproductor d'àudio: apuja el volum",
+  "audioplayer_set_volume": "reproductor d'àudio: estableix el voluem al [VOLUME]%",
+  "audioplayer_stop": "reproductor d'àudio: deixa de sonar",
+  "audioplayer_play_by_sn": "reproductor d'àudio: reprodueix l'arxiu de so [FILE_SN]",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "una cançó",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "bucle",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "en ordre",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "aleatori",
+  "audioplayer_set_play_mode": "reproductor d'àudio: estableix l'ordre de reproducció a [PLAY_MODE]",
+  "audioplayer_play_previous": "reproductor d'àudio: reprodueix l'arxiu de so previ",
+  "audioplayer_play_next": "reproductor d'àudio: reprodueix el següent arxiu de so",
+  "audioplayer_pause": "reproductor d'àudio: pausa / continua"
+}

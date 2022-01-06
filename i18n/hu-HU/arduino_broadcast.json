@@ -1,0 +1,10 @@
+{
+  "arduino_broadcast": "Feltöltési mód Broadcast",
+  "extensionName": "Feltöltési mód Broadcast",
+  "extensionDescription": "A bővítmény hozzáadásával lehetővé teszi, hogy egy eszköz a feltöltési módban lévő sprite-okkal kölcsönhatásba kerüljön.",
+  "BLOCK_1546412605792": "feltöltési mód üzenet küldése [MESSAGE] ",
+  "BLOCK_1546413597853": "[MESSAGE] feltöltési mód üzenet küldése [VALUE] értékkel ",
+  "BLOCK_1546413700881": "a feltöltési módú üzenet fogadásakor [MESSAGE] ",
+  "BLOCK_1546415356012": "feltöltési mód üzenet érték",
+  "cate_d9ae47fa": "Feltöltési mód Broadcast"
+}

@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "Alanuoli",
+  "makeymakey.downArrowShort": "Alas",
+  "makeymakey.leftArrow": "vasen nuoli",
+  "makeymakey.leftArrowShort": "Vasemmalle",
+  "makeymakey.rightArrow": "oikea nuoli",
+  "makeymakey.rightArrowShort": "Oikea",
+  "makeymakey.spaceKey": "Tilaa",
+  "makeymakey.upArrow": "nuoli ylös",
+  "makeymakey.upArrowShort": "jopa",
+  "makeymakey.whenKeyPressed": "kun painetaan [KEY]",
+  "makeymakey.whenKeysPressedInOrder": "kun [SEQUENCE] painettu järjestyksessä"
+}

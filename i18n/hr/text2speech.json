@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "Tekst u Govor",
+  "text2speech.defaultTextToSpeak": "bok",
+  "text2speech.giant": "div",
+  "text2speech.kitten": "mačić",
+  "text2speech.setLanguageBlock": "postavi jezik na [LANGUAGE]",
+  "text2speech.setVoiceBlock": "postavi glas na [VOICE]",
+  "text2speech.speakAndWaitBlock": "govori [WORDS]",
+  "text2speech.squeak": "zaškripi",
+  "text2speech.tenor": "tenor"
+}

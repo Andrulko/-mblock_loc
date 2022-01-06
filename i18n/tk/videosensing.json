@@ -1,0 +1,14 @@
+{
+  "videoSensing.categoryName": "Video Sensing",
+  "videoSensing.direction": "ugur",
+  "videoSensing.motion": "hereket",
+  "videoSensing.off": "öçük",
+  "videoSensing.on": "açyk",
+  "videoSensing.onFlipped": "on flipped",
+  "videoSensing.setVideoTransparency": "set video transparency to [TRANSPARENCY]",
+  "videoSensing.sprite": "sprite",
+  "videoSensing.stage": "stage",
+  "videoSensing.videoOn": "video [ATTRIBUTE] on [SUBJECT]",
+  "videoSensing.videoToggle": "turn video [VIDEO_STATE]",
+  "videoSensing.whenMotionGreaterThan": "when video motion > [REFERENCE]"
+}

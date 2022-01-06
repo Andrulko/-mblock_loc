@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "البث السحابي",
+  "extensionName": "رسالة سحابة المستخدم",
+  "SEND_CLOUD_MSG": "إرسال رسالة سحابة[message]",
+  "SEND_CLOUD_MSG_VALUE": "إرسال رسالة سحابة[message]  مع قيمة [value]",
+  "WHEN_RECEIVE_CLOUD_MSG": "عندما أتلقى رسالة سحابة [message]",
+  "GET_CLOUD_MSG_VALUE": "رسالة سحابة[message]قيمه",
+  "cloud": "البث السحابي",
+  "use_cloud_messenge": "رسالة سحابة المستخدم",
+  "CATE_U_C_MSG": "رسالة سحابة المستخدم",
+  "extensionDescription": "مع إضافة رسالة سحابة المستخدم، يمكنك بسهولة مزامنة بيانات حسابك عبر الأجهزة والمشاريع المختلفة.   ",
+  "SEND_USER_CLOUD_MSG": "إرسال رسالة سحابة المستخدم[message]",
+  "SEND_USER_CLOUD_MSG_VALUE": "إرسال رسالة سحابة المستخدم[message] مع قيمة[value]",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "عندما أتلقى رسالة سحابة المستخدم [message]",
+  "GET_USER_CLOUD_MSG_VALUE": "رسالة سحابة المستخدم[message] قيمه",
+  "user_cloud_message": "رسالة سحابة المستخدم",
+  "SEND_USER_CLOUD_MSG_WAIT": "إرسال رسالة سحابة المستخدم[message] وانتظر",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "إرسال رسالة سحابة المستخدم[message] مع قيمة[value] وانتظر"
+}

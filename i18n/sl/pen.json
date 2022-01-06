@@ -1,0 +1,21 @@
+{
+  "pen.name": "Svinčnik",
+  "pen.categoryName": "Svinčnik",
+  "pen.colorMenu.color": "barva",
+  "pen.colorMenu.saturation": "saturation",
+  "pen.colorMenu.brightness": "svetlost",
+  "pen.colorMenu.transparency": "transparency",
+  "pen.clear": "erase all",
+  "pen.stamp": "odtisni",
+  "pen.penDown": "spusti svinčnik",
+  "pen.penUp": "dvigni svinčnik",
+  "pen.setColor": "set pen color to [COLOR]",
+  "pen.changeColorParam": "change pen [COLOR_PARAM] by [VALUE]",
+  "pen.setColorParam": "set pen [COLOR_PARAM] to [VALUE]",
+  "pen.changeSize": "change pen size by [SIZE]",
+  "pen.setSize": "set pen size to [SIZE]",
+  "pen.setShade": "set pen shade to [SHADE]",
+  "pen.changeShade": "change pen shade by [SHADE]",
+  "pen.setHue": "set pen color to [HUE]",
+  "pen.changeHue": "change pen color by [HUE]"
+}

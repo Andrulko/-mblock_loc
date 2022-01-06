@@ -1,0 +1,21 @@
+{
+  "pen.name": "Перо",
+  "pen.categoryName": "Перо",
+  "pen.colorMenu.color": "цвет",
+  "pen.colorMenu.saturation": "насыщенность",
+  "pen.colorMenu.brightness": "яркость",
+  "pen.colorMenu.transparency": "прозрачность",
+  "pen.clear": "удалить все",
+  "pen.stamp": "отпечатать персонаж на сцене",
+  "pen.penDown": "опустить перо",
+  "pen.penUp": "поднять перо",
+  "pen.setColor": "выбрать цвет пера [COLOR]",
+  "pen.changeColorParam": "изменить значение пера [COLOR_PARAM] на [VALUE]",
+  "pen.setColorParam": "задать перу [COLOR_PARAM] значение [VALUE]",
+  "pen.changeSize": "изменить размер пера на [SIZE]",
+  "pen.setSize": "установить размер пера на [SIZE]",
+  "pen.setShade": "установить тень пера на [SHADE]",
+  "pen.changeShade": "изменить тень пера на [SHADE]",
+  "pen.setHue": "выбрать цвет пера [HUE]",
+  "pen.changeHue": "изменить цвет пера на [HUE]"
+}

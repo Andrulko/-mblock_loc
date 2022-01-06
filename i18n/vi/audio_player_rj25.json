@@ -1,0 +1,21 @@
+{
+  "audio_player_rj25": "Trình phát âm thanh",
+  "extensionName": "Trình phát âm thanh",
+  "audioplayer_init": "khởi tạo trình phát âm thanh tại: bất kỳ cổng trắng (I2C)",
+  "audioplayer_play_by_name": "trình phát âm thanh: phát tệp âm thanh có tên [FILE_NAME]",
+  "audioplayer_record_stop": "trình phát âm thanh: dừng ghi âm",
+  "audioplayer_record": "trình phát âm thanh: bắt đầu ghi âm và lưu vào [FILE_NAME]",
+  "audioplayer_volume_down": "trình phát âm thanh: giảm âm lượng",
+  "audioplayer_volume_up": "trình phát âm thanh: tăng âm lượng",
+  "audioplayer_set_volume": "trình phát âm thanh: cài đặt âm [VOLUME] %",
+  "audioplayer_stop": "trình phát âm thanh: ngừng phát",
+  "audioplayer_play_by_sn": "trình phát âm thanh:: chạy [FILE_SN] tệp âm thanh",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "đơn",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "lặp lại",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "thứ tự",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "ngẫu nhiên",
+  "audioplayer_set_play_mode": "trình phát âm thanh: cài đặt âm [PLAY_MODE]",
+  "audioplayer_play_previous": "trình phát âm thanh: phát tệp âm thanh trước đó",
+  "audioplayer_play_next": "trình phát âm thanh: phát tệp âm thanh tiếp theo",
+  "audioplayer_pause": "trình phát âm thanh: tạm dừng/tiếp tục"
+}

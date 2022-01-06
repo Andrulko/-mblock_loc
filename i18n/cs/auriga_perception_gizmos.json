@@ -1,0 +1,20 @@
+{
+  "extensionName": "Snímání Gizmos",
+  "extensionDescription": "Ve dvou mBot Ranger projektech rozšíření se naučíte, jak používat senzory v každodenním životě a jak lépe pochopit elektroniku. ",
+  "CATEGORY_PERCEPTION": "Snímání Gizmos",
+  "auriga_perception_gizmos": "Snímání Gizmos",
+  "auriga_detect_potentiometer": "[ICON] potenciometr [PORT] hodnota",
+  "auriga_detec_temperature": "[ICON] teplotní senzor [PORT] [SLOT] teplota(℃)",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_1": "slot 2",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_0": "slot 1",
+  "auriga_detect_external_loudness": "[ICON] senzor zvuku [PORT] hlasitost",
+  "auriga_run_fan": "[ICON] ventrilátor [PORT] [FAN_ROTATE] se otáčí",
+  "AURIGA_RUN_FAN_FAN_ROTATE_2": "zastavit",
+  "AURIGA_RUN_FAN_FAN_ROTATE_1": "proti směru hodinových ručiček",
+  "AURIGA_RUN_FAN_FAN_ROTATE_0": "po směru hodinových ručiček",
+  "AURIGA_RUN_FAN_PORT_4": "port10",
+  "AURIGA_RUN_FAN_PORT_3": "port9",
+  "AURIGA_RUN_FAN_PORT_2": "port8",
+  "AURIGA_RUN_FAN_PORT_1": "port7",
+  "AURIGA_RUN_FAN_PORT_0": "port6"
+}

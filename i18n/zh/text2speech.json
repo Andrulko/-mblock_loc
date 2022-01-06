@@ -1,0 +1,12 @@
+{
+    "text2speech.alto": "中音",
+    "text2speech.categoryName": "文字朗读",
+    "text2speech.defaultTextToSpeak": "你好",
+    "text2speech.giant": "巨人",
+    "text2speech.kitten": "小猫",
+    "text2speech.setLanguageBlock": "将朗读语言设置为[LANGUAGE]",
+    "text2speech.setVoiceBlock": "使用 [VOICE] 嗓音",
+    "text2speech.speakAndWaitBlock": "朗读 [WORDS]",
+    "text2speech.squeak": "尖细",
+    "text2speech.tenor": "男高音"
+}

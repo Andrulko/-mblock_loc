@@ -1,0 +1,21 @@
+{
+  "pen.name": "Stylo",
+  "pen.categoryName": "Stylo",
+  "pen.colorMenu.color": "couleur",
+  "pen.colorMenu.saturation": "saturation",
+  "pen.colorMenu.brightness": "luminosité",
+  "pen.colorMenu.transparency": "transparence",
+  "pen.clear": "tout supprimer",
+  "pen.stamp": "estampiller",
+  "pen.penDown": "stylo en position d'écriture",
+  "pen.penUp": "relever le stylo",
+  "pen.setColor": "choisir la couleur [COLOR] pour le stylo",
+  "pen.changeColorParam": "modifier [COLOR_PARAM] du stylo par [VALUE]",
+  "pen.setColorParam": "modifier [COLOR_PARAM] du stylo par [VALUE]",
+  "pen.changeSize": "changer la taille du stylo de [SIZE]",
+  "pen.setSize": "régler la taille du stylo à [SIZE]",
+  "pen.setShade": "régler l'ombre du stylo à [SHADE]",
+  "pen.changeShade": "changer l'ombre du stylo de [SHADE]",
+  "pen.setHue": "choisir la couleur [HUE] pour le stylo",
+  "pen.changeHue": "changer la couleur du stylo par [HUE]"
+}

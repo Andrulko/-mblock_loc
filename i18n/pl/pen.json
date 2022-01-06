@@ -1,0 +1,21 @@
+{
+  "pen.name": "Pisak",
+  "pen.categoryName": "Pisak",
+  "pen.colorMenu.color": "kolor",
+  "pen.colorMenu.saturation": "nasycenie",
+  "pen.colorMenu.brightness": "jasność",
+  "pen.colorMenu.transparency": "przezroczystość",
+  "pen.clear": "usuń wszystko",
+  "pen.stamp": "stempluj",
+  "pen.penDown": "przyłóż pisak",
+  "pen.penUp": "podnieś pisak",
+  "pen.setColor": "ustaw kolor pisaka na [COLOR]",
+  "pen.changeColorParam": "zmień pisak [COLOR_PARAM] na [VALUE]",
+  "pen.setColorParam": "ustaw pisak [COLOR_PARAM] na [VALUE]",
+  "pen.changeSize": "zmień rozmiar pisaka na [SIZE]",
+  "pen.setSize": "ustaw rozmiar pisaka na [SIZE]",
+  "pen.setShade": "ustaw odcień pisaka na [SHADE]",
+  "pen.changeShade": "zmień odcień pisaka o [SHADE]",
+  "pen.setHue": "ustaw kolor pisaka na [HUE]",
+  "pen.changeHue": "zmień kolor pisaka na [HUE]"
+}

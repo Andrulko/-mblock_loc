@@ -1,0 +1,22 @@
+{
+  "MCORE_RUN_FAN_PORT_0": "ataka1",
+  "extensionName": "Detektatze gailuak",
+  "extensionDescription": "Mbot-en 5 hedapen proiektuetan, hainbat sentsore erabil daitezke eta sentsoreak nola erabiltzen diren eta elektronikaren oinarriak menderatzen lagunduko dizute.",
+  "MCORE_RUN_FAN_PORT_1": "ataka2",
+  "MCORE_RUN_FAN_PORT_2": "ataka3",
+  "MCORE_RUN_FAN_PORT_3": "ataka4",
+  "MCORE_RUN_FAN_FAN_ROTATE_0": "erloju-orratz zentzuan",
+  "MCORE_RUN_FAN_FAN_ROTATE_1": "erloju-orratzen kontrako zentzua",
+  "MCORE_RUN_FAN_FAN_ROTATE_2": "geldi",
+  "mcore_run_fan": "[ICON] haizagailuak [PORT] [FAN_ROTATE] biratzen du",
+  "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "ataka3",
+  "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "ataka4",
+  "mcore_detect_external_loudness": "[ICON] soinu-sentsorea [PORT] bolumena",
+  "MCORE_DETEC_TEMPERATURE_SLOT_0": "arteka1",
+  "MCORE_DETEC_TEMPERATURE_SLOT_1": "arteka2",
+  "mcore_detec_temperature": "[ICON] tenperatura-sentsorea [PORT] [SLOT] (ºC) balioa",
+  "mcore_detect_potentiometer": "[ICON] poentziometroaren [PORT] baloa",
+  "CATEGORY_CREATOR": "Detektatze gailuak",
+  "CATEGORY_PERCEPTION": "Gailuak",
+  "mcore_perception_gizmos": "Detektatze gailuak"
+}

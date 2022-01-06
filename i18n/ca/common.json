@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Finestra de reconeixement",
+  "COGNITIVE.WINDOW.OPENED": "La finestra de reconeixement és oberta.",
+  "COGNITIVE.WINDOW.NOOPENED": "No hi ha cap finestra de reconeixement oberta. Obre-la.",
+  "COGNITIVE.VIDEO.NOTFOUND": "No es detecta cap càmera.",
+  "COGNITIVE.VIDEO.NOOPEN": "La càmera no està activada.",
+  "COGNITIVE.AUDIO.NOTFOUND": "No es detecta cap micròfon.",
+  "COGNITIVE.AUDIO.NOOPEN": "El micròfon no està activat.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Entrada per reconeixement de veu..."
+}

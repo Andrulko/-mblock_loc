@@ -1,0 +1,22 @@
+{
+  "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "יציאה 1",
+  "extensionName": "אוסף מנועי סרבו",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "יציאה 2",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "יציאה 3",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "יציאה 4",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "הכל",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+  "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+  "mcore_show_external_led_time": "[ICON] לד RGB [PORT] האורות דולקים [LED_POSTION] בצבע [COLOR] עבור [TIME] שניות",
+  "mcore_show_external_led": "[ICON] לד מסוג RGB [PORT] האורות דולקים [LED_POSTION] בצבע [COLOR] עבור שניות",
+  "mcore_show_external_led_rgb": "[ICON] לד מסוג RGB [PORT] האורות דולקים [LED_POSTION] בצבע אדום [R] ירוק [G] כחול [B]",
+  "MCORE_RUN_SERVO_SLOT_0": "מחבר 1",
+  "MCORE_RUN_SERVO_SLOT_1": "מחבר 2",
+  "mcore_run_servo": "[ICON] מנוע סרוו [PORT] [SLOT] ממוקם בזווית [DEGREE] ",
+  "CATEGORY1": "אוסף מנועי סרבו",
+  "extensionDescription": "הפכו את הmBot שלכם לחתול. גרמו לו לרקוד, להביט ולהאיר.",
+  "CATEGORY_SERVO_PACK": "אוסף מנועי סרבו",
+  "mcore_servo_pack": "אוסף מנועי סרבו"
+}

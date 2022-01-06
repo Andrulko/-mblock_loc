@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "Felhő-adás",
+  "extensionName": "Felhasználófelhő-üzenet",
+  "SEND_CLOUD_MSG": "felhőalapú üzenet küldése[message]",
+  "SEND_CLOUD_MSG_VALUE": "felhőalapú üzenet küldése[message]  értékkel [value]",
+  "WHEN_RECEIVE_CLOUD_MSG": "felhőalapú üzenet érkezésekor [message]",
+  "GET_CLOUD_MSG_VALUE": "felhőüzenet[message]Érték",
+  "cloud": "Felhő-adás",
+  "use_cloud_messenge": "Felhasználófelhő-üzenet",
+  "CATE_U_C_MSG": "Felhasználófelhő-üzenet",
+  "extensionDescription": "A felhasználó felhő üzenet kiterjesztéssel könnyedén szinkronizálhatja fiókja adatait a különböző eszközök és projektek között.   ",
+  "SEND_USER_CLOUD_MSG": "küld felhasználó felhő üzenet[message]",
+  "SEND_USER_CLOUD_MSG_VALUE": "küld felhasználó felhő üzenet[message] értékkel[value]",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "Amikor a felhasználó felhőüzenetet kapok [message]",
+  "GET_USER_CLOUD_MSG_VALUE": "felhasználó felhőalapú üzenete[message] Érték",
+  "user_cloud_message": "Felhasználófelhő-üzenet",
+  "SEND_USER_CLOUD_MSG_WAIT": "küld felhasználó felhő üzenet[message] és várjon,",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "küld felhasználó felhő üzenet[message] értékkel[value] és várjon,"
+}

@@ -1,0 +1,11 @@
+{
+  "connect_success": "Allerede koblet til Google regneark",
+  "googlesheet": "Google regneark",
+  "extensionName": "Google regneark",
+  "extensionDescription": "Med dette utvidelsen, kan du legge inn data i Google regneark med mBlock. (kun tilgjengelig i Googles tjeneste områder)",
+  "BLOCK_1552896553516": "koble til delt ark [url]",
+  "BLOCK_1552896647935": "input [value] til kolonne [col] rad [row]",
+  "BLOCK_1552896647936": "avles celleverdi ved kolonne [col] rad [row]",
+  "cate_14037d5c": "Google regneark",
+  "connect_fail": "Tilkobling mislyktes. Kontroller nettverk-og Google-ark-tilgang"
+}

@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "クラウドブロードキャスト",
+  "extensionName": "ユーザークラウドメッセージ",
+  "SEND_CLOUD_MSG": "クラウドメッセージ[message]をおくる",
+  "SEND_CLOUD_MSG_VALUE": "クラウドメッセージ[message]をあたい[value]でおくる",
+  "WHEN_RECEIVE_CLOUD_MSG": "クラウドメッセージ[message]をうけとったとき",
+  "GET_CLOUD_MSG_VALUE": "クラウドメッセージ[message]のあたい",
+  "cloud": "クラウドブロードキャスト",
+  "use_cloud_messenge": "ユーザークラウドメッセージ",
+  "CATE_U_C_MSG": "ユーザークラウドメッセージ",
+  "extensionDescription": "ユーザークラウドメッセージのかくちょうきのうをしようすると、アカウントのデータをさまざまなデバイスやプロジェクトにかんたんにどうきできます。",
+  "SEND_USER_CLOUD_MSG": "ユーザークラウドメッセージ[message]をおくる",
+  "SEND_USER_CLOUD_MSG_VALUE": "ユーザークラウドメッセージ[message]をあたい[value]でおくる",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "ユーザークラウドメッセージ[message]をうけとったとき",
+  "GET_USER_CLOUD_MSG_VALUE": "ユーザークラウドメッセージ[message]のあたい",
+  "user_cloud_message": "ユーザークラウドメッセージ",
+  "SEND_USER_CLOUD_MSG_WAIT": "ユーザークラウドメッセージ[message]をおくってまつ",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "ユーザークラウドメッセージ[message]をあたい[value]でおくってまつ"
+}

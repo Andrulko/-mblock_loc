@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Παράθυρο \"αναγνώριση\"",
+  "COGNITIVE.WINDOW.OPENED": "Το παράθυρο αναγνώρισης είναι ανοιχτό.",
+  "COGNITIVE.WINDOW.NOOPENED": "Κανένα παράθυρο αναγνώρισης δεν είναι ανοιχτό. Παρακαλώ ανοίξτε το παράθυρο.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Δεν μπορεί να ανιχνευθεί κάποια κάμερα.",
+  "COGNITIVE.VIDEO.NOOPEN": "Η κάμερά σας δεν είναι ενεργοποιημένη.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Δεν μπορεί να ανιχνευθεί κάποιο μικρόφωνο.",
+  "COGNITIVE.AUDIO.NOOPEN": "Το μικρόφωνό σας δεν είναι ενεργοποιημένο.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Εισαγωγή μέσω της αναγνώρισης ομιλίας..."
+}

@@ -1,0 +1,21 @@
+{
+  "pen.name": "Kynä",
+  "pen.categoryName": "Kynä",
+  "pen.colorMenu.color": "väri",
+  "pen.colorMenu.saturation": "värikylläisyys",
+  "pen.colorMenu.brightness": "kirkkaus",
+  "pen.colorMenu.transparency": "läpinäkyvyys",
+  "pen.clear": "pyyhi kaikki",
+  "pen.stamp": "leimaa",
+  "pen.penDown": "kynä alas",
+  "pen.penUp": "kynä ylös",
+  "pen.setColor": "aseta kynälle väri [COLOR]",
+  "pen.changeColorParam": "muuta kynän väri [COLOR_PARAM] [VALUE]",
+  "pen.setColorParam": "aseta kynän väri [COLOR_PARAM] [VALUE]",
+  "pen.changeSize": "muuta kynän kokoa [SIZE]",
+  "pen.setSize": "aseta kynän kooksi[SIZE]",
+  "pen.setShade": "aseta kynän muodoksi [SHADE]",
+  "pen.changeShade": "muuta kynän tummuutta [SHADE]",
+  "pen.setHue": "aseta kynälle väri [HUE]",
+  "pen.changeHue": "vaihda kynän väri [HUE]"
+}

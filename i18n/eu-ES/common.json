@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Azterketa-leihoa",
+  "COGNITIVE.WINDOW.OPENED": "Azterketa-leihoa irekita dago.",
+  "COGNITIVE.WINDOW.NOOPENED": "Azterketa-leihoa ez dago irekita. Mesedez ireki.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Ezin da kamerarik antzeman.",
+  "COGNITIVE.VIDEO.NOOPEN": "Zure kamera ez dago piztuta.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Ez da mikrofonorik detektatu.",
+  "COGNITIVE.AUDIO.NOOPEN": "Zure mikrofonoa ez dago piztuta.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Ahotsa ezagutzeko sarrera..."
+}

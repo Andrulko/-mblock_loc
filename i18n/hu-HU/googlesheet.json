@@ -1,0 +1,11 @@
+{
+  "connect_success": "Már csatlakoztatva van a Google Sheets",
+  "googlesheet": "Google-lapok",
+  "extensionName": "Google-lapok",
+  "extensionDescription": "Ezzel kiterjesztés, tudod bemenet adat-ba Google ágynemű-val mBlock. (csak a Google-szolgáltatások területén érhető el)",
+  "BLOCK_1552896553516": "Kapcsolódás megosztott laphoz [url]",
+  "BLOCK_1552896647935": "Bemenet [value] oszlophoz [col] Sor [row]",
+  "BLOCK_1552896647936": "Cellaérték olvasása az oszlopban [col] Sor [row]",
+  "cate_14037d5c": "Google-lapok",
+  "connect_fail": "A kapcsolat meghiúsult. Kérjük, ellenőrizze a hálózati és a Google lapok hatóság"
+}

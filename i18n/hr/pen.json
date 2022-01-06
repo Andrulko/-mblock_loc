@@ -1,0 +1,21 @@
+{
+  "pen.name": "Olovka",
+  "pen.categoryName": "Olovka",
+  "pen.colorMenu.color": "boja",
+  "pen.colorMenu.saturation": "zasićenje",
+  "pen.colorMenu.brightness": "osvjetljenje",
+  "pen.colorMenu.transparency": "transparentnost",
+  "pen.clear": "obriši sve",
+  "pen.stamp": "pečat",
+  "pen.penDown": "olovka je na papiru",
+  "pen.penUp": "olovka odignuta",
+  "pen.setColor": "postavi boju olovke na [COLOR]",
+  "pen.changeColorParam": "promjeni olovku [COLOR_PARAM] za [VALUE]",
+  "pen.setColorParam": "namjesti olovku [COLOR_PARAM] za [VALUE]",
+  "pen.changeSize": "promijeni veličinu olovke za [SIZE]",
+  "pen.setSize": "postavi veličinu olovke na [SIZE]",
+  "pen.setShade": "postavi nijansu olovke na [SHADE]",
+  "pen.changeShade": "promijeni nijansu olovke za [SHADE]",
+  "pen.setHue": "postavi boju olovke na [HUE]",
+  "pen.changeHue": "izmjeni boju olovke na [HUE]"
+}

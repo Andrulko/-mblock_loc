@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Rede zum Text",
+  "speech.defaultWhenIHearValue": "los geht's",
+  "speech.extensionName": "Rede zum Text",
+  "speech.listenAndWait": "zuhören und warten",
+  "speech.speechReporter": "sprache",
+  "speech.whenIHear": "wenn ich höre [PHRASE]"
+}

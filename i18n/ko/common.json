@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "인식 창",
+  "COGNITIVE.WINDOW.OPENED": "인식 창이 열려 있습니다.",
+  "COGNITIVE.WINDOW.NOOPENED": "인식 창이 열려 있지 않습니다. 인식 창을 열어주세요.",
+  "COGNITIVE.VIDEO.NOTFOUND": "카메라를 감지할 수 없습니다.",
+  "COGNITIVE.VIDEO.NOOPEN": "카메라가 켜지지 않았습니다.",
+  "COGNITIVE.AUDIO.NOTFOUND": "마이크를 감지할 수 없습니다.",
+  "COGNITIVE.AUDIO.NOOPEN": "마이크가 꺼져 있습니다.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "음성 인식을 통한 입력 중..."
+}

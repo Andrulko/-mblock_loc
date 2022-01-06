@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "អត្ថបទទៅជាសំឡេង",
+  "text2speech.defaultTextToSpeak": "សួស្តី",
+  "text2speech.giant": "យក្ស",
+  "text2speech.kitten": "កូនក្មេង",
+  "text2speech.setLanguageBlock": "ដាក់ភាសាទៅ [LANGUAGE]",
+  "text2speech.setVoiceBlock": "ដាក់សំឡេងទៅ [VOICE]",
+  "text2speech.speakAndWaitBlock": "និយាយ [WORDS]",
+  "text2speech.squeak": "squeak",
+  "text2speech.tenor": "លក្ខណៈធម្មតា"
+}

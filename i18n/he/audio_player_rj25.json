@@ -1,0 +1,21 @@
+{
+  "audio_player_rj25": "נגן שמע",
+  "extensionName": "נגן שמע",
+  "audioplayer_init": "אתחול נגן השמע ב: כל מחבר (I2C) לבן",
+  "audioplayer_play_by_name": "נגן אודיו: נגן את קובץ השמע [FILE_NAME]",
+  "audioplayer_record_stop": "נגן שמע: הפסק הקלטה",
+  "audioplayer_record": "נגן אודיו: התחל הקלטה ושמור ב [FILE_NAME]",
+  "audioplayer_volume_down": "נגן אודיו: הנמך עוצמה",
+  "audioplayer_volume_up": "נגן אודיו: הגבר עוצמה",
+  "audioplayer_set_volume": "נגן שמע: קבע עוצמה ל [VOLUME] %",
+  "audioplayer_stop": "נגן שמע: הפסק שמע",
+  "audioplayer_play_by_sn": "נגן שמע: נגן את [FILE_SN]",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "יחיד",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "לולאה",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "הזמנה",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "ערבוב",
+  "audioplayer_set_play_mode": "נגן שמע: קבע מצב ל [PLAY_MODE]",
+  "audioplayer_play_previous": "נגן שמע: נגן את הקובץ הקודם",
+  "audioplayer_play_next": "נגן שמע: נגן את הקובץ הבא",
+  "audioplayer_pause": "נגן שמע: עצור/המשך"
+}

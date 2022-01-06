@@ -1,0 +1,20 @@
+{
+  "extensionName": "Gadgets de détection",
+  "extensionDescription": "Dans les 2 projets d'extension de mbot Ranger, vous apprendrez à utiliser des capteurs dans la vie quotidienne et à acquérir une meilleure compréhension de l'électronique. ",
+  "CATEGORY_PERCEPTION": "Gadgets de détection",
+  "auriga_perception_gizmos": "Gadgets de détection",
+  "auriga_detect_potentiometer": "[ICON] Potentiomètre[PORT] Valeur",
+  "auriga_detec_temperature": "[ICON]capteur de température [PORT] [SLOT] température (° c)",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_1": "slot 2",
+  "AURIGA_DETEC_TEMPERATURE_SLOT_0": "slot 1",
+  "auriga_detect_external_loudness": "[ICON] capteur de son [PORT] Volume",
+  "auriga_run_fan": "[ICON]Fan [PORT] [FAN_ROTATE] Tourne",
+  "AURIGA_RUN_FAN_FAN_ROTATE_2": "arrêt",
+  "AURIGA_RUN_FAN_FAN_ROTATE_1": "sens anti-horaire",
+  "AURIGA_RUN_FAN_FAN_ROTATE_0": "sens horaire",
+  "AURIGA_RUN_FAN_PORT_4": "port 10",
+  "AURIGA_RUN_FAN_PORT_3": "port 9",
+  "AURIGA_RUN_FAN_PORT_2": "port 8",
+  "AURIGA_RUN_FAN_PORT_1": "port 7",
+  "AURIGA_RUN_FAN_PORT_0": "port 6"
+}

@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "Bulut yayını",
+  "extensionName": "Kullanıcı bulut iletisi",
+  "SEND_CLOUD_MSG": "[message] iletisi gönder",
+  "SEND_CLOUD_MSG_VALUE": "[message] iletisini [value] değeri ile birlikte gönder",
+  "WHEN_RECEIVE_CLOUD_MSG": "[message] iletisini aldığımda",
+  "GET_CLOUD_MSG_VALUE": "bulut iletisi [message] değer",
+  "cloud": "Bulut yayını",
+  "use_cloud_messenge": "Kullanıcı bulut iletisi",
+  "CATE_U_C_MSG": "Kullanıcı bulut iletisi",
+  "extensionDescription": "Kullanıcı bulut iletisi uzantısı ile, hesabınızdaki verileri farklı cihaz ve projelerde eşleyebilirsiniz.   ",
+  "SEND_USER_CLOUD_MSG": "kullanıcı bulut iletisi [message] gönder",
+  "SEND_USER_CLOUD_MSG_VALUE": "[message] iletisini [value] değeri ile birlikte gönder",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "kullanıcı bulut iletisi [message] alındığında",
+  "GET_USER_CLOUD_MSG_VALUE": "kullanıcı bulut iletisi [message]",
+  "user_cloud_message": "Kullanıcı bulut iletisi",
+  "SEND_USER_CLOUD_MSG_WAIT": "kullanıcı bulut iletisi [message] gönder ve bekle",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "kullanıcı bulut iletisi [message] değeri [value] gönder ve bekle"
+}

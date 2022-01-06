@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Beszédfelismerési szöveg",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "Beszédfelismerési szöveg",
+  "speech.listenAndWait": "Figyelj és várj",
+  "speech.speechReporter": "Beszéd",
+  "speech.whenIHear": "amikor hallom [PHRASE]"
+}

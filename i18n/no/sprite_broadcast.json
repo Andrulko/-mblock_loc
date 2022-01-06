@@ -1,0 +1,10 @@
+{
+  "sprite_broadcast": "Sending av opplastingsmodus",
+  "extensionName": "Sending av opplastingsmodus",
+  "extensionDescription": "Ved å legge til denne utvidelsen, kan du aktivere en enhet til å samhandle med en sprite i opplastingsmodus.",
+  "BLOCK_1546412605792": "send opplastingsmodus melding [MESSAGE]",
+  "BLOCK_1546413597853": "send opplastingsmodus melding [MESSAGE] med verdi [VALUE]",
+  "BLOCK_1546413700881": "når du mottar opplastingsmodus melding [MESSAGE]",
+  "BLOCK_1546415356012": "opplastingsmodus meldings [MESSAGE] verdi",
+  "cate_sprite_broadcast": "Sending av opplastingsmodus"
+}

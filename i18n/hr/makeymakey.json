@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "strelica prema dolje",
+  "makeymakey.downArrowShort": "dolje",
+  "makeymakey.leftArrow": "strelica lijevo",
+  "makeymakey.leftArrowShort": "lijevo",
+  "makeymakey.rightArrow": "desna strelica",
+  "makeymakey.rightArrowShort": "desno",
+  "makeymakey.spaceKey": "razmaknica",
+  "makeymakey.upArrow": "strelica prema gore",
+  "makeymakey.upArrowShort": "gore",
+  "makeymakey.whenKeyPressed": "Kada [KEY] pritisnutim ključem",
+  "makeymakey.whenKeysPressedInOrder": "Kada [SEQUENCE] pritisnutim po redoslijedu"
+}

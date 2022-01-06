@@ -1,0 +1,21 @@
+{
+  "pen.name": "Penn",
+  "pen.categoryName": "Penn",
+  "pen.colorMenu.color": "farge",
+  "pen.colorMenu.saturation": "metning",
+  "pen.colorMenu.brightness": "lysstyrke",
+  "pen.colorMenu.transparency": "gjennomsiktighet",
+  "pen.clear": "slett alt",
+  "pen.stamp": "stemple avtrykk",
+  "pen.penDown": "penn på",
+  "pen.penUp": "penn av",
+  "pen.setColor": "angi pennefarge til [COLOR]",
+  "pen.changeColorParam": "endre penn [COLOR_PARAM] med [VALUE]",
+  "pen.setColorParam": "sett penn [COLOR_PARAM] til [VALUE]",
+  "pen.changeSize": "endre pennens størrelse med [SIZE]",
+  "pen.setSize": "angi pennens størrelse til [SIZE]",
+  "pen.setShade": "angi pennens skygge til [SHADE]",
+  "pen.changeShade": "endre pennens skygge med [SHADE]",
+  "pen.setHue": "angi pennens farge til [HUE]",
+  "pen.changeHue": "endre pennens farge med [HUE]"
+}

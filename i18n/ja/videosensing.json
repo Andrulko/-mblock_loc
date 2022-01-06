@@ -1,0 +1,14 @@
+{
+  "videoSensing.categoryName": "ビデオセンサー",
+  "videoSensing.direction": "向き",
+  "videoSensing.motion": "モーション",
+  "videoSensing.off": "オフ",
+  "videoSensing.on": "オン",
+  "videoSensing.onFlipped": "反転している",
+  "videoSensing.setVideoTransparency": "ビデオの透明度を [TRANSPARENCY]%にする",
+  "videoSensing.sprite": "スプライト",
+  "videoSensing.stage": "ステージ",
+  "videoSensing.videoOn": "[SUBJECT] のビデオ [ATTRIBUTE]",
+  "videoSensing.videoToggle": "ビデオ [VIDEO_STATE] を回転",
+  "videoSensing.whenMotionGreaterThan": "ビデオモーション > [REFERENCE] のとき"
+}

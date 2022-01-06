@@ -1,0 +1,9 @@
+{
+  "codey_upload_mode_message": "Sending av opplastingsmodus",
+  "extensionName": "Sending av opplastingsmodus",
+  "SendUploadModeMessage": "send melding med opplastingsmodus [message]",
+  "SendUploadModeMessageWithValue": "send melding om opplastingsmodus [message] med verdi [value]",
+  "whenReceivingUploadModeMessage ": "når du mottar melding med opplastingsmodus [message]",
+  "UploadModeMessageValue": "opplastingsmodus meldings [message] verdi",
+  "extensionDescription": "Ved hjelp av denne utvidelsen, kan enheten samhandle med sprites når Opplastingsmodus er aktivert."
+}

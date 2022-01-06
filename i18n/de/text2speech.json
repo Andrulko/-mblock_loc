@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alt",
+  "text2speech.categoryName": "Text in Rede",
+  "text2speech.defaultTextToSpeak": "Hallo",
+  "text2speech.giant": "riese",
+  "text2speech.kitten": "kätzchen",
+  "text2speech.setLanguageBlock": "Sprache auf [LANGUAGE]",
+  "text2speech.setVoiceBlock": "Stimme auf [VOICE]",
+  "text2speech.speakAndWaitBlock": "sprechen [WORDS]",
+  "text2speech.squeak": "quietschen",
+  "text2speech.tenor": "tenor"
+}

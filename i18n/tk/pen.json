@@ -1,0 +1,21 @@
+{
+  "pen.name": "Galam",
+  "pen.categoryName": "Galam",
+  "pen.colorMenu.color": "reňk",
+  "pen.colorMenu.saturation": "doýgunlyk",
+  "pen.colorMenu.brightness": "ýagtylyk",
+  "pen.colorMenu.transparency": "durulyk",
+  "pen.clear": "ählisini aýyrmak",
+  "pen.stamp": "yz goýmak",
+  "pen.penDown": "galamy goýbermek",
+  "pen.penUp": "galamy galdyrmak",
+  "pen.setColor": "galamyň reňkini [COLOR] edip sazla",
+  "pen.changeColorParam": "galamyň [COLOR_PARAM]-i [VALUE] bilen çalyş",
+  "pen.setColorParam": "galamyň [COLOR_PARAM]-i [VALUE] edip belle",
+  "pen.changeSize": "galamyň ölçegini [SIZE] möçberinde çalyş",
+  "pen.setSize": "galamyň ölçegini [SIZE] ölçegine getir",
+  "pen.setShade": "galamyň kölegesini [SHADE] edip belle",
+  "pen.changeShade": "galamyň kölegesini [SHADE] ölçeginde çalyş",
+  "pen.setHue": "galamyň reňkini [HUE] edip sazla",
+  "pen.changeHue": "galamyň reňkini [HUE] möçberinde çalyş"
+}

@@ -1,0 +1,22 @@
+{
+  "halocode_mbuild_joystick": "Joystick",
+  "extensionName": "Joystick",
+  "extensionDescription": "",
+  "BLOCK_1559707965944_INDEX_0": "១",
+  "BLOCK_1559707965944_INDEX_1": "២",
+  "BLOCK_1559707965944_INDEX_2": "៣",
+  "BLOCK_1559707965944_INDEX_3": "៤",
+  "BLOCK_1559707965944_INDEX_4": "៥",
+  "BLOCK_1559707965944_INDEX_5": "៦",
+  "BLOCK_1559707965944_INDEX_6": "៧",
+  "BLOCK_1559707965944_INDEX_7": "៨",
+  "BLOCK_1559707965944_DIR_0": "ឡើងលើ",
+  "BLOCK_1559707965944_DIR_1": "ចុះក្រោម",
+  "BLOCK_1559707965944_DIR_2": "ទៅ​ឆ្វេង",
+  "BLOCK_1559707965944_DIR_3": "ទៅ​ស្តាំ",
+  "BLOCK_1559707965944": "joystick [index] [dir] ញ័រឬ?",
+  "BLOCK_1559708436297_AXIS_0": "អ័ក្ស x",
+  "BLOCK_1559708436297_AXIS_1": "អ័ក្ស y",
+  "BLOCK_1559708436297": "joystick [index] [axis] តម្លៃ\n",
+  "cate_38b05160": "Joystick"
+}

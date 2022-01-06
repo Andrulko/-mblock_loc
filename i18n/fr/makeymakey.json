@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "flèche vers le bas",
+  "makeymakey.downArrowShort": "duvet",
+  "makeymakey.leftArrow": "flèche gauche",
+  "makeymakey.leftArrowShort": "gauche",
+  "makeymakey.rightArrow": "flèche droite",
+  "makeymakey.rightArrowShort": "Oui",
+  "makeymakey.spaceKey": "place",
+  "makeymakey.upArrow": "jusqu'à la flèche",
+  "makeymakey.upArrowShort": "en haut",
+  "makeymakey.whenKeyPressed": "quand [KEY] clé pressée",
+  "makeymakey.whenKeysPressedInOrder": "quand [SEQUENCE] pressé dans l'ordre"
+}

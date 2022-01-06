@@ -1,0 +1,14 @@
+{
+  "videoSensing.categoryName": "Sensore Video",
+  "videoSensing.direction": "direzione",
+  "videoSensing.motion": "movimento",
+  "videoSensing.off": "spegni",
+  "videoSensing.on": "accendi",
+  "videoSensing.onFlipped": "su capovolto",
+  "videoSensing.setVideoTransparency": "imposta trasparenza video a [TRANSPARENCY]",
+  "videoSensing.sprite": "sprite",
+  "videoSensing.stage": "stage",
+  "videoSensing.videoOn": "video [ATTRIBUTE] su [SUBJECT]",
+  "videoSensing.videoToggle": "accendi il video [VIDEO_STATE]",
+  "videoSensing.whenMotionGreaterThan": "quando movimento video > [REFERENCE]"
+}

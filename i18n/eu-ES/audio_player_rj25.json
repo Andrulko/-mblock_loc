@@ -1,0 +1,21 @@
+{
+  "audio_player_rj25": "Audio irakurgailua",
+  "extensionName": "Audio irakurgailua",
+  "audioplayer_init": "hasieratu audio erreproduzitzailea hemen: edozein portu zuri (I2C)",
+  "audioplayer_play_by_name": "audio erreproduzitzailea: erreproduzitu audio fitxategia [FILE_NAME]",
+  "audioplayer_record_stop": "audio erreproduzitzailea: gelditu grabazioa",
+  "audioplayer_record": "audio erreproduzitzailea: grabatzen hasi eta gorde [FILE_NAME] helbidean",
+  "audioplayer_volume_down": "audio erreproduzitzailea: bolumena jeitsi",
+  "audioplayer_volume_up": "audio erreproduzitzailea: bolumena igo",
+  "audioplayer_set_volume": "audio erreproduzitzailea: bolumena finkatzen du %[VOLUME]",
+  "audioplayer_stop": "audio erreproduzitzailea: gelditu",
+  "audioplayer_play_by_sn": "audio erreproduzitzailea: [FILE_SN] audio artxiboa erreproduzitzen du",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "bakarra",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "begiztan",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "ordenean",
+  "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "ausazkoa",
+  "audioplayer_set_play_mode": "audio erreproduzitzailea: modua finkatzen du %[PLAY_MODE]",
+  "audioplayer_play_previous": "audio erreproduzitzailea: aurreko audio artxiboa erreproduzitzen du",
+  "audioplayer_play_next": "audio erreproduzitzailea: hurrengo audio artxiboa erreproduzitzen du",
+  "audioplayer_pause": "audio erreproduzitzailea: gelditu/jarraitu"
+}

@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "Text na řeč",
+  "text2speech.defaultTextToSpeak": "hello",
+  "text2speech.giant": "obří",
+  "text2speech.kitten": "kotě",
+  "text2speech.setLanguageBlock": "nastavit jazyk na [LANGUAGE]",
+  "text2speech.setVoiceBlock": "nastav hlas na [VOICE]",
+  "text2speech.speakAndWaitBlock": "říct [WORDS]",
+  "text2speech.squeak": "kvičení",
+  "text2speech.tenor": "tenor"
+}

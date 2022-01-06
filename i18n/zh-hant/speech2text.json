@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "語音轉文字",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "語音轉文字",
+  "speech.listenAndWait": "聽並等待",
+  "speech.speechReporter": "語音",
+  "speech.whenIHear": "當我聽到 [PHRASE]"
+}

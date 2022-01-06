@@ -1,0 +1,11 @@
+{
+  "cyberpi_upload_message": "Feltöltési mód Broadcast",
+  "extensionName": "Feltöltési mód Broadcast",
+  "extensionDescription": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+  "BLOCK_1551748322055": "küld feltölt mód üzenet[message]",
+  "BLOCK_1551748500023": "küld feltölt mód üzenet[message] értékkel[value]",
+  "BLOCK_1551748632732": "a feltöltési módú üzenet fogadásakor [message]",
+  "BLOCK_1551748721826": "feltöltési mód-üzenet [message] Érték",
+  "cate_70548abe": "Feltöltési mód Broadcast",
+  "halocode_upload_message": "Feltöltési mód Broadcast"
+}

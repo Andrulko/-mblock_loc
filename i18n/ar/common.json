@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "نافذة التعرف",
+  "COGNITIVE.WINDOW.OPENED": "نافذة التعرف مفتوحة.",
+  "COGNITIVE.WINDOW.NOOPENED": "لا توجد نافذة التعرف مفتوحة. الرجاء فتح النافذة.",
+  "COGNITIVE.VIDEO.NOTFOUND": "لا يمكن الكشف عن أي كاميرا.",
+  "COGNITIVE.VIDEO.NOOPEN": "لم يتم تشغيل الكاميرا.",
+  "COGNITIVE.AUDIO.NOTFOUND": "لا يمكن الكشف عن ميكروفون.",
+  "COGNITIVE.AUDIO.NOOPEN": "لم يتم تشغيل الميكروفون.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "إدخال عن طريق التعرف على الكلام..."
+}

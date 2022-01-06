@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Окно распознавания",
+  "COGNITIVE.WINDOW.OPENED": "Окно распознавания открыто.",
+  "COGNITIVE.WINDOW.NOOPENED": "Распознавание неактивно. Пожалуйста, откройте окно распознавания.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Камера не обнаружена.",
+  "COGNITIVE.VIDEO.NOOPEN": "Ваша камера выключена.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Не удалось обнаружить микрофон.",
+  "COGNITIVE.AUDIO.NOOPEN": "Ваш микрофон выключен.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Ввод через распознавание речи..."
+}

@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "Văn bản sang giọng nói",
+  "text2speech.defaultTextToSpeak": "xin chào",
+  "text2speech.giant": "to lớn",
+  "text2speech.kitten": "mèo con",
+  "text2speech.setLanguageBlock": "ngôn ngữ thiết lập để [LANGUAGE]",
+  "text2speech.setVoiceBlock": "thiết lập giọng nói [VOICE]",
+  "text2speech.speakAndWaitBlock": "nói [WORDS]",
+  "text2speech.squeak": "tiếng chuột kêu",
+  "text2speech.tenor": "tiếng kèn teno"
+}

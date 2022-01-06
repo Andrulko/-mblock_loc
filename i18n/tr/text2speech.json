@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "Alto",
+  "text2speech.categoryName": "Metin konuşma",
+  "text2speech.defaultTextToSpeak": "merhaba",
+  "text2speech.giant": "Dev",
+  "text2speech.kitten": "Kedi yavrusu",
+  "text2speech.setLanguageBlock": "dil ayarlama [LANGUAGE]",
+  "text2speech.setVoiceBlock": "Ses ayarlama [VOICE]",
+  "text2speech.speakAndWaitBlock": "Konuşa [WORDS]",
+  "text2speech.squeak": "Squeak",
+  "text2speech.tenor": "Tenor"
+}

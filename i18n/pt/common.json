@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Janela de Reconhecimento",
+  "COGNITIVE.WINDOW.OPENED": "A janela de reconhecimento está aberta.",
+  "COGNITIVE.WINDOW.NOOPENED": "Nenhuma janela de reconhecimento está aberta. Por favor, abre a janela.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Nenhuma câmara detetada.",
+  "COGNITIVE.VIDEO.NOOPEN": "A tua câmara não está ligada",
+  "COGNITIVE.AUDIO.NOTFOUND": "Nenhum microfone detetado.",
+  "COGNITIVE.AUDIO.NOOPEN": "O teu microfone não está ligado.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Introduzindo via reconhecimento de voz..."
+}

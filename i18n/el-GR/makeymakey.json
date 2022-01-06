@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "κάτω βελάκι",
+  "makeymakey.downArrowShort": "κάτω",
+  "makeymakey.leftArrow": "αριστερό βελάκι",
+  "makeymakey.leftArrowShort": "αριστερά",
+  "makeymakey.rightArrow": "δεξί βελάκι",
+  "makeymakey.rightArrowShort": "δεξιά",
+  "makeymakey.spaceKey": "κενό",
+  "makeymakey.upArrow": "πάνω βελάκι",
+  "makeymakey.upArrowShort": "πάνω",
+  "makeymakey.whenKeyPressed": "when [KEY] key pressed",
+  "makeymakey.whenKeysPressedInOrder": "when [SEQUENCE] pressed in order"
+}

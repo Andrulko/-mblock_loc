@@ -1,0 +1,19 @@
+{
+  "cloud_messenge": "Sky-kringkasting",
+  "extensionName": "Bruker cloud melding",
+  "SEND_CLOUD_MSG": "send cloud melding[message]",
+  "SEND_CLOUD_MSG_VALUE": "send cloud melding[message]  med verdi [value]",
+  "WHEN_RECEIVE_CLOUD_MSG": "Når jeg mottar cloud melding [message]",
+  "GET_CLOUD_MSG_VALUE": "cloud meldings[message]verdi",
+  "cloud": "Sky-kringkasting",
+  "use_cloud_messenge": "Bruker cloud melding",
+  "CATE_U_C_MSG": "Bruker cloud melding",
+  "extensionDescription": "Med brukers cloud-meldings utvidelse kan du enkelt synkronisere data for kontoen din på tvers av ulike enheter og prosjekter.   ",
+  "SEND_USER_CLOUD_MSG": "Send brukers cloud melding[message]",
+  "SEND_USER_CLOUD_MSG_VALUE": "send brukers cloud melding[message] med verdi [value]",
+  "WHEN_RECEIVE_USER_CLOUD_MSG": "når jeg mottar brukers cloud-melding [message]",
+  "GET_USER_CLOUD_MSG_VALUE": "brukers cloud melding[message] verdi",
+  "user_cloud_message": "Bruker cloud melding",
+  "SEND_USER_CLOUD_MSG_WAIT": "send brukers cloud-melding[message] og vent",
+  "SEND_USER_CLOUD_MSG_VALUE_WAIT": "send brukers cloud-melding[message] med verdi[value] og vent"
+}

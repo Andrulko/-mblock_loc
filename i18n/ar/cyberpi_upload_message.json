@@ -1,0 +1,11 @@
+{
+  "cyberpi_upload_message": "رفع وضع البث",
+  "extensionName": "رفع وضع البث",
+  "extensionDescription": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+  "BLOCK_1551748322055": "إرسال رسالة وضع الرفع[message]",
+  "BLOCK_1551748500023": "إرسال رسالة وضع التحميل[message] مع قيمة[value]",
+  "BLOCK_1551748632732": "عند تلقي رسالة وضع التحميل [message]",
+  "BLOCK_1551748721826": "رسالة وضع التحميل [message] قيمه",
+  "cate_70548abe": "بث وضع التحميل",
+  "halocode_upload_message": "رفع وضع البث"
+}

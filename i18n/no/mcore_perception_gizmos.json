@@ -1,0 +1,22 @@
+{
+  "MCORE_RUN_FAN_PORT_0": "port1",
+  "extensionName": "Sensorer",
+  "extensionDescription": "I det femte mBot utvidelses prosjektet, kan du få tilgang til en rekke eksempler som hjelper deg å lære hvordan du bruker sensorer og mestre det grunnleggende om elektronikk.",
+  "MCORE_RUN_FAN_PORT_1": "port2",
+  "MCORE_RUN_FAN_PORT_2": "port3",
+  "MCORE_RUN_FAN_PORT_3": "port4",
+  "MCORE_RUN_FAN_FAN_ROTATE_0": "medurs",
+  "MCORE_RUN_FAN_FAN_ROTATE_1": "moturs",
+  "MCORE_RUN_FAN_FAN_ROTATE_2": "stopp",
+  "mcore_run_fan": "[ICON] vifte [PORT] [FAN_ROTATE] roterer",
+  "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "port3",
+  "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "port4",
+  "mcore_detect_external_loudness": "[ICON] lyd sensor [PORT] lydstyrke",
+  "MCORE_DETEC_TEMPERATURE_SLOT_0": "spor1",
+  "MCORE_DETEC_TEMPERATURE_SLOT_1": "spor2",
+  "mcore_detec_temperature": "[ICON]temperatur sensor [PORT] [SLOT] temperatur (°C)",
+  "mcore_detect_potentiometer": "[ICON] potensiometer[PORT] verdi",
+  "CATEGORY_CREATOR": "Sensorer",
+  "CATEGORY_PERCEPTION": "Gizmoer",
+  "mcore_perception_gizmos": "Sensorer"
+}

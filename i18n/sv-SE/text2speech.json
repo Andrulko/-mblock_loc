@@ -1,0 +1,12 @@
+{
+  "text2speech.alto": "alto",
+  "text2speech.categoryName": "Text to Speech",
+  "text2speech.defaultTextToSpeak": "hej",
+  "text2speech.giant": "giant",
+  "text2speech.kitten": "kitten",
+  "text2speech.setLanguageBlock": "set language to [LANGUAGE]",
+  "text2speech.setVoiceBlock": "set voice to [VOICE]",
+  "text2speech.speakAndWaitBlock": "speak [WORDS]",
+  "text2speech.squeak": "squeak",
+  "text2speech.tenor": "tenor"
+}

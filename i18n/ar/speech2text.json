@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "الكلام إلى النص",
+  "speech.defaultWhenIHearValue": "لنبدأ",
+  "speech.extensionName": "خطاب إلى نص",
+  "speech.listenAndWait": "اسمع وانتظر",
+  "speech.speechReporter": "النّطق",
+  "speech.whenIHear": "عندما أسمع [PHRASE]"
+}

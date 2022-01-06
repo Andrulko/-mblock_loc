@@ -1,0 +1,6 @@
+{
+  "translate.categoryName": "Translate",
+  "translate.defaultTextToTranslate": "kaixo",
+  "translate.translateBlock": "translate [WORDS] to [LANGUAGE]",
+  "translate.viewerLanguage": "language"
+}

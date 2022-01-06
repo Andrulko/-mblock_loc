@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "seta para baixo",
+  "makeymakey.downArrowShort": "baixo",
+  "makeymakey.leftArrow": "seta para a esquerda",
+  "makeymakey.leftArrowShort": "esquerda",
+  "makeymakey.rightArrow": "seta para a direita",
+  "makeymakey.rightArrowShort": "direita",
+  "makeymakey.spaceKey": "espaço",
+  "makeymakey.upArrow": "seta para cima",
+  "makeymakey.upArrowShort": "cima",
+  "makeymakey.whenKeyPressed": "Quando [KEY] tecla pressionada",
+  "makeymakey.whenKeysPressedInOrder": "Quando [SEQUENCE] pressionado em ordem"
+}

@@ -1,0 +1,22 @@
+{
+  "MCORE_RUN_FAN_PORT_0": "port1",
+  "extensionName": "الاستشعار عن الادوات",
+  "extensionDescription": "في مشاريع ملحق mBot 5 ، يمكنك الوصول إلى مجموعة متنوعة من الأمثلة التي تساعدك على تعلم كيفية استخدام أجهزة الاستشعار وإتقان أساسيات الإلكترونيات.",
+  "MCORE_RUN_FAN_PORT_1": "port2",
+  "MCORE_RUN_FAN_PORT_2": "port3",
+  "MCORE_RUN_FAN_PORT_3": "port4",
+  "MCORE_RUN_FAN_FAN_ROTATE_0": "عكس اتجاه عقارب الساعة",
+  "MCORE_RUN_FAN_FAN_ROTATE_1": "عكس عقارب الساعة",
+  "MCORE_RUN_FAN_FAN_ROTATE_2": "إيقاف",
+  "mcore_run_fan": "[ICON] مروحه [PORT] [FAN_ROTATE] تدور",
+  "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "port3",
+  "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "port4",
+  "mcore_detect_external_loudness": "[ICON] مستشعر الصوت [PORT] بريق",
+  "MCORE_DETEC_TEMPERATURE_SLOT_0": "الفتحة1",
+  "MCORE_DETEC_TEMPERATURE_SLOT_1": "الفتحة2",
+  "mcore_detec_temperature": "[ICON]استشعار درجة الحرارة [PORT] [SLOT] القيمة (℃)",
+  "mcore_detect_potentiometer": "[ICON] الجهد [PORT] قيمه",
+  "CATEGORY_CREATOR": "الاستشعار عن الادوات",
+  "CATEGORY_PERCEPTION": "الادوات",
+  "mcore_perception_gizmos": "الاستشعار عن الادوات"
+}

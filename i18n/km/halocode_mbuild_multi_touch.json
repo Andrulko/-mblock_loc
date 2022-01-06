@@ -1,0 +1,19 @@
+{
+  "halocode_mbuild_multi_touch": "Multi-Touch",
+  "extensionName": "Multi-Touch",
+  "extensionDescription": "",
+  "BLOCK_1559810784185_INDEX_0": "១",
+  "BLOCK_1559810784185_INDEX_1": "២",
+  "BLOCK_1559810784185_INDEX_2": "៣",
+  "BLOCK_1559810784185_INDEX_3": "៤",
+  "BLOCK_1559810784185_INDEX_4": "៥",
+  "BLOCK_1559810784185_INDEX_5": "៦",
+  "BLOCK_1559810784185_INDEX_6": "៧",
+  "BLOCK_1559810784185_INDEX_7": "៨",
+  "BLOCK_1559810784185": "multi-touch [index] ចំណុចទំនាក់ទំនង [tp_num] ត្រូវបានប៉ះ?",
+  "BLOCK_1559811080887_SENSITIVITY_0": "ខ្ពស់",
+  "BLOCK_1559811080887_SENSITIVITY_1": "មធ្យម",
+  "BLOCK_1559811080887_SENSITIVITY_2": "ទាប",
+  "BLOCK_1559811080887": "multi-touch [index] កំណត់កម្រិតចាប់ផ្ដើមឡើងវិញ, កំណត់ភាពប្រែប្រួល [sensitivity]",
+  "cate_1ea2e630": "Multi-Touch"
+}

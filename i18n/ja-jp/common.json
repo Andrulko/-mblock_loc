@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "にんしきがめん",
+  "COGNITIVE.WINDOW.OPENED": "にんしきがめんがあらわれました。",
+  "COGNITIVE.WINDOW.NOOPENED": "にんしきがめんがあらわれていません。きどうしてください。",
+  "COGNITIVE.VIDEO.NOTFOUND": "カメラはけんしゅつされません。",
+  "COGNITIVE.VIDEO.NOOPEN": "カメラがまだきどうしていません。",
+  "COGNITIVE.AUDIO.NOTFOUND": "マイクをけんしゅつできません",
+  "COGNITIVE.AUDIO.NOOPEN": "マイクがきどうしていません。",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "おんせいにんしきけっかをにゅうりょくちゅう…"
+}

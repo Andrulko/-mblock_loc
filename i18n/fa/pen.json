@@ -1,0 +1,21 @@
+{
+  "pen.name": "خودکار",
+  "pen.categoryName": "خودکار",
+  "pen.colorMenu.color": "رنگ",
+  "pen.colorMenu.saturation": "اشباع",
+  "pen.colorMenu.brightness": "روشنایی",
+  "pen.colorMenu.transparency": "شفافیت",
+  "pen.clear": "پاک کردن همه",
+  "pen.stamp": "تمبر",
+  "pen.penDown": "قلم پایین",
+  "pen.penUp": "قلم بالا",
+  "pen.setColor": "تنظیم رنگ قلم به [COLOR]",
+  "pen.changeColorParam": "تغییر قلم [COLOR_PARAM] توسط [VALUE]",
+  "pen.setColorParam": "تنظیم قلم [COLOR_PARAM] به [VALUE]",
+  "pen.changeSize": "تغییر اندازه قلم به [SIZE]",
+  "pen.setSize": "تنظیم اندازه قلم به [SIZE]",
+  "pen.setShade": "تنظیم سایه قلم به[SHADE]",
+  "pen.changeShade": "تغییر سایه قلم به [SHADE]",
+  "pen.setHue": "تنظیم رنگ قلم به [HUE]",
+  "pen.changeHue": "تغییر رنگ قلم با [HUE]"
+}

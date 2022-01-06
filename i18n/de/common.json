@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Erkennungs-Fenster",
+  "COGNITIVE.WINDOW.OPENED": "Das Erkennungs-Fenster ist geöffnet.",
+  "COGNITIVE.WINDOW.NOOPENED": "Kein Erkennungs-Fenster ist geöffnet. Bitte öffnen Sie das Fenster.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Es wurde keine Kamera erkannt.",
+  "COGNITIVE.VIDEO.NOOPEN": "Ihre Kamera ist nicht bereit",
+  "COGNITIVE.AUDIO.NOTFOUND": "Kein Mikrofon erkannt,",
+  "COGNITIVE.AUDIO.NOOPEN": "Dein Mikrophon ist nicht aktiviert.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Eingabe via Spracherkennung..."
+}

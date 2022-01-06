@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "Puhe tekstiksi",
+  "speech.defaultWhenIHearValue": "let''s go",
+  "speech.extensionName": "Puhe tekstiksi",
+  "speech.listenAndWait": "kuunnella ja odottaa",
+  "speech.speechReporter": "puhe",
+  "speech.whenIHear": "kun kuulen [PHRASE]"
+}

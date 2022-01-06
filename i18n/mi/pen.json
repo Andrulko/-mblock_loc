@@ -1,0 +1,21 @@
+{
+  "pen.name": "Pene",
+  "pen.categoryName": "Pene",
+  "pen.colorMenu.color": "kara",
+  "pen.colorMenu.saturation": "saturation",
+  "pen.colorMenu.brightness": "tīahonga",
+  "pen.colorMenu.transparency": "transparency",
+  "pen.clear": "erase all",
+  "pen.stamp": "stamp",
+  "pen.penDown": "pen down",
+  "pen.penUp": "pen up",
+  "pen.setColor": "set pen color to [COLOR]",
+  "pen.changeColorParam": "change pen [COLOR_PARAM] by [VALUE]",
+  "pen.setColorParam": "set pen [COLOR_PARAM] to [VALUE]",
+  "pen.changeSize": "change pen size by [SIZE]",
+  "pen.setSize": "set pen size to [SIZE]",
+  "pen.setShade": "set pen shade to [SHADE]",
+  "pen.changeShade": "change pen shade by [SHADE]",
+  "pen.setHue": "set pen color to [HUE]",
+  "pen.changeHue": "change pen color by [HUE]"
+}

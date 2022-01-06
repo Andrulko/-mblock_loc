@@ -1,0 +1,8 @@
+{
+  "speech.categoryName": "音声からテキストへ",
+  "speech.defaultWhenIHearValue": "開始",
+  "speech.extensionName": "音声からテキストへ",
+  "speech.listenAndWait": "聞いて待つ",
+  "speech.speechReporter": "音声",
+  "speech.whenIHear": "[PHRASE] を聞いたとき"
+}

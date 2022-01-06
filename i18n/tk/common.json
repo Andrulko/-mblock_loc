@@ -1,0 +1,10 @@
+{
+  "COGNITIVE.WINDOW.TITLE": "Kesgitleýiş penjiresi",
+  "COGNITIVE.WINDOW.OPENED": "Kesgitleýiş penjiresi açyldy.",
+  "COGNITIVE.WINDOW.NOOPENED": "Kesgitleýiş penjiresi açylmady. Penjiräni açyň.",
+  "COGNITIVE.VIDEO.NOTFOUND": "Kamera anyklanmady.",
+  "COGNITIVE.VIDEO.NOOPEN": "Siziň kameraňyz işledilmändir.",
+  "COGNITIVE.AUDIO.NOTFOUND": "Mikrofon anyklanmady.",
+  "COGNITIVE.AUDIO.NOOPEN": "Siziň mikrofonyňyz işledilmändir.",
+  "COGNITIVE.AUDIO.LOADING.TEXT": "Gepleşik kesgitleýji arkaly girilýär..."
+}

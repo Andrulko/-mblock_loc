@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "strzałka w dół",
+  "makeymakey.downArrowShort": "dół",
+  "makeymakey.leftArrow": "strzałka w lewo",
+  "makeymakey.leftArrowShort": "lewo",
+  "makeymakey.rightArrow": "strzałka w prawo",
+  "makeymakey.rightArrowShort": "prawo",
+  "makeymakey.spaceKey": "spacja",
+  "makeymakey.upArrow": "strzałka w górę",
+  "makeymakey.upArrowShort": "góra",
+  "makeymakey.whenKeyPressed": "Kiedy [KEY] naciśnięciu przycisku",
+  "makeymakey.whenKeysPressedInOrder": "Kiedy [SEQUENCE] wciśnięty w celu"
+}

@@ -1,0 +1,14 @@
+{
+  "makeymakey.categoryName": "Makey Makey",
+  "makeymakey.downArrow": "חץ למטה",
+  "makeymakey.downArrowShort": "למטה",
+  "makeymakey.leftArrow": "חץ שמאלי",
+  "makeymakey.leftArrowShort": "שמאל",
+  "makeymakey.rightArrow": "חץ ימני",
+  "makeymakey.rightArrowShort": "ימין",
+  "makeymakey.spaceKey": "מרחק מירווח",
+  "makeymakey.upArrow": "חץ למעלה",
+  "makeymakey.upArrowShort": "למעלה",
+  "makeymakey.whenKeyPressed": "כאשר [KEY] כפתור נלחץ",
+  "makeymakey.whenKeysPressedInOrder": "כאשר [SEQUENCE] נלחץ לפי הסדר"
+}

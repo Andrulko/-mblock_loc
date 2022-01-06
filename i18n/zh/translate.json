@@ -1,0 +1,6 @@
+{
+    "translate.categoryName": "翻译",
+    "translate.defaultTextToTranslate": "你好",
+    "translate.translateBlock": "将 [WORDS] 译为 [LANGUAGE]",
+    "translate.viewerLanguage": "访客语言"
+}
